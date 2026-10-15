@@ -68,7 +68,7 @@ function nav(active) {
 }
 
 function brand(extra = '') {
-  return `<a href="/" class="brand ${extra}" aria-label="Dapple Goods home">${LOGO}<span class="brand-text"><span class="brand-name">Dapple Goods</span><span class="brand-sub">Dapple Dog Goods · Est. 2026</span></span></a>`;
+  return `<a href="/" class="brand ${extra}" aria-label="Dapple Goods home">${LOGO}<span class="brand-text"><span class="brand-name">Dapple Goods</span><span class="brand-sub">Dapple Dog Goods</span></span></a>`;
 }
 
 function layout({ title, body, active, description, image }) {
