@@ -57,10 +57,10 @@ function nav(active) {
   const item = (href, label, key) => `<a href="${href}" class="${active === key ? 'active' : ''}">${label}</a>`;
   return `
   <nav class="main-nav" id="main-nav" aria-label="Main">
-    <div class="container nav-inner">
+    <div class="nav-inner">
       ${item('/shop', 'Shop All', 'shop')}
       ${item('/collections/new', 'New', 'new')}
-      ${liveCats().map((c) => item(`/category/${c.slug}`, esc(c.name), c.slug)).join('')}
+      ${liveCats().map((c) => item(`/category/${c.slug}`, esc(c.short || c.name), c.slug)).join('')}
       ${item('/collections/long-dog', 'Long Dogs', 'long-dog')}
       ${item('/brands', 'Brands', 'brands')}
     </div>
@@ -68,7 +68,7 @@ function nav(active) {
 }
 
 function brand(extra = '') {
-  return `<a href="/" class="brand ${extra}" aria-label="Dapple Goods home">${LOGO}<span class="brand-text"><span class="brand-name">Dapple Goods</span><span class="brand-sub">Dapple Dog Goods</span></span></a>`;
+  return `<a href="/" class="brand ${extra}" aria-label="Dapple Goods home"><span class="logo-badge">${LOGO}</span><span class="brand-name">dapple<b>goods</b></span></a>`;
 }
 
 function layout({ title, body, active, description, image }) {
@@ -84,29 +84,26 @@ function layout({ title, body, active, description, image }) {
 <link rel="icon" href="/img/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT@9..144,400..700,100&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-<div class="announce">
-  <div class="container announce-inner">
-    <span>${ICON.truck} Free shipping across Canada on orders over ${money(SHIPPING.freeOver)}</span>
-    <span class="hide-sm">${ICON.paw} Toys, treats &amp; gear for every spot</span>
-  </div>
+<div class="announce" aria-label="Announcements">
+  <div class="marquee">${Array(2).fill(`<span>Free shipping over ${money(SHIPPING.freeOver)} across Canada</span><span>${ICON.paw}</span><span>Long-dog approved gear</span><span>${ICON.paw}</span><span>Toys, treats &amp; chews (never dog food)</span><span>${ICON.paw}</span><span>30-day returns</span><span>${ICON.paw}</span>`).join('')}</div>
 </div>
 <header class="site-header">
   <div class="container header-inner">
     <button class="icon-btn nav-toggle" aria-label="Menu" aria-controls="main-nav" aria-expanded="false">${ICON.menu}</button>
     ${brand()}
-    <form class="search" action="/search" role="search">
-      <input name="q" placeholder="Search toys, treats, brands…" aria-label="Search">
-      <button aria-label="Search">${ICON.search}</button>
-    </form>
+    ${nav(active)}
     <div class="header-actions">
+      <form class="search" action="/search" role="search">
+        <input name="q" placeholder="Search" aria-label="Search">
+        <button aria-label="Search">${ICON.search}</button>
+      </form>
       <button class="icon-btn cart-btn" data-open-cart aria-label="Open bag">${ICON.bag}<span class="cart-count" data-cart-count>0</span></button>
     </div>
   </div>
-  ${nav(active)}
 </header>
 <main>
 ${body}
@@ -225,13 +222,18 @@ function home() {
   return layout({
     body: `
   <section class="hero">
-    <div class="hero-media" style="background-image:url('${esc(brandImage('hero'))}')"></div>
-    <div class="container hero-inner">
+    <div class="container hero-grid">
       <div class="hero-copy">
         <p class="kicker">Toys · Treats · Gear</p>
-        <h1>Goods for every <span class="spot-word">spot</span>.</h1>
+        <h1>Goods for every <span class="spot-word">spot.</span></h1>
         <p class="lead">Squeaky toys, good-for-them treats and comfy everyday gear for your dog, with a soft spot for long, low dachshunds.</p>
-        <div class="hero-ctas"><a href="/shop" class="btn btn-primary">Shop All</a><a href="/collections/long-dog" class="btn btn-outline">Made for Long Dogs</a></div>
+        <div class="hero-ctas"><a href="/shop" class="btn btn-primary">Shop all ${ICON.arrow}</a><a href="/collections/long-dog" class="btn btn-outline">Made for long dogs</a></div>
+        <ul class="hero-points"><li>${ICON.truck} Free shipping over ${money(SHIPPING.freeOver)}</li><li>${ICON.return} 30-day returns</li></ul>
+      </div>
+      <div class="hero-art">
+        <img src="${esc(brandImage('hero'))}" alt="A dapple dachshund on a sherpa blanket with a rope toy">
+        <span class="sticker s1">${ICON.paw} Long-dog<br>approved</span>
+        <span class="sticker s2">60+ goods<br>for good dogs</span>
       </div>
     </div>
   </section>
@@ -239,7 +241,7 @@ function home() {
   <section class="section cats">
     <div class="container">
       <div class="cat-row">
-        ${cats.map((c) => `<a href="/category/${c.slug}" class="cat"><span class="cat-img"><img src="${esc(imgOf(c.p))}"${fb(c.p)} alt="" loading="lazy"></span><span>${esc(c.name)}</span></a>`).join('')}
+        ${cats.map((c) => `<a href="/category/${c.slug}" class="cat"><span class="cat-img"><img src="${esc(imgOf(c.p))}"${fb(c.p)} alt="" loading="lazy"></span><span>${esc(c.name)} ${ICON.arrow}</span></a>`).join('')}
       </div>
     </div>
   </section>

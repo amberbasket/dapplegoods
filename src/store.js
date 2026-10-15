@@ -57,12 +57,12 @@ let subscribers = readJson(SUBSCRIBERS_FILE, []);
 
 const CATEGORIES = [
   { slug: 'toys', name: 'Toys', blurb: 'Squeakers, chews, fetch gear and puzzles to keep busy dogs busy.' },
-  { slug: 'treats', name: 'Treats & Chews', blurb: 'Training bites, biscuits, dental chews and long-lasting chews. (We don’t sell dog food.)' },
+  { slug: 'treats', name: 'Treats & Chews', short: 'Treats', blurb: 'Training bites, biscuits, dental chews and long-lasting chews. (We don’t sell dog food.)' },
   { slug: 'walk', name: 'Walk', blurb: 'Harnesses, collars, leashes and tags for every walk.' },
-  { slug: 'home', name: 'Beds & Home', blurb: 'Burrow beds, blankets, bowls and pet stairs.' },
+  { slug: 'home', name: 'Beds & Home', short: 'Beds', blurb: 'Burrow beds, blankets, bowls and pet stairs.' },
   { slug: 'apparel', name: 'Apparel', blurb: 'Sweaters, raincoats, boots and bandanas, many cut for long dogs.' },
   { slug: 'grooming', name: 'Grooming', blurb: 'Brushes, shampoo, wipes, nail and dental care.' },
-  { slug: 'travel', name: 'Travel & Outdoors', blurb: 'Carriers, car seats, life jackets and poop bags.' },
+  { slug: 'travel', name: 'Travel & Outdoors', short: 'Travel', blurb: 'Carriers, car seats, life jackets and poop bags.' },
 ];
 
 const COLLECTIONS = [

@@ -15,9 +15,13 @@ npm run dev            # http://localhost:3000, admin password "dapple"
 
 - **Name:** Dapple Goods (Dapple Dog Goods). "Dapple" is the spotted coat pattern found in dachshunds.
 - **Tagline:** "Goods for every spot."
-- **Colours:** chocolate `#3b2a20`, tan `#b8642f`, honey `#e4b27c`, silver `#c9c1b5`, cream `#faf5ee` (see `public/css/style.css`).
-- **Type:** Fraunces (soft) for headings, DM Sans for text.
-- **Logo:** a dapple dachshund in profile, drawn in SVG in `src/views.js` (`LOGO`) and `public/img/favicon.svg`.
+- **Look:** bright and playful, on purpose unlike Amber Basket and Cedar Bundle: one-row header, scrolling butter-yellow
+  announcement bar, split hero with sticker badges, pastel category tiles, rounded everything.
+- **Colours:** tomato `#ff5a36`, ink `#231a15`, butter `#ffd56b`, sky `#cfe8ff`, peach, mint, cream `#fffaf3`
+  (see the top of `public/css/style.css`).
+- **Type:** Bricolage Grotesque (extra bold) for headings and the wordmark, Figtree for text.
+- **Logo:** lowercase "dapple**goods**" wordmark beside a tilted tomato badge with a spotted dachshund, drawn in SVG
+  in `src/views.js` (`LOGO`) and `public/img/favicon.svg`.
 - **Angle:** "Made for Long Dogs": back-friendly harnesses, pet stairs, burrow beds and sweaters cut for long bodies.
 
 ## What's included
