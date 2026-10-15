@@ -1,0 +1,1353 @@
+[
+  {
+    "id": "1",
+    "slug": "kong-classic-dog-toy",
+    "name": "KONG Classic Dog Toy",
+    "brand": "KONG",
+    "category": "toys",
+    "price": 15.99,
+    "compareAt": null,
+    "stock": 40,
+    "image": "/img/products/kong-classic-dog-toy.jpg",
+    "images": [],
+    "description": "The red rubber chew that’s been in toy boxes for decades. It bounces in odd directions for fetch, and the hollow middle takes peanut butter, kibble or a smear of pumpkin, so it doubles as a slow treat puzzle. Freeze it stuffed for a longer-lasting chew.",
+    "details": [
+      "Natural rubber, dishwasher safe (top rack)",
+      "Sizes: Small (dogs up to 9 kg) and Medium (7 to 16 kg)",
+      "Stuff with treats or spreads; freeze for longer chewing",
+      "Always supervise play"
+    ],
+    "tags": [
+      "best"
+    ],
+    "createdAt": "2026-10-01T12:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "slug": "kong-wild-knots-bear",
+    "name": "KONG Wild Knots Bear",
+    "brand": "KONG",
+    "category": "toys",
+    "price": 14.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/kong-wild-knots-bear.jpg",
+    "images": [],
+    "description": "A soft plush bear with a knotted rope skeleton inside, so it holds up to tugging and shaking longer than a regular stuffed toy. Minimal stuffing means less mess if it does get opened up.",
+    "details": [
+      "Plush outer with internal knotted rope",
+      "Minimal stuffing",
+      "Small/Medium size, about 28 cm",
+      "Not a chew toy; supervise play"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "slug": "chuckit-ultra-ball-2-pack",
+    "name": "Chuckit! Ultra Ball, 2 Pack",
+    "brand": "Chuckit!",
+    "category": "toys",
+    "price": 11.99,
+    "compareAt": null,
+    "stock": 50,
+    "image": "/img/products/chuckit-ultra-ball-2-pack.jpg",
+    "images": [],
+    "description": "High-bounce rubber balls in bright orange and blue that are easy to spot in the grass and float in water. The thick rubber stands up to rough fetch better than tennis balls, and they rinse clean.",
+    "details": [
+      "Natural rubber, floats",
+      "Medium size, 6.4 cm, fits Chuckit! launchers",
+      "Two balls per pack",
+      "Not a chew toy"
+    ],
+    "tags": [
+      "best"
+    ],
+    "createdAt": "2026-10-01T14:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "slug": "chuckit-classic-ball-launcher",
+    "name": "Chuckit! Classic Ball Launcher",
+    "brand": "Chuckit!",
+    "category": "toys",
+    "price": 17.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/chuckit-classic-ball-launcher.jpg",
+    "images": [],
+    "description": "Throw farther without the slobbery hands. The launcher scoops the ball off the ground and flings it two or three times as far as an arm can, which tires out even the most dedicated fetcher. Comes with one ball.",
+    "details": [
+      "18 inch (46 cm) length",
+      "Fits medium 6.4 cm balls",
+      "Includes one ball",
+      "Pick up the ball hands-free"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-01T15:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "slug": "benebone-wishbone-chew-bacon",
+    "name": "Benebone Wishbone Chew, Bacon",
+    "brand": "Benebone",
+    "category": "toys",
+    "price": 19.99,
+    "compareAt": 22.99,
+    "stock": 30,
+    "image": "/img/products/benebone-wishbone-chew-bacon.jpg",
+    "images": [],
+    "description": "A wishbone-shaped chew made for dogs who mean it. The three-legged shape lifts one end off the floor so paws can hold it in place, and real bacon flavour is baked right in. Made in the USA.",
+    "details": [
+      "Nylon with real bacon flavour",
+      "Small (for dogs up to 14 kg) or Medium",
+      "Replace when worn down or rough",
+      "Supervise chewing"
+    ],
+    "tags": [
+      "best"
+    ],
+    "createdAt": "2026-10-01T16:00:00.000Z"
+  },
+  {
+    "id": "6",
+    "slug": "nylabone-power-chew-textured-bone",
+    "name": "Nylabone Power Chew Textured Bone",
+    "brand": "Nylabone",
+    "category": "toys",
+    "price": 12.99,
+    "compareAt": null,
+    "stock": 35,
+    "image": "/img/products/nylabone-power-chew-textured-bone.jpg",
+    "images": [],
+    "description": "A long-lasting bone with raised bristles that help scrub teeth as your dog chews. Good for strong chewers who go through softer toys in an afternoon.",
+    "details": [
+      "Durable nylon, chicken flavour",
+      "Regular size for dogs up to 11 kg",
+      "Textured nubs help clean teeth",
+      "Replace when knuckles are worn down"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-01T17:00:00.000Z"
+  },
+  {
+    "id": "7",
+    "slug": "lamb-chop-plush-toy",
+    "name": "Lamb Chop Plush Toy",
+    "brand": "Multipet",
+    "category": "toys",
+    "price": 9.99,
+    "compareAt": null,
+    "stock": 40,
+    "image": "/img/products/lamb-chop-plush-toy.jpg",
+    "images": [],
+    "description": "The fluffy white lamb with the big eyelashes, a favourite of small dogs everywhere. It squeaks, it’s soft enough to carry around and nap with, and it’s the right size for little mouths.",
+    "details": [
+      "Plush with squeaker",
+      "Small, about 15 cm",
+      "Machine washable on gentle",
+      "Not for heavy chewers"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-01T18:00:00.000Z"
+  },
+  {
+    "id": "8",
+    "slug": "zippypaws-skinny-peltz-no-stuffing-toys-3-pack",
+    "name": "ZippyPaws Skinny Peltz No-Stuffing Toys, 3 Pack",
+    "brand": "ZippyPaws",
+    "category": "toys",
+    "price": 14.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/zippypaws-skinny-peltz-no-stuffing-toys-3-pack.jpg",
+    "images": [],
+    "description": "Three flat woodland friends, a fox, a raccoon and a squirrel, with no stuffing to pull out and squeakers in the head and tail. Perfect for dogs who love to shake and “kill” their toys.",
+    "details": [
+      "No stuffing",
+      "Squeakers in head and tail",
+      "Medium, about 45 cm long each",
+      "Supervise play"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-01T19:00:00.000Z"
+  },
+  {
+    "id": "9",
+    "slug": "outward-hound-hide-a-squirrel-puzzle",
+    "name": "Outward Hound Hide-A-Squirrel Puzzle",
+    "brand": "Outward Hound",
+    "category": "toys",
+    "price": 24.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/outward-hound-hide-a-squirrel-puzzle.jpg",
+    "images": [],
+    "description": "A plush tree trunk with three squeaky squirrels hiding inside. Your dog gets to dig them out, which scratches the same itch that sends dachshunds into gopher holes. Refill and repeat.",
+    "details": [
+      "Plush trunk with 3 squeaky squirrels",
+      "Medium size",
+      "Great for burrowers and diggers",
+      "Surface wash"
+    ],
+    "tags": [
+      "best",
+      "long-dog"
+    ],
+    "createdAt": "2026-10-01T20:00:00.000Z"
+  },
+  {
+    "id": "10",
+    "slug": "nina-ottosson-dog-brick-puzzle",
+    "name": "Nina Ottosson Dog Brick Puzzle",
+    "brand": "Outward Hound",
+    "category": "toys",
+    "price": 29.99,
+    "compareAt": 34.99,
+    "stock": 20,
+    "image": "/img/products/nina-ottosson-dog-brick-puzzle.jpg",
+    "images": [],
+    "description": "A treat puzzle with sliding blocks and flip-up lids. Hide treats in the compartments and let your dog work out how to reach them. Ten minutes of puzzle time is as tiring as a long walk.",
+    "details": [
+      "Level 2 (intermediate)",
+      "Dishwasher safe (top rack)",
+      "BPA, PVC and phthalate free",
+      "Use with supervision"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-01T21:00:00.000Z"
+  },
+  {
+    "id": "11",
+    "slug": "godog-dragon-with-chew-guard",
+    "name": "GoDog Dragon with Chew Guard",
+    "brand": "GoDog",
+    "category": "toys",
+    "price": 21.99,
+    "compareAt": null,
+    "stock": 20,
+    "image": "/img/products/godog-dragon-with-chew-guard.jpg",
+    "images": [],
+    "description": "A goofy plush dragon with Chew Guard lining that makes it tougher than a regular stuffed toy. Squeakers inside keep it interesting.",
+    "details": [
+      "Chew Guard Technology lining",
+      "Two squeakers",
+      "Small size",
+      "Not indestructible; supervise play"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-01T22:00:00.000Z"
+  },
+  {
+    "id": "12",
+    "slug": "west-paw-zogoflex-tux-treat-toy",
+    "name": "West Paw Zogoflex Tux Treat Toy",
+    "brand": "West Paw",
+    "category": "toys",
+    "price": 24.99,
+    "compareAt": null,
+    "stock": 20,
+    "image": "/img/products/west-paw-zogoflex-tux-treat-toy.jpg",
+    "images": [],
+    "description": "A bouncy, chew-resistant treat toy with a deep pocket for stuffing. Squeeze in treats and watch your dog work them out. It floats, it’s recyclable, and West Paw replaces it once if your dog chews through it.",
+    "details": [
+      "Zogoflex material, BPA and latex free",
+      "Floats",
+      "Dishwasher safe",
+      "Small, 10 cm"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-01T23:00:00.000Z"
+  },
+  {
+    "id": "13",
+    "slug": "frank-the-dapple-plush",
+    "name": "Frank the Dapple Plush",
+    "brand": "Dapple Goods",
+    "category": "toys",
+    "price": 16,
+    "compareAt": null,
+    "stock": 40,
+    "image": "/img/products/frank-the-dapple-plush.jpg",
+    "images": [],
+    "description": "Our mascot in squeaky form: a long, low dachshund plush with a soft dapple coat of chocolate and silver spots. He has a squeaker in his belly and a crinkle tail, and he’s exactly the size a little dog likes to carry around.",
+    "details": [
+      "Plush with squeaker and crinkle tail",
+      "About 35 cm long",
+      "Machine washable on gentle",
+      "Not for heavy chewers"
+    ],
+    "tags": [
+      "new",
+      "best",
+      "house",
+      "long-dog"
+    ],
+    "createdAt": "2026-10-02T00:00:00.000Z"
+  },
+  {
+    "id": "14",
+    "slug": "long-dog-rope-tug",
+    "name": "Long Dog Rope Tug",
+    "brand": "Dapple Goods",
+    "category": "toys",
+    "price": 14,
+    "compareAt": null,
+    "stock": 35,
+    "image": "/img/products/long-dog-rope-tug.jpg",
+    "images": [],
+    "description": "A thick braided cotton rope in our chocolate, tan and cream dapple colours, with knots at each end for tug and fetch. Chewing on the strands helps floss teeth.",
+    "details": [
+      "100% cotton rope",
+      "About 45 cm",
+      "Machine washable, air dry",
+      "Replace if strands start to come loose"
+    ],
+    "tags": [
+      "new",
+      "house"
+    ],
+    "createdAt": "2026-10-02T01:00:00.000Z"
+  },
+  {
+    "id": "15",
+    "slug": "petstages-dogwood-stick",
+    "name": "Petstages Dogwood Stick",
+    "brand": "Petstages",
+    "category": "toys",
+    "price": 13.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/petstages-dogwood-stick.jpg",
+    "images": [],
+    "description": "All the fun of a stick without the splinters. It has a real wood scent dogs love and is made from wood fibre and synthetic material that won’t shatter in their mouth.",
+    "details": [
+      "Made in part from real wood",
+      "Will not splinter",
+      "Small size, 18 cm",
+      "Supervise chewing"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-02T02:00:00.000Z"
+  },
+  {
+    "id": "16",
+    "slug": "jw-hol-ee-roller-ball",
+    "name": "JW Hol-ee Roller Ball",
+    "brand": "JW Pet",
+    "category": "toys",
+    "price": 12.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/jw-hol-ee-roller-ball.jpg",
+    "images": [],
+    "description": "A stretchy rubber ball full of holes. Toss it, tug it, or stuff a soft toy or treats inside for a quick puzzle.",
+    "details": [
+      "Natural rubber",
+      "Small, 9 cm",
+      "Floats",
+      "Dishwasher safe"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-02T03:00:00.000Z"
+  },
+  {
+    "id": "17",
+    "slug": "greenies-original-dental-treats-teenie",
+    "name": "Greenies Original Dental Treats, Teenie",
+    "brand": "Greenies",
+    "category": "treats",
+    "price": 24.99,
+    "compareAt": null,
+    "stock": 40,
+    "image": "/img/products/greenies-original-dental-treats-teenie.jpg",
+    "images": [],
+    "description": "The toothbrush-shaped dental chew that many vets recommend. The chewy texture scrubs away plaque and tartar while your dog enjoys a treat, and Teenie size is right for small dogs from 2 to 7 kg.",
+    "details": [
+      "Teenie size, for dogs 2 to 7 kg",
+      "One treat a day",
+      "Not for puppies under 6 months",
+      "Always provide fresh water"
+    ],
+    "tags": [
+      "best"
+    ],
+    "createdAt": "2026-10-02T04:00:00.000Z"
+  },
+  {
+    "id": "18",
+    "slug": "milk-bone-original-biscuits-small",
+    "name": "Milk-Bone Original Biscuits, Small",
+    "brand": "Milk-Bone",
+    "category": "treats",
+    "price": 8.99,
+    "compareAt": null,
+    "stock": 40,
+    "image": "/img/products/milk-bone-original-biscuits-small.jpg",
+    "images": [],
+    "description": "The classic crunchy bone-shaped biscuit. Crunchy texture helps reduce tartar build-up, and small biscuits are sized for small and medium dogs.",
+    "details": [
+      "Small biscuits for dogs 9 to 22 kg",
+      "Fortified with vitamins and minerals",
+      "Feed as a treat alongside a complete diet",
+      "700 g box"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-02T05:00:00.000Z"
+  },
+  {
+    "id": "19",
+    "slug": "zukes-mini-naturals-peanut-butter-training-treats",
+    "name": "Zuke’s Mini Naturals Peanut Butter Training Treats",
+    "brand": "Zuke’s",
+    "category": "treats",
+    "price": 9.99,
+    "compareAt": null,
+    "stock": 40,
+    "image": "/img/products/zukes-mini-naturals-peanut-butter-training-treats.jpg",
+    "images": [],
+    "description": "Tiny, soft training treats that are easy to break and quick to eat, so training keeps moving. Under 3 calories each, so you can reward often.",
+    "details": [
+      "Under 3 calories per treat",
+      "Made without corn, wheat or soy",
+      "Soft and chewy",
+      "170 g pouch"
+    ],
+    "tags": [
+      "best"
+    ],
+    "createdAt": "2026-10-02T06:00:00.000Z"
+  },
+  {
+    "id": "20",
+    "slug": "blue-bits-soft-moist-training-treats-salmon",
+    "name": "Blue Bits Soft-Moist Training Treats, Salmon",
+    "brand": "Blue Buffalo",
+    "category": "treats",
+    "price": 9.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/blue-bits-soft-moist-training-treats-salmon.jpg",
+    "images": [],
+    "description": "Soft, salmon-flavoured training bites with DHA. Small enough to hand out by the dozen during a training session.",
+    "details": [
+      "Real salmon is the first ingredient",
+      "No chicken or poultry by-product meals",
+      "Soft-moist texture",
+      "113 g bag"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-02T07:00:00.000Z"
+  },
+  {
+    "id": "21",
+    "slug": "old-mother-hubbard-p-nuttier-biscuits-mini",
+    "name": "Old Mother Hubbard P-Nuttier Biscuits, Mini",
+    "brand": "Old Mother Hubbard",
+    "category": "treats",
+    "price": 9.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/old-mother-hubbard-p-nuttier-biscuits-mini.jpg",
+    "images": [],
+    "description": "Oven-baked crunchy biscuits made with peanut butter and baked slowly for real crunch. Minis are the right size for small dogs and training.",
+    "details": [
+      "Oven baked",
+      "Mini size",
+      "Made with natural ingredients",
+      "567 g bag"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-02T08:00:00.000Z"
+  },
+  {
+    "id": "22",
+    "slug": "crumps-naturals-sweet-potato-chews",
+    "name": "Crumps’ Naturals Sweet Potato Chews",
+    "brand": "Crumps’ Naturals",
+    "category": "treats",
+    "price": 14.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/crumps-naturals-sweet-potato-chews.jpg",
+    "images": [],
+    "description": "Slices of sweet potato, slowly dried until chewy. One ingredient, made in Canada, and a good pick for dogs with sensitive tummies.",
+    "details": [
+      "Single ingredient: sweet potato",
+      "Made in Canada",
+      "Grain free",
+      "330 g bag"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-02T09:00:00.000Z"
+  },
+  {
+    "id": "23",
+    "slug": "bocces-bakery-pumpkin-pie-biscuits",
+    "name": "Bocce’s Bakery Pumpkin Pie Biscuits",
+    "brand": "Bocce’s Bakery",
+    "category": "treats",
+    "price": 11.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/bocces-bakery-pumpkin-pie-biscuits.jpg",
+    "images": [],
+    "description": "Crunchy little biscuits that smell like fall: pumpkin, cinnamon and ginger, made with a short list of ingredients. A seasonal favourite.",
+    "details": [
+      "Wheat, corn and soy free",
+      "Baked in small batches",
+      "142 g bag"
+    ],
+    "tags": [
+      "holiday"
+    ],
+    "createdAt": "2026-10-02T10:00:00.000Z"
+  },
+  {
+    "id": "24",
+    "slug": "bully-sticks-6-inch-5-pack",
+    "name": "Bully Sticks, 6 Inch, 5 Pack",
+    "brand": "Dapple Goods",
+    "category": "treats",
+    "price": 19,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/bully-sticks-6-inch-5-pack.jpg",
+    "images": [],
+    "description": "Single-ingredient beef chews that keep dogs busy and help scrape teeth clean as they gnaw. Our 6 inch size suits small and medium dogs. Low odour.",
+    "details": [
+      "100% beef pizzle, single ingredient",
+      "Five 6 inch (15 cm) sticks",
+      "Low odour",
+      "Supervise chewing; take away the last small piece"
+    ],
+    "tags": [
+      "house",
+      "best"
+    ],
+    "createdAt": "2026-10-02T11:00:00.000Z"
+  },
+  {
+    "id": "25",
+    "slug": "himalayan-yak-cheese-chew-small",
+    "name": "Himalayan Yak Cheese Chew, Small",
+    "brand": "Himalayan Dog Chew",
+    "category": "treats",
+    "price": 14.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/himalayan-yak-cheese-chew-small.jpg",
+    "images": [],
+    "description": "A rock-hard chew made from yak and cow milk, a recipe from the Himalayas. It softens slowly as your dog chews, and when it gets small, microwave it into a puffy crunchy treat.",
+    "details": [
+      "Yak and cow milk, salt, lime juice",
+      "Small, for dogs under 7 kg",
+      "Lactose and gluten free",
+      "Microwave the end piece to puff it"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-02T12:00:00.000Z"
+  },
+  {
+    "id": "26",
+    "slug": "pupcake-birthday-biscuit-box",
+    "name": "Pupcake Birthday Biscuit Box",
+    "brand": "Dapple Goods",
+    "category": "treats",
+    "price": 18,
+    "compareAt": null,
+    "stock": 20,
+    "image": "/img/products/pupcake-birthday-biscuit-box.jpg",
+    "images": [],
+    "description": "A gift box of hand-iced vanilla and carob biscuits in birthday shapes: bones, balloons, paw prints and little long dogs. Dog-safe yogurt icing, no chocolate, no xylitol.",
+    "details": [
+      "8 iced biscuits",
+      "Dog-safe yogurt and carob icing",
+      "No chocolate or xylitol",
+      "Best within 3 months"
+    ],
+    "tags": [
+      "house",
+      "new",
+      "gift"
+    ],
+    "createdAt": "2026-10-02T13:00:00.000Z"
+  },
+  {
+    "id": "27",
+    "slug": "puppy-cake-wheat-free-cake-mix-peanut-butter",
+    "name": "Puppy Cake Wheat-Free Cake Mix, Peanut Butter",
+    "brand": "Puppy Cake",
+    "category": "treats",
+    "price": 12.99,
+    "compareAt": null,
+    "stock": 20,
+    "image": "/img/products/puppy-cake-wheat-free-cake-mix-peanut-butter.jpg",
+    "images": [],
+    "description": "A birthday cake mix made for dogs. Add water, an egg and oil, bake for 25 minutes, then top it with the frosting mix that comes in the box.",
+    "details": [
+      "Makes one small cake",
+      "Includes frosting mix",
+      "Wheat free",
+      "Bake in 25 minutes"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-02T14:00:00.000Z"
+  },
+  {
+    "id": "28",
+    "slug": "petsafe-easy-walk-harness",
+    "name": "PetSafe Easy Walk Harness",
+    "brand": "PetSafe",
+    "category": "walk",
+    "price": 34.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/petsafe-easy-walk-harness.jpg",
+    "images": [],
+    "description": "The front-clip harness trainers reach for with pullers. The leash attaches at the chest, so when your dog pulls they get turned gently back toward you instead of dragging you down the street.",
+    "details": [
+      "Front-clip design to discourage pulling",
+      "Four adjustment points",
+      "Sizes Petite to Large",
+      "Quick-snap buckles on the shoulder and belly"
+    ],
+    "tags": [
+      "best"
+    ],
+    "createdAt": "2026-10-02T15:00:00.000Z"
+  },
+  {
+    "id": "29",
+    "slug": "puppia-soft-vest-harness",
+    "name": "Puppia Soft Vest Harness",
+    "brand": "Puppia",
+    "category": "walk",
+    "price": 29.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/puppia-soft-vest-harness.jpg",
+    "images": [],
+    "description": "A soft, padded vest harness that spreads pressure across the chest instead of the neck. A good everyday pick for dachshunds, whose necks and backs do better without collar pressure.",
+    "details": [
+      "Air mesh, padded",
+      "Step-in or over-the-head design",
+      "Sizes S to XL",
+      "Machine washable"
+    ],
+    "tags": [
+      "long-dog",
+      "best"
+    ],
+    "createdAt": "2026-10-02T16:00:00.000Z"
+  },
+  {
+    "id": "30",
+    "slug": "kurgo-journey-air-harness",
+    "name": "Kurgo Journey Air Harness",
+    "brand": "Kurgo",
+    "category": "walk",
+    "price": 49.99,
+    "compareAt": null,
+    "stock": 15,
+    "image": "/img/products/kurgo-journey-air-harness.jpg",
+    "images": [],
+    "description": "A lightweight, breathable harness with both front and back leash clips and reflective trim for evening walks.",
+    "details": [
+      "Front and back clips",
+      "Breathable mesh",
+      "Reflective trim",
+      "Sizes XS to L"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-02T17:00:00.000Z"
+  },
+  {
+    "id": "31",
+    "slug": "ruffwear-front-range-harness",
+    "name": "Ruffwear Front Range Harness",
+    "brand": "Ruffwear",
+    "category": "walk",
+    "price": 64.99,
+    "compareAt": null,
+    "stock": 15,
+    "image": "/img/products/ruffwear-front-range-harness.jpg",
+    "images": [],
+    "description": "A padded harness built for all-day adventures, with a front clip for training, a back clip for easy walking and an ID pocket. Easy on, easy off.",
+    "details": [
+      "Two leash attachment points",
+      "Foam-padded chest and belly",
+      "Reflective trim",
+      "Five adjustment points"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-02T18:00:00.000Z"
+  },
+  {
+    "id": "32",
+    "slug": "flexi-classic-retractable-leash-5-m",
+    "name": "Flexi Classic Retractable Leash, 5 m",
+    "brand": "Flexi",
+    "category": "walk",
+    "price": 24.99,
+    "compareAt": null,
+    "stock": 20,
+    "image": "/img/products/flexi-classic-retractable-leash-5-m.jpg",
+    "images": [],
+    "description": "Give your dog room to sniff in the park while staying in control. The cord reels out up to 5 metres and locks with one thumb.",
+    "details": [
+      "5 m cord, for dogs up to 12 kg",
+      "One-hand brake button",
+      "Ergonomic grip",
+      "Use on open paths, not near roads"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-02T19:00:00.000Z"
+  },
+  {
+    "id": "33",
+    "slug": "dapple-print-collar",
+    "name": "Dapple Print Collar",
+    "brand": "Dapple Goods",
+    "category": "walk",
+    "price": 22,
+    "compareAt": null,
+    "stock": 40,
+    "image": "/img/products/dapple-print-collar.jpg",
+    "images": [],
+    "description": "Our signature collar in a soft nylon webbing printed with our dapple spot pattern: chocolate, tan and silver on cream. Brushed brass hardware and a sturdy D-ring for tags.",
+    "details": [
+      "Nylon webbing with dapple print",
+      "Brushed brass buckle and D-ring",
+      "Sizes XS to L",
+      "Matches the Dapple Print Leash"
+    ],
+    "tags": [
+      "house",
+      "new",
+      "best"
+    ],
+    "createdAt": "2026-10-02T20:00:00.000Z"
+  },
+  {
+    "id": "34",
+    "slug": "dapple-print-leash-6-ft",
+    "name": "Dapple Print Leash, 6 ft",
+    "brand": "Dapple Goods",
+    "category": "walk",
+    "price": 26,
+    "compareAt": null,
+    "stock": 40,
+    "image": "/img/products/dapple-print-leash-6-ft.jpg",
+    "images": [],
+    "description": "The matching leash to our collar, in the same dapple spot webbing, with a padded handle and brushed brass clip.",
+    "details": [
+      "1.8 m (6 ft) length",
+      "Padded handle",
+      "Brushed brass clip",
+      "Matches the Dapple Print Collar"
+    ],
+    "tags": [
+      "house",
+      "new"
+    ],
+    "createdAt": "2026-10-02T21:00:00.000Z"
+  },
+  {
+    "id": "35",
+    "slug": "nite-ize-nitehowl-led-safety-necklace",
+    "name": "Nite Ize NiteHowl LED Safety Necklace",
+    "brand": "Nite Ize",
+    "category": "walk",
+    "price": 19.99,
+    "compareAt": null,
+    "stock": 20,
+    "image": "/img/products/nite-ize-nitehowl-led-safety-necklace.jpg",
+    "images": [],
+    "description": "A glowing ring that slips over your dog’s collar so cars and cyclists can see them on dark evening walks. Steady glow or flashing, visible from far away.",
+    "details": [
+      "Adjustable to fit most dogs",
+      "Weather resistant",
+      "Replaceable batteries included",
+      "Steady or flashing mode"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-02T22:00:00.000Z"
+  },
+  {
+    "id": "36",
+    "slug": "brass-bone-id-tag-engraved",
+    "name": "Brass Bone ID Tag, Engraved",
+    "brand": "Dapple Goods",
+    "category": "walk",
+    "price": 14,
+    "compareAt": null,
+    "stock": 50,
+    "image": "/img/products/brass-bone-id-tag-engraved.jpg",
+    "images": [],
+    "description": "A solid brass bone-shaped tag engraved with your dog’s name and your phone number. Add the details in the gift note at checkout and we’ll engrave it before it ships.",
+    "details": [
+      "Solid brass, 3.8 cm",
+      "Engraved on both sides",
+      "Split ring included",
+      "Put the name and phone in the order note"
+    ],
+    "tags": [
+      "house",
+      "gift"
+    ],
+    "createdAt": "2026-10-02T23:00:00.000Z"
+  },
+  {
+    "id": "37",
+    "slug": "best-friends-by-sheri-calming-donut-bed",
+    "name": "Best Friends by Sheri Calming Donut Bed",
+    "brand": "Best Friends by Sheri",
+    "category": "home",
+    "price": 59.99,
+    "compareAt": 69.99,
+    "stock": 15,
+    "image": "/img/products/best-friends-by-sheri-calming-donut-bed.jpg",
+    "images": [],
+    "description": "A round, shaggy faux-fur bed with a raised rim that dogs can curl into and rest their head on. Many owners say anxious dogs settle faster in it.",
+    "details": [
+      "Vegan faux fur",
+      "Small, 58 cm across",
+      "Machine washable and dryer safe",
+      "Water and dirt resistant base"
+    ],
+    "tags": [
+      "best"
+    ],
+    "createdAt": "2026-10-03T00:00:00.000Z"
+  },
+  {
+    "id": "38",
+    "slug": "burrow-cave-bed",
+    "name": "Burrow Cave Bed",
+    "brand": "Dapple Goods",
+    "category": "home",
+    "price": 64,
+    "compareAt": null,
+    "stock": 20,
+    "image": "/img/products/burrow-cave-bed.jpg",
+    "images": [],
+    "description": "Dachshunds were bred to go underground, and most still want to. This bed has a soft hooded cover so they can tunnel in and hide, a supportive bolster for their chin and a cozy sherpa lining.",
+    "details": [
+      "Hooded cave design for burrowers",
+      "Sherpa lining, quilted outer in chocolate",
+      "Medium, 66 cm, fits most dachshunds",
+      "Removable washable cover"
+    ],
+    "tags": [
+      "house",
+      "best",
+      "long-dog",
+      "new"
+    ],
+    "createdAt": "2026-10-03T01:00:00.000Z"
+  },
+  {
+    "id": "39",
+    "slug": "k-h-self-warming-pet-pad",
+    "name": "K&H Self-Warming Pet Pad",
+    "brand": "K&H",
+    "category": "home",
+    "price": 39.99,
+    "compareAt": null,
+    "stock": 15,
+    "image": "/img/products/k-h-self-warming-pet-pad.jpg",
+    "images": [],
+    "description": "A layer inside reflects your dog’s own body heat back to them, so this pad feels warm with no plug and no electricity. Ideal for crates, cars and chilly floors.",
+    "details": [
+      "No electricity needed",
+      "Small, 53 × 43 cm",
+      "Machine washable",
+      "Non-slip bottom"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-03T02:00:00.000Z"
+  },
+  {
+    "id": "40",
+    "slug": "sherpa-snuggle-blanket",
+    "name": "Sherpa Snuggle Blanket",
+    "brand": "Dapple Goods",
+    "category": "home",
+    "price": 29,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/sherpa-snuggle-blanket.jpg",
+    "images": [],
+    "description": "A soft blanket with a dapple-print fleece side and a cream sherpa side, sized for a small dog to burrow under on the couch.",
+    "details": [
+      "Fleece and sherpa",
+      "76 × 100 cm",
+      "Machine washable",
+      "Dapple print side"
+    ],
+    "tags": [
+      "house",
+      "holiday",
+      "gift"
+    ],
+    "createdAt": "2026-10-03T03:00:00.000Z"
+  },
+  {
+    "id": "41",
+    "slug": "pet-gear-easy-step-pet-stairs",
+    "name": "Pet Gear Easy Step Pet Stairs",
+    "brand": "Pet Gear",
+    "category": "home",
+    "price": 79.99,
+    "compareAt": null,
+    "stock": 10,
+    "image": "/img/products/pet-gear-easy-step-pet-stairs.jpg",
+    "images": [],
+    "description": "Dachshunds have long backs and short legs, and jumping on and off furniture is one of the most common causes of back injury. These carpeted stairs let them reach the couch or bed safely.",
+    "details": [
+      "3 steps, about 46 cm high",
+      "Holds up to 68 kg",
+      "Removable, washable carpet treads",
+      "Folds flat, no tools"
+    ],
+    "tags": [
+      "long-dog"
+    ],
+    "createdAt": "2026-10-03T04:00:00.000Z"
+  },
+  {
+    "id": "42",
+    "slug": "outward-hound-fun-feeder-slo-bowl",
+    "name": "Outward Hound Fun Feeder Slo Bowl",
+    "brand": "Outward Hound",
+    "category": "home",
+    "price": 17.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/outward-hound-fun-feeder-slo-bowl.jpg",
+    "images": [],
+    "description": "A maze bowl that slows gulpers down so mealtime lasts several minutes instead of seconds, which helps with bloating and vomiting.",
+    "details": [
+      "Slows eating up to 10 times",
+      "Non-slip base",
+      "Dishwasher safe (top rack)",
+      "Small, 2 cups"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-03T05:00:00.000Z"
+  },
+  {
+    "id": "43",
+    "slug": "spotted-stoneware-bowl",
+    "name": "Spotted Stoneware Bowl",
+    "brand": "Dapple Goods",
+    "category": "home",
+    "price": 26,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/spotted-stoneware-bowl.jpg",
+    "images": [],
+    "description": "A heavy stoneware bowl in a cream glaze with hand-sponged chocolate and silver spots, so no two are alike. Heavy enough that it doesn’t slide around the floor.",
+    "details": [
+      "Stoneware, food safe glaze",
+      "15 cm, holds 2 cups",
+      "Dishwasher safe",
+      "Each bowl’s spots are unique"
+    ],
+    "tags": [
+      "house",
+      "new"
+    ],
+    "createdAt": "2026-10-03T06:00:00.000Z"
+  },
+  {
+    "id": "44",
+    "slug": "petsafe-drinkwell-platinum-fountain",
+    "name": "PetSafe Drinkwell Platinum Fountain",
+    "brand": "PetSafe",
+    "category": "home",
+    "price": 69.99,
+    "compareAt": null,
+    "stock": 10,
+    "image": "/img/products/petsafe-drinkwell-platinum-fountain.jpg",
+    "images": [],
+    "description": "Moving, filtered water that tempts dogs to drink more. A free-falling stream adds oxygen, and a carbon filter catches hair and odours.",
+    "details": [
+      "Holds 5 L",
+      "Replaceable carbon filter",
+      "Adjustable flow",
+      "Dishwasher safe parts"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-03T07:00:00.000Z"
+  },
+  {
+    "id": "45",
+    "slug": "lickimat-classic-buddy",
+    "name": "LickiMat Classic Buddy",
+    "brand": "LickiMat",
+    "category": "home",
+    "price": 12.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/lickimat-classic-buddy.jpg",
+    "images": [],
+    "description": "Spread on yogurt, pumpkin or wet treats and let your dog lick it off the textured surface. Licking is calming, so it’s great for baths, nail trims and thunderstorms.",
+    "details": [
+      "Food-grade rubber",
+      "20 × 20 cm",
+      "Dishwasher safe",
+      "Freeze for longer licking"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-03T08:00:00.000Z"
+  },
+  {
+    "id": "46",
+    "slug": "long-dog-cable-knit-sweater",
+    "name": "Long Dog Cable Knit Sweater",
+    "brand": "Dapple Goods",
+    "category": "apparel",
+    "price": 38,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/long-dog-cable-knit-sweater.jpg",
+    "images": [],
+    "description": "Most sweaters fit a dachshund like a crop top. Ours is cut longer through the body and roomier in the chest, so it covers the back, stays put and keeps a short-coated dog warm on cold walks.",
+    "details": [
+      "Cut for long, low breeds",
+      "Soft acrylic-wool blend cable knit",
+      "Sizes S to L, with a size guide in the details",
+      "Hand wash, lay flat to dry"
+    ],
+    "tags": [
+      "house",
+      "best",
+      "long-dog",
+      "holiday",
+      "new"
+    ],
+    "createdAt": "2026-10-03T09:00:00.000Z"
+  },
+  {
+    "id": "47",
+    "slug": "canada-pooch-waterproof-dog-raincoat",
+    "name": "Canada Pooch Waterproof Dog Raincoat",
+    "brand": "Canada Pooch",
+    "category": "apparel",
+    "price": 59.99,
+    "compareAt": null,
+    "stock": 15,
+    "image": "/img/products/canada-pooch-waterproof-dog-raincoat.jpg",
+    "images": [],
+    "description": "A waterproof shell with a soft lining that keeps your dog dry on wet walks. A rear leash opening lets you clip on a harness underneath.",
+    "details": [
+      "Waterproof outer",
+      "Reflective trim",
+      "Leash opening",
+      "Machine washable"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-03T10:00:00.000Z"
+  },
+  {
+    "id": "48",
+    "slug": "pawz-disposable-rubber-dog-boots-12-pack",
+    "name": "Pawz Disposable Rubber Dog Boots, 12 Pack",
+    "brand": "Pawz",
+    "category": "apparel",
+    "price": 19.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/pawz-disposable-rubber-dog-boots-12-pack.jpg",
+    "images": [],
+    "description": "Thin natural rubber boots that keep road salt, snow and ice off paws through the Canadian winter. Dogs feel the ground through them, so most adapt quickly.",
+    "details": [
+      "Natural rubber, reusable",
+      "12 boots per pack",
+      "Sizes XXS to L",
+      "Waterproof"
+    ],
+    "tags": [
+      "holiday"
+    ],
+    "createdAt": "2026-10-03T11:00:00.000Z"
+  },
+  {
+    "id": "49",
+    "slug": "spotted-bandana",
+    "name": "Spotted Bandana",
+    "brand": "Dapple Goods",
+    "category": "apparel",
+    "price": 14,
+    "compareAt": null,
+    "stock": 40,
+    "image": "/img/products/spotted-bandana.jpg",
+    "images": [],
+    "description": "A soft cotton bandana in our dapple spot print, with snaps so it stays on without tying. Photo-ready.",
+    "details": [
+      "100% cotton",
+      "Snap closure",
+      "Sizes S/M and L",
+      "Machine washable"
+    ],
+    "tags": [
+      "house",
+      "new",
+      "gift"
+    ],
+    "createdAt": "2026-10-03T12:00:00.000Z"
+  },
+  {
+    "id": "50",
+    "slug": "howliday-plaid-pajamas",
+    "name": "Howliday Plaid Pajamas",
+    "brand": "Dapple Goods",
+    "category": "apparel",
+    "price": 32,
+    "compareAt": null,
+    "stock": 20,
+    "image": "/img/products/howliday-plaid-pajamas.jpg",
+    "images": [],
+    "description": "Soft flannel pajamas in red and green plaid for holiday photos and lazy winter mornings. Cut long through the body for dachshunds and other low riders.",
+    "details": [
+      "Cotton flannel",
+      "Cut for long breeds",
+      "Sizes S to L",
+      "Machine washable"
+    ],
+    "tags": [
+      "house",
+      "holiday",
+      "gift"
+    ],
+    "createdAt": "2026-10-03T13:00:00.000Z"
+  },
+  {
+    "id": "51",
+    "slug": "furminator-undercoat-deshedding-tool-small",
+    "name": "FURminator Undercoat deShedding Tool, Small",
+    "brand": "FURminator",
+    "category": "grooming",
+    "price": 39.99,
+    "compareAt": null,
+    "stock": 15,
+    "image": "/img/products/furminator-undercoat-deshedding-tool-small.jpg",
+    "images": [],
+    "description": "A stainless steel edge reaches through the topcoat to pull out loose undercoat before it ends up on your couch. A button pops the hair off the blade.",
+    "details": [
+      "Small, for dogs under 9 kg",
+      "Short and long hair versions",
+      "One-touch hair release",
+      "Use 10 to 20 minutes, once or twice a week"
+    ],
+    "tags": [
+      "best"
+    ],
+    "createdAt": "2026-10-03T14:00:00.000Z"
+  },
+  {
+    "id": "52",
+    "slug": "burts-bees-oatmeal-shampoo-for-dogs",
+    "name": "Burt’s Bees Oatmeal Shampoo for Dogs",
+    "brand": "Burt’s Bees",
+    "category": "grooming",
+    "price": 12.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/burts-bees-oatmeal-shampoo-for-dogs.jpg",
+    "images": [],
+    "description": "A gentle oatmeal and honey shampoo that cleans without drying out the skin. pH balanced for dogs.",
+    "details": [
+      "Colloidal oat flour and honey",
+      "pH balanced for dogs",
+      "No sulphates or colourants",
+      "473 ml"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-03T15:00:00.000Z"
+  },
+  {
+    "id": "53",
+    "slug": "earthbath-hypo-allergenic-grooming-wipes",
+    "name": "Earthbath Hypo-Allergenic Grooming Wipes",
+    "brand": "Earthbath",
+    "category": "grooming",
+    "price": 14.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/earthbath-hypo-allergenic-grooming-wipes.jpg",
+    "images": [],
+    "description": "Fragrance-free wipes for muddy paws, faces and quick clean-ups between baths. Gentle enough for sensitive skin.",
+    "details": [
+      "100 wipes",
+      "Fragrance free",
+      "Plant-based wipes",
+      "Safe for puppies"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-03T16:00:00.000Z"
+  },
+  {
+    "id": "54",
+    "slug": "safari-professional-nail-trimmer-small",
+    "name": "Safari Professional Nail Trimmer, Small",
+    "brand": "Safari",
+    "category": "grooming",
+    "price": 12.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/safari-professional-nail-trimmer-small.jpg",
+    "images": [],
+    "description": "Sharp stainless steel blades and a safety stop make for clean, quick nail trims at home.",
+    "details": [
+      "Stainless steel blades",
+      "Safety stop",
+      "Small/Medium",
+      "Non-slip handles"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-03T17:00:00.000Z"
+  },
+  {
+    "id": "55",
+    "slug": "virbac-c-e-t-enzymatic-toothpaste-poultry",
+    "name": "Virbac C.E.T. Enzymatic Toothpaste, Poultry",
+    "brand": "Virbac",
+    "category": "grooming",
+    "price": 16.99,
+    "compareAt": null,
+    "stock": 20,
+    "image": "/img/products/virbac-c-e-t-enzymatic-toothpaste-poultry.jpg",
+    "images": [],
+    "description": "A poultry-flavoured enzymatic toothpaste that dogs actually like. Small breeds like dachshunds are prone to dental disease, so brushing a few times a week matters.",
+    "details": [
+      "Enzymatic formula",
+      "Poultry flavour",
+      "No foaming, safe to swallow",
+      "70 g tube"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-03T18:00:00.000Z"
+  },
+  {
+    "id": "56",
+    "slug": "earth-rated-poop-bags-120-count",
+    "name": "Earth Rated Poop Bags, 120 Count",
+    "brand": "Earth Rated",
+    "category": "travel",
+    "price": 9.99,
+    "compareAt": null,
+    "stock": 60,
+    "image": "/img/products/earth-rated-poop-bags-120-count.jpg",
+    "images": [],
+    "description": "Thick, leak-proof bags that tear off cleanly and open on the first try. Lavender-scented. Earth Rated started in Montreal.",
+    "details": [
+      "8 rolls, 120 bags",
+      "Fits any standard dispenser",
+      "Leak proof",
+      "Lavender scented"
+    ],
+    "tags": [
+      "best"
+    ],
+    "createdAt": "2026-10-03T19:00:00.000Z"
+  },
+  {
+    "id": "57",
+    "slug": "sherpa-original-deluxe-pet-carrier-small",
+    "name": "Sherpa Original Deluxe Pet Carrier, Small",
+    "brand": "Sherpa",
+    "category": "travel",
+    "price": 69.99,
+    "compareAt": null,
+    "stock": 10,
+    "image": "/img/products/sherpa-original-deluxe-pet-carrier-small.jpg",
+    "images": [],
+    "description": "A soft-sided carrier that fits under most airline seats, with mesh panels for airflow and a padded shoulder strap. Fits most mini dachshunds.",
+    "details": [
+      "Airline approved size (check your airline)",
+      "Mesh ventilation panels",
+      "Fleece liner, machine washable",
+      "Holds pets up to 7 kg"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-03T20:00:00.000Z"
+  },
+  {
+    "id": "58",
+    "slug": "kurgo-skybox-booster-seat",
+    "name": "Kurgo Skybox Booster Seat",
+    "brand": "Kurgo",
+    "category": "travel",
+    "price": 69.99,
+    "compareAt": null,
+    "stock": 10,
+    "image": "/img/products/kurgo-skybox-booster-seat.jpg",
+    "images": [],
+    "description": "Lifts small dogs up high enough to see out the window, which helps with car anxiety, and keeps them in one place with a tether.",
+    "details": [
+      "For dogs up to 13.6 kg",
+      "Fold-flat design",
+      "Built-in tether",
+      "Washable liner"
+    ],
+    "tags": [
+      "long-dog"
+    ],
+    "createdAt": "2026-10-03T21:00:00.000Z"
+  },
+  {
+    "id": "59",
+    "slug": "outward-hound-granby-life-jacket",
+    "name": "Outward Hound Granby Life Jacket",
+    "brand": "Outward Hound",
+    "category": "travel",
+    "price": 34.99,
+    "compareAt": null,
+    "stock": 12,
+    "image": "/img/products/outward-hound-granby-life-jacket.jpg",
+    "images": [],
+    "description": "Dachshunds are not natural swimmers. This life jacket keeps them floating with a top rescue handle so you can lift them out of the water.",
+    "details": [
+      "Bright colour with reflective trim",
+      "Rescue handle",
+      "Sizes XS to L",
+      "Quick-release buckles"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-03T22:00:00.000Z"
+  },
+  {
+    "id": "60",
+    "slug": "walkies-treat-pouch",
+    "name": "Walkies Treat Pouch",
+    "brand": "Dapple Goods",
+    "category": "travel",
+    "price": 22,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/walkies-treat-pouch.jpg",
+    "images": [],
+    "description": "A clip-on treat pouch for training walks, with a magnetic closure that opens with one hand and a back pocket for poop bags and keys.",
+    "details": [
+      "Magnetic one-hand opening",
+      "Built-in poop bag dispenser",
+      "Clip or belt loop",
+      "Wipe clean liner"
+    ],
+    "tags": [
+      "house",
+      "new"
+    ],
+    "createdAt": "2026-10-03T23:00:00.000Z"
+  }
+]
