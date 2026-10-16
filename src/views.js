@@ -507,7 +507,6 @@ function checkoutPage({ mode }) {
       <label class="field"><span>Order note or gift message (optional)</span><textarea name="giftNote" rows="2" maxlength="300" placeholder="Engraving for an ID tag, or a note we’ll write on a card"></textarea></label>
       <p class="form-error" data-error></p>
       <button class="btn btn-primary btn-block big" data-submit>${mode === 'invoice' ? 'Place Order' : 'Continue to Payment'}</button>
-      ${mode === 'invoice' ? '<p class="muted small center">No card needed now. We’ll email you an invoice to pay before your order ships.</p>' : ''}
     </form>
     <aside class="summary">
       <h3>Your Bag</h3>
