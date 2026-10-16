@@ -1349,5 +1349,4007 @@
       "new"
     ],
     "createdAt": "2026-10-03T23:00:00.000Z"
+  },
+  {
+    "id": "61",
+    "slug": "kong-extreme-dog-toy",
+    "name": "KONG Extreme Dog Toy",
+    "brand": "KONG",
+    "category": "toys",
+    "price": 19.99,
+    "compareAt": null,
+    "stock": 35,
+    "image": "/img/products/kong-extreme-dog-toy.jpg",
+    "images": [],
+    "description": "The black version of the classic KONG, made from KONG’s toughest rubber for dogs who make short work of everything else. Same unpredictable bounce, same hollow middle for stuffing, just a lot harder to wreck.",
+    "details": [
+      "Ultra-durable black natural rubber",
+      "Sizes: Small (up to 9 kg) and Medium (7 to 16 kg)",
+      "Stuff with treats or spreads; freeze for longer chewing",
+      "Dishwasher safe (top rack); supervise play"
+    ],
+    "tags": [
+      "best"
+    ],
+    "createdAt": "2026-10-04T00:00:00.000Z"
+  },
+  {
+    "id": "62",
+    "slug": "kong-puppy-toy",
+    "name": "KONG Puppy Toy",
+    "brand": "KONG",
+    "category": "toys",
+    "price": 13.99,
+    "compareAt": null,
+    "stock": 35,
+    "image": "/img/products/kong-puppy-toy.jpg",
+    "images": [],
+    "description": "A softer rubber KONG made for baby teeth and sore gums. Stuff it with a little puppy food and freeze it for teething relief, or use it to keep a new pup busy in the crate.",
+    "details": [
+      "Softer rubber formula for puppy teeth",
+      "Small size for puppies up to 9 kg",
+      "Comes in pink or blue",
+      "Replace with an adult KONG at about 9 months"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-04T01:00:00.000Z"
+  },
+  {
+    "id": "63",
+    "slug": "kong-wobbler-treat-dispenser",
+    "name": "KONG Wobbler Treat Dispenser",
+    "brand": "KONG",
+    "category": "toys",
+    "price": 24.99,
+    "compareAt": 27.99,
+    "stock": 20,
+    "image": "/img/products/kong-wobbler-treat-dispenser.jpg",
+    "images": [],
+    "description": "A weighted, egg-shaped treat dispenser that wobbles and rolls when nudged, dropping kibble or small treats out of a hole as it goes. Unscrew the top to fill it. Handy for slowing down fast eaters at mealtime.",
+    "details": [
+      "Durable plastic, two-piece design",
+      "Small size for dogs up to 11 kg",
+      "Fill with kibble or small treats",
+      "Dishwasher safe (top rack)"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-04T02:00:00.000Z"
+  },
+  {
+    "id": "64",
+    "slug": "busy-buddy-twist-n-treat",
+    "name": "Busy Buddy Twist ’n Treat",
+    "brand": "PetSafe",
+    "category": "toys",
+    "price": 15.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/busy-buddy-twist-n-treat.jpg",
+    "images": [],
+    "description": "Two rubber halves screw together around treats. Tighten it for a tougher challenge or loosen it so treats fall out more easily. A nice step up for dogs who have figured out their KONG.",
+    "details": [
+      "Natural rubber",
+      "Small size for dogs 9 to 18 kg",
+      "Adjustable difficulty",
+      "Dishwasher safe (top rack)"
+    ],
+    "tags": [
+      "best"
+    ],
+    "createdAt": "2026-10-04T03:00:00.000Z"
+  },
+  {
+    "id": "65",
+    "slug": "busy-buddy-squirrel-dude",
+    "name": "Busy Buddy Squirrel Dude",
+    "brand": "PetSafe",
+    "category": "toys",
+    "price": 17.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/busy-buddy-squirrel-dude.jpg",
+    "images": [],
+    "description": "A squirrel-shaped rubber treat toy with flexible fingers inside the opening. Treats go in easily and come out slowly as your dog chews and rolls it around.",
+    "details": [
+      "Natural rubber with interior treat fingers",
+      "Small size for dogs 4.5 to 9 kg",
+      "Works with kibble or treat rings",
+      "Dishwasher safe (top rack)"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-04T04:00:00.000Z"
+  },
+  {
+    "id": "66",
+    "slug": "busy-buddy-barnacle",
+    "name": "Busy Buddy Barnacle",
+    "brand": "PetSafe",
+    "category": "toys",
+    "price": 17.99,
+    "compareAt": null,
+    "stock": 20,
+    "image": "/img/products/busy-buddy-barnacle.jpg",
+    "images": [],
+    "description": "A spiky-looking rubber ball with three openings of different sizes, so you can mix big and small treats for a puzzle that takes a while to empty. It bounces, rolls and wobbles.",
+    "details": [
+      "Natural rubber",
+      "Medium size for dogs 9 to 27 kg",
+      "Three treat openings",
+      "Dishwasher safe (top rack)"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-10-04T05:00:00.000Z"
+  },
+  {
+    "id": "67",
+    "slug": "starmark-bob-a-lot-treat-dispenser",
+    "name": "Starmark Bob-A-Lot Treat Dispenser",
+    "brand": "Starmark",
+    "category": "toys",
+    "price": 24.99,
+    "compareAt": 28.99,
+    "stock": 18,
+    "image": "/img/products/starmark-bob-a-lot-treat-dispenser.jpg",
+    "images": [],
+    "description": "A weighted, wobbling treat dispenser with adjustable openings. Your dog knocks it around to get kibble out, which turns dinner into a game and keeps gulpers from eating too fast.",
+    "details": [
+      "Holds up to 3 cups of kibble (large)",
+      "Small and large sizes",
+      "Adjustable treat openings",
+      "Hand wash"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-04T06:00:00.000Z"
+  },
+  {
+    "id": "68",
+    "slug": "planet-dog-orbee-tuff-ball",
+    "name": "Planet Dog Orbee-Tuff Ball",
+    "brand": "Planet Dog",
+    "category": "toys",
+    "price": 18.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/planet-dog-orbee-tuff-ball.jpg",
+    "images": [],
+    "description": "A minty-scented, glossy ball that bounces, floats and stands up to serious chomping. The hollow centre can hold a treat for extra motivation.",
+    "details": [
+      "Orbee-Tuff material, BPA and phthalate free",
+      "Medium, 7.6 cm",
+      "Floats; peppermint scented",
+      "Dishwasher safe"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-04T07:00:00.000Z"
+  },
+  {
+    "id": "69",
+    "slug": "planet-dog-orbee-tuff-snoop",
+    "name": "Planet Dog Orbee-Tuff Snoop",
+    "brand": "Planet Dog",
+    "category": "toys",
+    "price": 24.99,
+    "compareAt": null,
+    "stock": 18,
+    "image": "/img/products/planet-dog-orbee-tuff-snoop.jpg",
+    "images": [],
+    "description": "A treat-dispensing ball with a single round opening and flexible inner flaps. Drop in kibble or a few treats and your dog has to roll and nose it just right to get them out.",
+    "details": [
+      "Orbee-Tuff material, BPA and phthalate free",
+      "Large, 10 cm",
+      "Floats; peppermint scented",
+      "Dishwasher safe"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-10-04T08:00:00.000Z"
+  },
+  {
+    "id": "70",
+    "slug": "nina-ottosson-dog-smart-puzzle",
+    "name": "Nina Ottosson Dog Smart Puzzle",
+    "brand": "Outward Hound",
+    "category": "toys",
+    "price": 19.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/nina-ottosson-dog-smart-puzzle.jpg",
+    "images": [],
+    "description": "The easiest Nina Ottosson puzzle and a great first one for small dogs. Nine little cups cover treat wells, and your dog learns to nose or paw them off. Most dogs solve it the first day and want to do it again.",
+    "details": [
+      "Level 1 (beginner)",
+      "Nine removable cones",
+      "BPA, PVC and phthalate free",
+      "Use with supervision"
+    ],
+    "tags": [
+      "long-dog"
+    ],
+    "createdAt": "2026-10-04T09:00:00.000Z"
+  },
+  {
+    "id": "71",
+    "slug": "nina-ottosson-dog-tornado-puzzle",
+    "name": "Nina Ottosson Dog Tornado Puzzle",
+    "brand": "Outward Hound",
+    "category": "toys",
+    "price": 26.99,
+    "compareAt": null,
+    "stock": 20,
+    "image": "/img/products/nina-ottosson-dog-tornado-puzzle.jpg",
+    "images": [],
+    "description": "Four stacked, rotating layers with treat compartments in each. Your dog spins the layers to uncover treats, and you can add bone-shaped blockers to make it harder.",
+    "details": [
+      "Level 2 (intermediate)",
+      "Four rotating layers",
+      "Dishwasher safe (top rack)",
+      "Use with supervision"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-04T10:00:00.000Z"
+  },
+  {
+    "id": "72",
+    "slug": "nina-ottosson-dog-twister-puzzle",
+    "name": "Nina Ottosson Dog Twister Puzzle",
+    "brand": "Outward Hound",
+    "category": "toys",
+    "price": 34.99,
+    "compareAt": 39.99,
+    "stock": 15,
+    "image": "/img/products/nina-ottosson-dog-twister-puzzle.jpg",
+    "images": [],
+    "description": "The challenge level. Dogs have to slide blocks around a track and lift bone pegs out before they can reach the treats. Best for clever dogs who have already beaten level 1 and 2 puzzles.",
+    "details": [
+      "Level 3 (advanced)",
+      "Sliding blocks and lift-out bone pegs",
+      "Dishwasher safe (top rack)",
+      "Use with supervision"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-04T11:00:00.000Z"
+  },
+  {
+    "id": "73",
+    "slug": "outward-hound-snuffle-mat",
+    "name": "Outward Hound Snuffle Mat",
+    "brand": "Outward Hound",
+    "category": "toys",
+    "price": 24.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/outward-hound-snuffle-mat.jpg",
+    "images": [],
+    "description": "A fleece mat with layers of fabric strips to hide kibble and treats in. Sniffing them out is calming and surprisingly tiring, and it’s perfect for nose-down hounds like dachshunds and beagles.",
+    "details": [
+      "Polar fleece strips on a non-slip base",
+      "About 45 x 45 cm",
+      "Machine washable",
+      "Supervise; not a chew toy"
+    ],
+    "tags": [
+      "new",
+      "long-dog",
+      "gift"
+    ],
+    "createdAt": "2026-10-04T12:00:00.000Z"
+  },
+  {
+    "id": "74",
+    "slug": "fluff-tuff-nelly-elephant",
+    "name": "Fluff & Tuff Nelly Elephant",
+    "brand": "Fluff & Tuff",
+    "category": "toys",
+    "price": 22.99,
+    "compareAt": null,
+    "stock": 20,
+    "image": "/img/products/fluff-tuff-nelly-elephant.jpg",
+    "images": [],
+    "description": "A sweet grey plush elephant with double-stitched seams and a mesh liner, so it lasts longer than most stuffed toys. Soft enough to cuddle, sturdy enough for a good shake.",
+    "details": [
+      "Double-stitched with mesh lining",
+      "Squeaker inside",
+      "About 25 cm",
+      "Not indestructible; supervise play"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-04T13:00:00.000Z"
+  },
+  {
+    "id": "75",
+    "slug": "zippypaws-burrow-hedgehog-den",
+    "name": "ZippyPaws Burrow Hedgehog Den",
+    "brand": "ZippyPaws",
+    "category": "toys",
+    "price": 17.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/zippypaws-burrow-hedgehog-den.jpg",
+    "images": [],
+    "description": "A plush log with three squeaky hedgehogs tucked inside. Your dog digs them out one by one, which is exactly the kind of job a burrowing dog was bred for. Stuff them back in and go again.",
+    "details": [
+      "Plush log with 3 squeaky hedgehogs",
+      "Small hedgehogs sized for little mouths",
+      "Great for diggers and burrowers",
+      "Surface wash"
+    ],
+    "tags": [
+      "best",
+      "long-dog",
+      "gift"
+    ],
+    "createdAt": "2026-10-04T14:00:00.000Z"
+  },
+  {
+    "id": "76",
+    "slug": "zippypaws-burrow-bee-hive",
+    "name": "ZippyPaws Burrow Bee Hive",
+    "brand": "ZippyPaws",
+    "category": "toys",
+    "price": 15.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/zippypaws-burrow-bee-hive.jpg",
+    "images": [],
+    "description": "A yellow plush hive with three squeaky bees hiding in it. A hide-and-seek toy that gives small dogs something to dig, pull and carry off in triumph.",
+    "details": [
+      "Plush hive with 3 squeaky bees",
+      "Small bees, about 7 cm each",
+      "Great for diggers and burrowers",
+      "Surface wash"
+    ],
+    "tags": [
+      "long-dog"
+    ],
+    "createdAt": "2026-10-04T15:00:00.000Z"
+  },
+  {
+    "id": "77",
+    "slug": "kong-cozie-marvin-the-moose",
+    "name": "KONG Cozie Marvin the Moose",
+    "brand": "KONG",
+    "category": "toys",
+    "price": 11.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/kong-cozie-marvin-the-moose.jpg",
+    "images": [],
+    "description": "A soft, cuddly moose with an extra layer of material inside for a bit more toughness. The small size is perfect for little dogs who like to carry their toys from room to room.",
+    "details": [
+      "Plush with extra inner layer",
+      "Squeaker inside",
+      "Small, about 18 cm",
+      "Not for heavy chewers"
+    ],
+    "tags": [
+      "long-dog"
+    ],
+    "createdAt": "2026-10-04T16:00:00.000Z"
+  },
+  {
+    "id": "78",
+    "slug": "multipet-loofa-dog-12-inch",
+    "name": "Multipet Loofa Dog, 12 Inch",
+    "brand": "Multipet",
+    "category": "toys",
+    "price": 8.99,
+    "compareAt": null,
+    "stock": 40,
+    "image": "/img/products/multipet-loofa-dog-12-inch.jpg",
+    "images": [],
+    "description": "The long, floppy, squeaky dog that dogs have been carrying around for years. At 12 inches it’s just right for small breeds, and it’s cheap enough to keep a spare in the car.",
+    "details": [
+      "Plush with squeaker",
+      "30 cm long",
+      "Assorted colours",
+      "Not for heavy chewers"
+    ],
+    "tags": [
+      "long-dog"
+    ],
+    "createdAt": "2026-10-04T17:00:00.000Z"
+  },
+  {
+    "id": "79",
+    "slug": "tuffy-ultimate-ring",
+    "name": "Tuffy Ultimate Ring",
+    "brand": "Tuffy",
+    "category": "toys",
+    "price": 24.99,
+    "compareAt": 29.99,
+    "stock": 18,
+    "image": "/img/products/tuffy-ultimate-ring.jpg",
+    "images": [],
+    "description": "A soft-sided ring made with several layers of tough fabric and reinforced seams, rated high on Tuffy’s toughness scale. Great for tug, fetch and floating in the pool.",
+    "details": [
+      "Multiple layers of industrial-grade material",
+      "Squeaker inside",
+      "Floats; machine washable",
+      "Not indestructible; supervise play"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-04T18:00:00.000Z"
+  },
+  {
+    "id": "80",
+    "slug": "godog-gator-with-chew-guard",
+    "name": "GoDog Gator with Chew Guard",
+    "brand": "GoDog",
+    "category": "toys",
+    "price": 19.99,
+    "compareAt": null,
+    "stock": 20,
+    "image": "/img/products/godog-gator-with-chew-guard.jpg",
+    "images": [],
+    "description": "A friendly plush alligator with Chew Guard lining stitched inside, so it holds up better to rough play than an ordinary stuffed toy. Two squeakers keep it fun.",
+    "details": [
+      "Chew Guard Technology lining",
+      "Two squeakers",
+      "Small size, about 30 cm",
+      "Not indestructible; supervise play"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-04T19:00:00.000Z"
+  },
+  {
+    "id": "81",
+    "slug": "outward-hound-invincibles-snake",
+    "name": "Outward Hound Invincibles Snake",
+    "brand": "Outward Hound",
+    "category": "toys",
+    "price": 15.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/outward-hound-invincibles-snake.jpg",
+    "images": [],
+    "description": "A no-stuffing plush snake packed with squeakers that keep squeaking even if one gets punctured. Long enough for two dogs to play tug.",
+    "details": [
+      "No stuffing",
+      "Six squeakers",
+      "About 60 cm long",
+      "Supervise play"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-04T20:00:00.000Z"
+  },
+  {
+    "id": "82",
+    "slug": "kong-squeakair-tennis-balls-small-6-pack",
+    "name": "KONG Squeakair Tennis Balls, Small, 6 Pack",
+    "brand": "KONG",
+    "category": "toys",
+    "price": 9.99,
+    "compareAt": null,
+    "stock": 40,
+    "image": "/img/products/kong-squeakair-tennis-balls-small-6-pack.jpg",
+    "images": [],
+    "description": "Tennis balls made for dogs, with a non-abrasive felt that’s gentler on teeth and a squeaker inside. The small size fits little mouths that can’t manage a regular ball.",
+    "details": [
+      "Non-abrasive felt, squeaker inside",
+      "Small, 5 cm",
+      "Six balls per pack",
+      "Not a chew toy"
+    ],
+    "tags": [
+      "long-dog"
+    ],
+    "createdAt": "2026-10-04T21:00:00.000Z"
+  },
+  {
+    "id": "83",
+    "slug": "chuckit-kick-fetch-ball",
+    "name": "Chuckit! Kick Fetch Ball",
+    "brand": "Chuckit!",
+    "category": "toys",
+    "price": 19.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/chuckit-kick-fetch-ball.jpg",
+    "images": [],
+    "description": "A big, grippy ball you can kick across the yard. Recessed grooves make it easy for dogs to pick up, and the bright colours stand out in the grass. Great for dogs too big or too bouncy for a launcher.",
+    "details": [
+      "Foam core with rubber cover",
+      "Small, 14 cm",
+      "Floats",
+      "Not a chew toy"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-10-04T22:00:00.000Z"
+  },
+  {
+    "id": "84",
+    "slug": "chuckit-flying-squirrel",
+    "name": "Chuckit! Flying Squirrel",
+    "brand": "Chuckit!",
+    "category": "toys",
+    "price": 15.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/chuckit-flying-squirrel.jpg",
+    "images": [],
+    "description": "A soft, floppy flyer with four stretched-out legs and a tail. It flies like a disc but is easy for dogs to grab mid-air and gentle on mouths, and it floats for water fetch.",
+    "details": [
+      "Nylon and rubber, floats",
+      "Medium, about 25 cm",
+      "Easy-grab legs",
+      "Not a chew toy"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-04T23:00:00.000Z"
+  },
+  {
+    "id": "85",
+    "slug": "chuckit-indoor-ball",
+    "name": "Chuckit! Indoor Ball",
+    "brand": "Chuckit!",
+    "category": "toys",
+    "price": 11.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/chuckit-indoor-ball.jpg",
+    "images": [],
+    "description": "A soft, lightweight ball made for fetch in the house. It rolls and bounces gently without knocking things off tables, and it’s easy on small jaws.",
+    "details": [
+      "Soft fabric cover, lightweight",
+      "11.5 cm",
+      "Won’t mark floors or walls",
+      "Not a chew toy"
+    ],
+    "tags": [
+      "long-dog"
+    ],
+    "createdAt": "2026-10-05T00:00:00.000Z"
+  },
+  {
+    "id": "86",
+    "slug": "jolly-pets-romp-n-roll-ball",
+    "name": "Jolly Pets Romp-n-Roll Ball",
+    "brand": "Jolly Pets",
+    "category": "toys",
+    "price": 24.99,
+    "compareAt": 27.99,
+    "stock": 15,
+    "image": "/img/products/jolly-pets-romp-n-roll-ball.jpg",
+    "images": [],
+    "description": "A bouncy, tough ball with a rope through the middle for tug, swinging and fetch. It stays inflated even if punctured and floats in the pool or lake.",
+    "details": [
+      "Puncture-resistant plastic with rope",
+      "15 cm",
+      "Floats",
+      "Not a chew toy"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-05T01:00:00.000Z"
+  },
+  {
+    "id": "87",
+    "slug": "hartz-dura-play-ball",
+    "name": "Hartz Dura Play Ball",
+    "brand": "Hartz",
+    "category": "toys",
+    "price": 7.99,
+    "compareAt": null,
+    "stock": 35,
+    "image": "/img/products/hartz-dura-play-ball.jpg",
+    "images": [],
+    "description": "A lightweight latex ball filled with bacon-scented foam that floats and squeaks. Soft enough for small dogs and puppies, and easy on the budget.",
+    "details": [
+      "Latex with scented foam",
+      "Small, 6 cm",
+      "Floats; squeaks",
+      "Not for heavy chewers"
+    ],
+    "tags": [
+      "long-dog"
+    ],
+    "createdAt": "2026-10-05T02:00:00.000Z"
+  },
+  {
+    "id": "88",
+    "slug": "mammoth-flossy-chews-3-knot-rope-tug",
+    "name": "Mammoth Flossy Chews 3-Knot Rope Tug",
+    "brand": "Mammoth",
+    "category": "toys",
+    "price": 9.99,
+    "compareAt": null,
+    "stock": 35,
+    "image": "/img/products/mammoth-flossy-chews-3-knot-rope-tug.jpg",
+    "images": [],
+    "description": "A colourful cotton-poly rope with three knots for tug, toss and chewing. The fibres help floss teeth while your dog plays.",
+    "details": [
+      "Cotton-poly blend rope",
+      "Medium, about 50 cm",
+      "Machine washable, air dry",
+      "Replace when strands start to come loose"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-05T03:00:00.000Z"
+  },
+  {
+    "id": "89",
+    "slug": "nylabone-puppy-chew-teething-keys",
+    "name": "Nylabone Puppy Chew Teething Keys",
+    "brand": "Nylabone",
+    "category": "toys",
+    "price": 9.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/nylabone-puppy-chew-teething-keys.jpg",
+    "images": [],
+    "description": "A ring of textured key-shaped chews, softer than adult Nylabones, for puppies working through the teething stage. Freeze it for a cool chew on sore gums.",
+    "details": [
+      "Soft puppy-safe material, chicken flavour",
+      "For puppies up to 11 kg",
+      "Can be chilled in the freezer",
+      "Supervise chewing"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-05T04:00:00.000Z"
+  },
+  {
+    "id": "90",
+    "slug": "nylabone-durachew-double-bone",
+    "name": "Nylabone DuraChew Double Bone",
+    "brand": "Nylabone",
+    "category": "toys",
+    "price": 14.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/nylabone-durachew-double-bone.jpg",
+    "images": [],
+    "description": "A double-ended bone with knuckles at each end for strong chewers. The bristles raised as your dog chews help clean teeth.",
+    "details": [
+      "Durable nylon, chicken flavour",
+      "Regular size for dogs up to 11 kg",
+      "Replace when knuckles are worn down",
+      "Supervise chewing"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-05T05:00:00.000Z"
+  },
+  {
+    "id": "91",
+    "slug": "benebone-dental-chew-bacon",
+    "name": "Benebone Dental Chew, Bacon",
+    "brand": "Benebone",
+    "category": "toys",
+    "price": 19.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/benebone-dental-chew-bacon.jpg",
+    "images": [],
+    "description": "A curved chew with deep grooves and ridges that help scrape teeth while your dog gnaws. The curved shape is easy for paws to hold, and real bacon is in the nylon.",
+    "details": [
+      "Nylon with real bacon flavour",
+      "Small size for dogs up to 14 kg",
+      "Replace when worn down",
+      "Made in the USA; supervise chewing"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-05T06:00:00.000Z"
+  },
+  {
+    "id": "92",
+    "slug": "benebone-maplestick",
+    "name": "Benebone Maplestick",
+    "brand": "Benebone",
+    "category": "toys",
+    "price": 21.99,
+    "compareAt": null,
+    "stock": 20,
+    "image": "/img/products/benebone-maplestick.jpg",
+    "images": [],
+    "description": "Shaped like a stick and made with real maple wood, so it smells like the outdoors without splintering. A good swap for the dog who brings sticks inside.",
+    "details": [
+      "Nylon with real maplewood",
+      "Small size for dogs up to 14 kg",
+      "Will not splinter",
+      "Supervise chewing"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-10-05T07:00:00.000Z"
+  },
+  {
+    "id": "93",
+    "slug": "west-paw-zogoflex-hurley",
+    "name": "West Paw Zogoflex Hurley",
+    "brand": "West Paw",
+    "category": "toys",
+    "price": 21.99,
+    "compareAt": null,
+    "stock": 20,
+    "image": "/img/products/west-paw-zogoflex-hurley.jpg",
+    "images": [],
+    "description": "A bone-shaped chew that’s bouncy, buoyant and easy on teeth. It holds up to a lot of chewing, and West Paw replaces it once if your dog chews through it.",
+    "details": [
+      "Zogoflex material, BPA and latex free",
+      "Small, 15 cm",
+      "Floats; dishwasher safe",
+      "Recyclable"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-05T08:00:00.000Z"
+  },
+  {
+    "id": "94",
+    "slug": "west-paw-zogoflex-jive-ball-mini",
+    "name": "West Paw Zogoflex Jive Ball, Mini",
+    "brand": "West Paw",
+    "category": "toys",
+    "price": 14.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/west-paw-zogoflex-jive-ball-mini.jpg",
+    "images": [],
+    "description": "A small, bouncy, rounded ball with dimples that make it hop in fun directions. The mini size is made for small dogs, and it floats and is easy to clean.",
+    "details": [
+      "Zogoflex material, BPA and latex free",
+      "Mini, 5 cm",
+      "Floats; dishwasher safe",
+      "Recyclable"
+    ],
+    "tags": [
+      "new",
+      "long-dog"
+    ],
+    "createdAt": "2026-10-05T09:00:00.000Z"
+  },
+  {
+    "id": "95",
+    "slug": "petstages-cool-teething-stick",
+    "name": "Petstages Cool Teething Stick",
+    "brand": "Petstages",
+    "category": "toys",
+    "price": 9.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/petstages-cool-teething-stick.jpg",
+    "images": [],
+    "description": "A soft teething stick you freeze before giving, so it cools and soothes sore puppy gums. The raised nubs massage gums as they chew.",
+    "details": [
+      "Freezable puppy teether",
+      "Small, 15 cm",
+      "Nubby texture",
+      "Supervise chewing"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-05T10:00:00.000Z"
+  },
+  {
+    "id": "96",
+    "slug": "pet-qwerks-talking-babble-ball",
+    "name": "Pet Qwerks Talking Babble Ball",
+    "brand": "Pet Qwerks",
+    "category": "toys",
+    "price": 14.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/pet-qwerks-talking-babble-ball.jpg",
+    "images": [],
+    "description": "A motion-activated ball that talks, giggles and makes animal sounds when your dog nudges it. Good for keeping a curious dog busy when you’re not on the floor playing.",
+    "details": [
+      "Motion activated, 20+ sounds",
+      "Small, 6 cm",
+      "Replaceable batteries included",
+      "Not a chew toy"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-05T11:00:00.000Z"
+  },
+  {
+    "id": "97",
+    "slug": "pet-qwerks-barkbone-nylon-bone-bacon",
+    "name": "Pet Qwerks BarkBone Nylon Bone, Bacon",
+    "brand": "Pet Qwerks",
+    "category": "toys",
+    "price": 15.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/pet-qwerks-barkbone-nylon-bone-bacon.jpg",
+    "images": [],
+    "description": "A flavour-infused nylon bone for strong chewers, with ridges that help clean teeth. Bacon flavour runs all the way through, so it stays interesting as it wears.",
+    "details": [
+      "Nylon, bacon flavour throughout",
+      "Small size for dogs up to 14 kg",
+      "Replace when worn down",
+      "Supervise chewing"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-05T12:00:00.000Z"
+  },
+  {
+    "id": "98",
+    "slug": "kong-holiday-classic",
+    "name": "KONG Holiday Classic",
+    "brand": "KONG",
+    "category": "toys",
+    "price": 15.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/kong-holiday-classic.jpg",
+    "images": [],
+    "description": "The classic KONG in a festive red with a snowflake pattern. Stuff it with a holiday treat or peanut butter and freeze it to keep your dog busy while the turkey cooks.",
+    "details": [
+      "Natural rubber, dishwasher safe (top rack)",
+      "Small size for dogs up to 9 kg",
+      "Limited holiday edition",
+      "Supervise play"
+    ],
+    "tags": [
+      "holiday",
+      "gift"
+    ],
+    "createdAt": "2026-10-05T13:00:00.000Z"
+  },
+  {
+    "id": "99",
+    "slug": "p-l-a-y-merry-woofmas-santas-cookies",
+    "name": "P.L.A.Y. Merry Woofmas Santa’s Cookies",
+    "brand": "P.L.A.Y.",
+    "category": "toys",
+    "price": 14.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/p-l-a-y-merry-woofmas-santas-cookies.jpg",
+    "images": [],
+    "description": "A plush plate of milk and cookies for Santa, with three small squeaky cookies to pull off and carry around. Chew Guard lining and recycled stuffing make it sturdy and better for the planet.",
+    "details": [
+      "Plush with Chew Guard lining",
+      "Three small squeaky pieces",
+      "Stuffed with recycled fibre",
+      "Machine washable on gentle"
+    ],
+    "tags": [
+      "holiday",
+      "gift",
+      "long-dog"
+    ],
+    "createdAt": "2026-10-05T14:00:00.000Z"
+  },
+  {
+    "id": "100",
+    "slug": "p-l-a-y-merry-woofmas-hot-cocoa",
+    "name": "P.L.A.Y. Merry Woofmas Hot Cocoa",
+    "brand": "P.L.A.Y.",
+    "category": "toys",
+    "price": 14.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/p-l-a-y-merry-woofmas-hot-cocoa.jpg",
+    "images": [],
+    "description": "A cozy plush mug of hot cocoa topped with a marshmallow, with a squeaker and crinkle inside. It’s a cute stocking stuffer and a great holiday photo prop.",
+    "details": [
+      "Plush with Chew Guard lining",
+      "Squeaker and crinkle",
+      "About 15 cm",
+      "Machine washable on gentle"
+    ],
+    "tags": [
+      "new",
+      "holiday",
+      "gift"
+    ],
+    "createdAt": "2026-10-05T15:00:00.000Z"
+  },
+  {
+    "id": "101",
+    "slug": "zippypaws-holiday-burrow-christmas-stocking",
+    "name": "ZippyPaws Holiday Burrow, Christmas Stocking",
+    "brand": "ZippyPaws",
+    "category": "toys",
+    "price": 17.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/zippypaws-holiday-burrow-christmas-stocking.jpg",
+    "images": [],
+    "description": "A plush red stocking with three squeaky toys tucked inside, ready for your dog to dig out on Christmas morning. A favourite with dachshunds and other little burrowers.",
+    "details": [
+      "Plush stocking with 3 squeaky toys",
+      "Small toys sized for little mouths",
+      "Great for diggers and burrowers",
+      "Surface wash"
+    ],
+    "tags": [
+      "holiday",
+      "long-dog"
+    ],
+    "createdAt": "2026-10-05T16:00:00.000Z"
+  },
+  {
+    "id": "102",
+    "slug": "multipet-holiday-loofa-dog",
+    "name": "Multipet Holiday Loofa Dog",
+    "brand": "Multipet",
+    "category": "toys",
+    "price": 9.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/multipet-holiday-loofa-dog.jpg",
+    "images": [],
+    "description": "The classic floppy Loofa Dog dressed for the season in red and green with a little holiday hat. Squeaky, lightweight and just the right size for small dogs.",
+    "details": [
+      "Plush with squeaker",
+      "30 cm long",
+      "Limited holiday edition",
+      "Not for heavy chewers"
+    ],
+    "tags": [
+      "holiday",
+      "long-dog"
+    ],
+    "createdAt": "2026-10-05T17:00:00.000Z"
+  },
+  {
+    "id": "103",
+    "slug": "greenies-blueberry-dental-treats-teenie",
+    "name": "Greenies Blueberry Dental Treats, Teenie",
+    "brand": "Greenies",
+    "category": "treats",
+    "price": 24.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/greenies-blueberry-dental-treats-teenie.jpg",
+    "images": [],
+    "description": "The same toothbrush-shaped dental chew as the original, with blueberry flavour for dogs who like a change. The chewy texture works against plaque and tartar, and Teenie size suits small dogs from 2 to 7 kg.",
+    "details": [
+      "Teenie size, for dogs 2 to 7 kg",
+      "One treat a day",
+      "Not for puppies under 6 months",
+      "Always provide fresh water"
+    ],
+    "tags": [
+      "long-dog"
+    ],
+    "createdAt": "2026-10-05T18:00:00.000Z"
+  },
+  {
+    "id": "104",
+    "slug": "whimzees-natural-dental-chews-small-28-count",
+    "name": "Whimzees Natural Dental Chews, Small, 28 Count",
+    "brand": "Whimzees",
+    "category": "treats",
+    "price": 29.99,
+    "compareAt": 34.99,
+    "stock": 35,
+    "image": "/img/products/whimzees-natural-dental-chews-small-28-count.jpg",
+    "images": [],
+    "description": "Vegetable-based dental chews shaped with ridges and knobbly bits that reach between teeth. They contain no meat, gluten or artificial colours, which helps dogs with touchy stomachs. A month of chews for a small dog in one bag.",
+    "details": [
+      "Made from potato starch and vegetable ingredients",
+      "Small size, for dogs 7 to 12 kg",
+      "One chew a day",
+      "Supervise chewing; provide fresh water"
+    ],
+    "tags": [
+      "best",
+      "long-dog"
+    ],
+    "createdAt": "2026-10-05T19:00:00.000Z"
+  },
+  {
+    "id": "105",
+    "slug": "purina-dentalife-daily-oral-care-mini-chews-40-count",
+    "name": "Purina DentaLife Daily Oral Care Mini Chews, 40 Count",
+    "brand": "Purina DentaLife",
+    "category": "treats",
+    "price": 18.99,
+    "compareAt": null,
+    "stock": 40,
+    "image": "/img/products/purina-dentalife-daily-oral-care-mini-chews-40-count.jpg",
+    "images": [],
+    "description": "Porous, chewy sticks with ridges that help clean down to the gumline. Mini size is right for toy and small breeds, and a daily chew is an easy habit to keep between brushings.",
+    "details": [
+      "Mini size, for dogs 2.5 to 9 kg",
+      "Chicken flavour",
+      "One chew a day",
+      "Not for puppies under 6 months"
+    ],
+    "tags": [
+      "gift",
+      "long-dog"
+    ],
+    "createdAt": "2026-10-05T20:00:00.000Z"
+  },
+  {
+    "id": "106",
+    "slug": "milk-bone-brushing-chews-mini-25-count",
+    "name": "Milk-Bone Brushing Chews, Mini, 25 Count",
+    "brand": "Milk-Bone",
+    "category": "treats",
+    "price": 14.99,
+    "compareAt": 17.99,
+    "stock": 40,
+    "image": "/img/products/milk-bone-brushing-chews-mini-25-count.jpg",
+    "images": [],
+    "description": "A twisty, nubbed dental chew that cleans as your dog works through it. It’s a soft enough chew for small mouths and a good daily option for dogs who won’t sit for a toothbrush.",
+    "details": [
+      "Mini size, for dogs 2 to 11 kg",
+      "One chew a day",
+      "Not for puppies under 6 months",
+      "Provide fresh water"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-05T21:00:00.000Z"
+  },
+  {
+    "id": "107",
+    "slug": "virbac-c-e-t-veggiedent-fr3sh-chews-extra-small-30-count",
+    "name": "Virbac C.E.T. VeggieDent FR3SH Chews, Extra Small, 30 Count",
+    "brand": "Virbac",
+    "category": "treats",
+    "price": 32.99,
+    "compareAt": null,
+    "stock": 20,
+    "image": "/img/products/virbac-c-e-t-veggiedent-fr3sh-chews-extra-small-30-count.jpg",
+    "images": [],
+    "description": "A vegetable-based Z-shaped chew from the same team behind C.E.T. toothpaste. The shape bends to reach back teeth, and it’s often the chew vets suggest for small dogs prone to tartar.",
+    "details": [
+      "Extra Small size, for dogs under 5 kg",
+      "Corn-free, vegetable-based recipe",
+      "One chew a day",
+      "Supervise chewing"
+    ],
+    "tags": [
+      "long-dog"
+    ],
+    "createdAt": "2026-10-05T22:00:00.000Z"
+  },
+  {
+    "id": "108",
+    "slug": "zukes-mini-naturals-salmon-training-treats",
+    "name": "Zuke’s Mini Naturals Salmon Training Treats",
+    "brand": "Zuke’s",
+    "category": "treats",
+    "price": 11.99,
+    "compareAt": null,
+    "stock": 45,
+    "image": "/img/products/zukes-mini-naturals-salmon-training-treats.jpg",
+    "images": [],
+    "description": "Soft, tiny salmon treats that break easily and go down quickly, so training sessions keep moving. Each one is under 3 calories, which matters for small, long-backed dogs who need to stay trim.",
+    "details": [
+      "Under 3 calories per treat",
+      "Real salmon is the first ingredient",
+      "Soft and moist; reseal after opening",
+      "170 g bag"
+    ],
+    "tags": [
+      "gift",
+      "long-dog"
+    ],
+    "createdAt": "2026-10-05T23:00:00.000Z"
+  },
+  {
+    "id": "109",
+    "slug": "wellness-soft-puppy-bites-lamb-salmon",
+    "name": "Wellness Soft Puppy Bites, Lamb & Salmon",
+    "brand": "Wellness",
+    "category": "treats",
+    "price": 10.99,
+    "compareAt": null,
+    "stock": 35,
+    "image": "/img/products/wellness-soft-puppy-bites-lamb-salmon.jpg",
+    "images": [],
+    "description": "Soft, grain-free bites made for puppy teeth and puppy attention spans. They include DHA from salmon oil, and they’re easy to tear into smaller pieces for little mouths.",
+    "details": [
+      "Grain-free recipe with lamb and salmon",
+      "Soft texture for young puppies",
+      "Reseal bag to keep fresh",
+      "85 g bag"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-06T00:00:00.000Z"
+  },
+  {
+    "id": "110",
+    "slug": "fruitables-skinny-minis-pumpkin-berry-chewy-treats",
+    "name": "Fruitables Skinny Minis Pumpkin & Berry Chewy Treats",
+    "brand": "Fruitables",
+    "category": "treats",
+    "price": 9.99,
+    "compareAt": null,
+    "stock": 40,
+    "image": "/img/products/fruitables-skinny-minis-pumpkin-berry-chewy-treats.jpg",
+    "images": [],
+    "description": "Soft little treats made with pumpkin and berries, at about 3 calories each. They’re a good fit for frequent rewards without blowing a small dog’s daily calories.",
+    "details": [
+      "About 3 calories per treat",
+      "Pumpkin and berry recipe",
+      "Soft and chewy",
+      "141 g bag"
+    ],
+    "tags": [
+      "gift",
+      "new"
+    ],
+    "createdAt": "2026-10-06T01:00:00.000Z"
+  },
+  {
+    "id": "111",
+    "slug": "cloud-star-tricky-trainers-chewy-liver-treats",
+    "name": "Cloud Star Tricky Trainers Chewy Liver Treats",
+    "brand": "Cloud Star",
+    "category": "treats",
+    "price": 9.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/cloud-star-tricky-trainers-chewy-liver-treats.jpg",
+    "images": [],
+    "description": "Tiny chewy liver treats with a strong smell dogs notice, which helps in distracting places like the park. At around 1.5 calories each, you can hand out a lot of them.",
+    "details": [
+      "About 1.5 calories per treat",
+      "Liver flavour",
+      "Soft and chewy",
+      "142 g pouch"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-06T02:00:00.000Z"
+  },
+  {
+    "id": "112",
+    "slug": "pet-botanics-training-reward-bacon-treats",
+    "name": "Pet Botanics Training Reward Bacon Treats",
+    "brand": "Pet Botanics",
+    "category": "treats",
+    "price": 10.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/pet-botanics-training-reward-bacon-treats.jpg",
+    "images": [],
+    "description": "Small, soft bacon-flavoured rewards that are easy to break up even smaller. A popular choice in obedience classes because they’re cheap per treat and don’t crumble in a pocket.",
+    "details": [
+      "About 3 calories per treat",
+      "Bacon flavour",
+      "Soft and moist; reseal after opening",
+      "113 g bag"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-06T03:00:00.000Z"
+  },
+  {
+    "id": "113",
+    "slug": "purina-beggin-strips-bacon-flavour-170-g",
+    "name": "Purina Beggin’ Strips Bacon Flavour, 170 g",
+    "brand": "Purina Beggin’",
+    "category": "treats",
+    "price": 7.99,
+    "compareAt": null,
+    "stock": 50,
+    "image": "/img/products/purina-beggin-strips-bacon-flavour-170-g.jpg",
+    "images": [],
+    "description": "The bacon-style strips dogs go silly for. They tear easily, so you can split one into pieces for a small dog and make the bag go further.",
+    "details": [
+      "Bacon flavour soft strips",
+      "Tear into smaller pieces for small dogs",
+      "Feed as a treat alongside a complete diet",
+      "170 g bag"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-06T04:00:00.000Z"
+  },
+  {
+    "id": "114",
+    "slug": "pup-peroni-original-beef-sticks-158-g",
+    "name": "Pup-Peroni Original Beef Sticks, 158 g",
+    "brand": "Pup-Peroni",
+    "category": "treats",
+    "price": 7.99,
+    "compareAt": null,
+    "stock": 45,
+    "image": "/img/products/pup-peroni-original-beef-sticks-158-g.jpg",
+    "images": [],
+    "description": "Soft, chewy beef sticks that slice cleanly with kitchen scissors into bite-sized rewards. They smell strong, which is the point, and they stay soft in a treat pouch.",
+    "details": [
+      "Real beef is the first ingredient",
+      "Cut into smaller pieces for small dogs",
+      "Reseal after opening",
+      "158 g bag"
+    ],
+    "tags": [
+      "gift",
+      "best"
+    ],
+    "createdAt": "2026-10-06T05:00:00.000Z"
+  },
+  {
+    "id": "115",
+    "slug": "blue-buffalo-wilderness-trail-treats-chicken",
+    "name": "Blue Buffalo Wilderness Trail Treats, Chicken",
+    "brand": "Blue Buffalo",
+    "category": "treats",
+    "price": 9.99,
+    "compareAt": null,
+    "stock": 35,
+    "image": "/img/products/blue-buffalo-wilderness-trail-treats-chicken.jpg",
+    "images": [],
+    "description": "Crunchy, grain-free biscuits made with chicken and no corn, wheat or soy. They snap easily, so half a biscuit makes a good reward for a small dog.",
+    "details": [
+      "Grain-free recipe, chicken first",
+      "Crunchy biscuit",
+      "Snap in half for small dogs",
+      "284 g bag"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-06T06:00:00.000Z"
+  },
+  {
+    "id": "116",
+    "slug": "stella-chewys-just-breast-freeze-dried-chicken-treats",
+    "name": "Stella & Chewy’s Just Breast Freeze-Dried Chicken Treats",
+    "brand": "Stella & Chewy’s",
+    "category": "treats",
+    "price": 16.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/stella-chewys-just-breast-freeze-dried-chicken-treats.jpg",
+    "images": [],
+    "description": "Single-ingredient chicken breast, freeze-dried into light, crumbly pieces. Good for dogs on limited diets, and easy to break up for training.",
+    "details": [
+      "Single ingredient: chicken breast",
+      "Freeze-dried raw",
+      "Break into smaller pieces as needed",
+      "78 g bag"
+    ],
+    "tags": [
+      "gift",
+      "new"
+    ],
+    "createdAt": "2026-10-06T07:00:00.000Z"
+  },
+  {
+    "id": "117",
+    "slug": "orijen-freeze-dried-treats-original",
+    "name": "ORIJEN Freeze-Dried Treats, Original",
+    "brand": "ORIJEN",
+    "category": "treats",
+    "price": 17.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/orijen-freeze-dried-treats-original.jpg",
+    "images": [],
+    "description": "Freeze-dried chicken, turkey and fish formed into small squares, with no fillers. They’re rich, so a few pieces go a long way, and they crumble nicely over a puzzle toy.",
+    "details": [
+      "Chicken, turkey, fish and organs",
+      "Freeze-dried, no fillers",
+      "Break into pieces for small dogs",
+      "42.5 g bag"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-06T08:00:00.000Z"
+  },
+  {
+    "id": "118",
+    "slug": "acana-singles-freeze-dried-treats-beef-liver",
+    "name": "ACANA Singles Freeze-Dried Treats, Beef Liver",
+    "brand": "ACANA",
+    "category": "treats",
+    "price": 15.99,
+    "compareAt": null,
+    "stock": 20,
+    "image": "/img/products/acana-singles-freeze-dried-treats-beef-liver.jpg",
+    "images": [],
+    "description": "One protein, freeze-dried into crunchy bites with nothing else added. Liver is a high-value reward, so save it for recall practice and other big wins.",
+    "details": [
+      "Single ingredient: beef liver",
+      "Freeze-dried",
+      "Very rich; feed in small amounts",
+      "35 g bag"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-06T09:00:00.000Z"
+  },
+  {
+    "id": "119",
+    "slug": "open-farm-dehydrated-grass-fed-beef-treats",
+    "name": "Open Farm Dehydrated Grass-Fed Beef Treats",
+    "brand": "Open Farm",
+    "category": "treats",
+    "price": 15.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/open-farm-dehydrated-grass-fed-beef-treats.jpg",
+    "images": [],
+    "description": "Gently dehydrated beef pieces from a brand that publishes where its ingredients come from. Chewy rather than crumbly, so they last a little longer than freeze-dried treats.",
+    "details": [
+      "Grass-fed beef",
+      "Dehydrated, chewy texture",
+      "Tear into smaller pieces for small dogs",
+      "128 g bag"
+    ],
+    "tags": [
+      "gift",
+      "new"
+    ],
+    "createdAt": "2026-10-06T10:00:00.000Z"
+  },
+  {
+    "id": "120",
+    "slug": "northwest-naturals-freeze-dried-chicken-breast-treats",
+    "name": "Northwest Naturals Freeze-Dried Chicken Breast Treats",
+    "brand": "Northwest Naturals",
+    "category": "treats",
+    "price": 14.99,
+    "compareAt": 16.99,
+    "stock": 25,
+    "image": "/img/products/northwest-naturals-freeze-dried-chicken-breast-treats.jpg",
+    "images": [],
+    "description": "Plain chicken breast, freeze-dried in small chunks. A simple, high-protein reward for picky dogs or ones that need to avoid grains and additives.",
+    "details": [
+      "Single ingredient: chicken breast",
+      "Freeze-dried raw",
+      "Rehydrate with water for older dogs if you like",
+      "85 g tub"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-06T11:00:00.000Z"
+  },
+  {
+    "id": "121",
+    "slug": "crumps-naturals-mini-trainers-beef-liver",
+    "name": "Crumps’ Naturals Mini Trainers, Beef Liver",
+    "brand": "Crumps’ Naturals",
+    "category": "treats",
+    "price": 9.99,
+    "compareAt": null,
+    "stock": 40,
+    "image": "/img/products/crumps-naturals-mini-trainers-beef-liver.jpg",
+    "images": [],
+    "description": "Freeze-dried beef liver cut into tiny cubes, made in Canada by Crumps’. Each piece is small enough for a dachshund-sized mouth, with no need to break anything up.",
+    "details": [
+      "Single ingredient: beef liver",
+      "Freeze-dried, made in Canada",
+      "Tiny cubes for small dogs and training",
+      "126 g tub"
+    ],
+    "tags": [
+      "gift",
+      "long-dog"
+    ],
+    "createdAt": "2026-10-06T12:00:00.000Z"
+  },
+  {
+    "id": "122",
+    "slug": "granville-island-pet-treatery-wild-salmon-bites",
+    "name": "Granville Island Pet Treatery Wild Salmon Bites",
+    "brand": "Granville Island Pet Treatery",
+    "category": "treats",
+    "price": 13.99,
+    "compareAt": null,
+    "stock": 20,
+    "image": "/img/products/granville-island-pet-treatery-wild-salmon-bites.jpg",
+    "images": [],
+    "description": "Made in Vancouver from wild Pacific salmon, dried into small crunchy bites. A good option for dogs with chicken or beef sensitivities.",
+    "details": [
+      "Single ingredient: wild salmon",
+      "Made in British Columbia",
+      "Crunchy texture",
+      "70 g bag"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-06T13:00:00.000Z"
+  },
+  {
+    "id": "123",
+    "slug": "oven-baked-tradition-peanut-butter-biscuits-small",
+    "name": "Oven-Baked Tradition Peanut Butter Biscuits, Small",
+    "brand": "Oven-Baked Tradition",
+    "category": "treats",
+    "price": 11.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/oven-baked-tradition-peanut-butter-biscuits-small.jpg",
+    "images": [],
+    "description": "Crunchy biscuits baked in small batches in Quebec, with peanut butter and simple ingredients. The small size is easy to give whole to small dogs.",
+    "details": [
+      "Made in Canada",
+      "Small biscuits for small breeds",
+      "Crunchy, oven-baked",
+      "454 g bag"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-06T14:00:00.000Z"
+  },
+  {
+    "id": "124",
+    "slug": "benny-bullys-liver-chops-58-g",
+    "name": "Benny Bully’s Liver Chops, 58 g",
+    "brand": "Benny Bully’s",
+    "category": "treats",
+    "price": 14.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/benny-bullys-liver-chops-58-g.jpg",
+    "images": [],
+    "description": "Pure Canadian beef liver, freeze-dried into crumbly chops that dogs will do just about anything for. Break them into crumbs for tiny dogs or sprinkle over a lick mat.",
+    "details": [
+      "Single ingredient: beef liver",
+      "Freeze-dried, made in Canada",
+      "Crumble for small dogs",
+      "58 g tub"
+    ],
+    "tags": [
+      "gift",
+      "best"
+    ],
+    "createdAt": "2026-10-06T15:00:00.000Z"
+  },
+  {
+    "id": "125",
+    "slug": "northern-biscuit-peanut-butter-dog-biscuits",
+    "name": "Northern Biscuit Peanut Butter Dog Biscuits",
+    "brand": "Northern Biscuit",
+    "category": "treats",
+    "price": 12.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/northern-biscuit-peanut-butter-dog-biscuits.jpg",
+    "images": [],
+    "description": "Crunchy biscuits from a Canadian bakery, made with peanut butter and a short ingredient list. They have a satisfying snap that dogs seem to enjoy.",
+    "details": [
+      "Made in Canada",
+      "Crunchy baked biscuit",
+      "Snap in half for small dogs",
+      "400 g bag"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-06T16:00:00.000Z"
+  },
+  {
+    "id": "126",
+    "slug": "now-fresh-grain-free-crunchy-treats-turkey",
+    "name": "NOW FRESH Grain-Free Crunchy Treats, Turkey",
+    "brand": "NOW FRESH",
+    "category": "treats",
+    "price": 10.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/now-fresh-grain-free-crunchy-treats-turkey.jpg",
+    "images": [],
+    "description": "Crunchy turkey treats from Petcurean, the Canadian maker based in BC. They’re grain-free and sized small enough to share easily.",
+    "details": [
+      "Grain-free turkey recipe",
+      "Made by Petcurean in Canada",
+      "Crunchy texture",
+      "227 g bag"
+    ],
+    "tags": [
+      "gift",
+      "new"
+    ],
+    "createdAt": "2026-10-06T17:00:00.000Z"
+  },
+  {
+    "id": "127",
+    "slug": "redbarn-bully-sticks-7-inch-3-pack",
+    "name": "Redbarn Bully Sticks, 7 Inch, 3 Pack",
+    "brand": "Redbarn",
+    "category": "treats",
+    "price": 17.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/redbarn-bully-sticks-7-inch-3-pack.jpg",
+    "images": [],
+    "description": "Single-ingredient beef bully sticks that soften as they’re chewed. A 7 inch stick keeps a small dog busy for a good while; take it away once it’s short enough to swallow.",
+    "details": [
+      "Single ingredient: beef pizzle",
+      "About 18 cm long, three sticks",
+      "Remove when small enough to swallow",
+      "Supervise chewing"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-06T18:00:00.000Z"
+  },
+  {
+    "id": "128",
+    "slug": "redbarn-filled-bone-peanut-butter-small",
+    "name": "Redbarn Filled Bone, Peanut Butter, Small",
+    "brand": "Redbarn",
+    "category": "treats",
+    "price": 6.99,
+    "compareAt": null,
+    "stock": 40,
+    "image": "/img/products/redbarn-filled-bone-peanut-butter-small.jpg",
+    "images": [],
+    "description": "A real beef bone filled with a peanut butter centre. Dogs work at the filling first, and once it’s cleaned out you can refill it with your own spread.",
+    "details": [
+      "Natural beef bone with peanut butter filling",
+      "Small size, about 8 cm",
+      "Not for aggressive chewers; check for sharp edges",
+      "Supervise chewing"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-06T19:00:00.000Z"
+  },
+  {
+    "id": "129",
+    "slug": "nature-gnaws-braided-bully-sticks-6-inch-3-pack",
+    "name": "Nature Gnaws Braided Bully Sticks, 6 Inch, 3 Pack",
+    "brand": "Nature Gnaws",
+    "category": "treats",
+    "price": 21.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/nature-gnaws-braided-bully-sticks-6-inch-3-pack.jpg",
+    "images": [],
+    "description": "Three bully sticks braided together for a thicker, longer-lasting chew. Made from grass-fed beef with nothing added.",
+    "details": [
+      "Single ingredient: grass-fed beef",
+      "About 15 cm braided sticks, three per pack",
+      "Remove when small enough to swallow",
+      "Supervise chewing"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-06T20:00:00.000Z"
+  },
+  {
+    "id": "130",
+    "slug": "himalayan-yak-cheese-chew-medium",
+    "name": "Himalayan Yak Cheese Chew, Medium",
+    "brand": "Himalayan Dog Chew",
+    "category": "treats",
+    "price": 16.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/himalayan-yak-cheese-chew-medium.jpg",
+    "images": [],
+    "description": "A hard chew made from yak and cow milk, a step up in size from the small. Dogs gnaw it slowly, and the last nub can be microwaved into a crunchy puff.",
+    "details": [
+      "Yak and cow milk, salt and lime juice",
+      "Medium size, for dogs up to 16 kg",
+      "Microwave the end piece 30 to 60 seconds to puff",
+      "Supervise chewing"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-06T21:00:00.000Z"
+  },
+  {
+    "id": "131",
+    "slug": "earth-animal-no-hide-chicken-chews-small-2-pack",
+    "name": "Earth Animal No-Hide Chicken Chews, Small, 2 Pack",
+    "brand": "Earth Animal",
+    "category": "treats",
+    "price": 9.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/earth-animal-no-hide-chicken-chews-small-2-pack.jpg",
+    "images": [],
+    "description": "A rawhide alternative made from chicken and brown rice flour, rolled into a familiar chew shape. It softens and digests more easily than rawhide, which is a relief for small dogs who swallow big pieces.",
+    "details": [
+      "Made with chicken, brown rice flour and egg",
+      "Small 10 cm chews, two per pack",
+      "Rawhide-free and digestible",
+      "Supervise chewing"
+    ],
+    "tags": [
+      "gift",
+      "long-dog"
+    ],
+    "createdAt": "2026-10-06T22:00:00.000Z"
+  },
+  {
+    "id": "132",
+    "slug": "old-mother-hubbard-classic-original-assortment-mini",
+    "name": "Old Mother Hubbard Classic Original Assortment, Mini",
+    "brand": "Old Mother Hubbard",
+    "category": "treats",
+    "price": 9.99,
+    "compareAt": null,
+    "stock": 35,
+    "image": "/img/products/old-mother-hubbard-classic-original-assortment-mini.jpg",
+    "images": [],
+    "description": "A mix of crunchy oven-baked biscuits in a few flavours, including chicken, liver and vegetable. Mini size works well for small dogs who like a crunch.",
+    "details": [
+      "Oven-baked, mixed flavours",
+      "Mini biscuits for small dogs",
+      "Store sealed in a cool, dry place",
+      "567 g bag"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-06T23:00:00.000Z"
+  },
+  {
+    "id": "133",
+    "slug": "bocces-bakery-pb-banana-soft-chewy-treats",
+    "name": "Bocce’s Bakery PB Banana Soft & Chewy Treats",
+    "brand": "Bocce’s Bakery",
+    "category": "treats",
+    "price": 11.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/bocces-bakery-pb-banana-soft-chewy-treats.jpg",
+    "images": [],
+    "description": "Soft, chewy treats made with peanut butter and banana and a short ingredient list. They’re soft enough for senior dogs and puppies.",
+    "details": [
+      "Peanut butter and banana recipe",
+      "Soft and chewy",
+      "Made in the USA",
+      "170 g bag"
+    ],
+    "tags": [
+      "gift",
+      "new"
+    ],
+    "createdAt": "2026-10-07T00:00:00.000Z"
+  },
+  {
+    "id": "134",
+    "slug": "greenies-pill-pockets-chicken-tablet-size",
+    "name": "Greenies Pill Pockets, Chicken, Tablet Size",
+    "brand": "Greenies",
+    "category": "treats",
+    "price": 12.99,
+    "compareAt": null,
+    "stock": 50,
+    "image": "/img/products/greenies-pill-pockets-chicken-tablet-size.jpg",
+    "images": [],
+    "description": "A soft treat with a pocket for hiding a pill. Pinch it shut around the tablet and most dogs never notice, which makes medication days much less of a fight.",
+    "details": [
+      "Tablet size, for small pills",
+      "Chicken flavour",
+      "30 pockets per bag",
+      "Reseal to keep soft"
+    ],
+    "tags": [
+      "gift",
+      "best"
+    ],
+    "createdAt": "2026-10-07T01:00:00.000Z"
+  },
+  {
+    "id": "135",
+    "slug": "zesty-paws-calming-bites-turkey-90-count",
+    "name": "Zesty Paws Calming Bites, Turkey, 90 Count",
+    "brand": "Zesty Paws",
+    "category": "treats",
+    "price": 39.99,
+    "compareAt": 44.99,
+    "stock": 20,
+    "image": "/img/products/zesty-paws-calming-bites-turkey-90-count.jpg",
+    "images": [],
+    "description": "Soft chews with chamomile, L-theanine and other calming ingredients, for dogs who struggle with fireworks, car rides or being left alone. Give one before the stressful thing happens for best results.",
+    "details": [
+      "Soft chew, turkey flavour",
+      "Dose by weight; see bag",
+      "Not a substitute for vet advice",
+      "90 chews"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-07T02:00:00.000Z"
+  },
+  {
+    "id": "136",
+    "slug": "pethonesty-hip-joint-health-chews-90-count",
+    "name": "PetHonesty Hip + Joint Health Chews, 90 Count",
+    "brand": "PetHonesty",
+    "category": "treats",
+    "price": 39.99,
+    "compareAt": 46.99,
+    "stock": 20,
+    "image": "/img/products/pethonesty-hip-joint-health-chews-90-count.jpg",
+    "images": [],
+    "description": "Daily soft chews with glucosamine, chondroitin and MSM to support joints. Long-backed breeds like dachshunds benefit from looking after their joints early, alongside keeping them lean.",
+    "details": [
+      "Glucosamine, chondroitin and MSM",
+      "Duck flavour soft chew",
+      "Dose by weight; see tub",
+      "Ask your vet before starting supplements"
+    ],
+    "tags": [
+      "long-dog"
+    ],
+    "createdAt": "2026-10-07T03:00:00.000Z"
+  },
+  {
+    "id": "137",
+    "slug": "dapple-goods-gingerbread-dachshund-cookies-6-pack",
+    "name": "Dapple Goods Gingerbread Dachshund Cookies, 6 Pack",
+    "brand": "Dapple Goods",
+    "category": "treats",
+    "price": 14.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/dapple-goods-gingerbread-dachshund-cookies-6-pack.jpg",
+    "images": [],
+    "description": "Crunchy gingerbread-style cookies cut in the shape of our favourite long dog, decorated with dog-safe yogurt icing. Made without nutmeg, xylitol or chocolate, so they’re safe for stocking stuffing.",
+    "details": [
+      "Wheat flour, molasses, ginger and yogurt icing",
+      "Six cookies, about 9 cm long",
+      "No nutmeg, xylitol or chocolate",
+      "Store in a cool, dry place"
+    ],
+    "tags": [
+      "holiday",
+      "gift",
+      "new",
+      "house"
+    ],
+    "createdAt": "2026-10-07T04:00:00.000Z"
+  },
+  {
+    "id": "138",
+    "slug": "dapple-goods-howliday-biscuit-tin",
+    "name": "Dapple Goods Howliday Biscuit Tin",
+    "brand": "Dapple Goods",
+    "category": "treats",
+    "price": 24.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/dapple-goods-howliday-biscuit-tin.jpg",
+    "images": [],
+    "description": "A round holiday tin filled with an assortment of crunchy biscuits shaped like trees, stars and mittens. The tin is worth keeping for treat storage after the biscuits are gone.",
+    "details": [
+      "Assorted baked biscuits, about 400 g",
+      "Reusable metal tin",
+      "Small biscuit sizes, good for small dogs",
+      "Feed as a treat alongside a complete diet"
+    ],
+    "tags": [
+      "holiday",
+      "gift",
+      "house"
+    ],
+    "createdAt": "2026-10-07T05:00:00.000Z"
+  },
+  {
+    "id": "139",
+    "slug": "bocces-bakery-gingerbread-biscuits",
+    "name": "Bocce’s Bakery Gingerbread Biscuits",
+    "brand": "Bocce’s Bakery",
+    "category": "treats",
+    "price": 9.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/bocces-bakery-gingerbread-biscuits.jpg",
+    "images": [],
+    "description": "A seasonal crunchy biscuit with ginger, cinnamon and molasses, from Bocce’s winter lineup. A simple way to let the dog join in on the holiday baking.",
+    "details": [
+      "Ginger, cinnamon and molasses recipe",
+      "Crunchy oven-baked biscuit",
+      "Limited seasonal flavour",
+      "141 g bag"
+    ],
+    "tags": [
+      "holiday",
+      "gift"
+    ],
+    "createdAt": "2026-10-07T06:00:00.000Z"
+  },
+  {
+    "id": "140",
+    "slug": "dapple-goods-candy-cane-bully-stick",
+    "name": "Dapple Goods Candy Cane Bully Stick",
+    "brand": "Dapple Goods",
+    "category": "treats",
+    "price": 11.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/dapple-goods-candy-cane-bully-stick.jpg",
+    "images": [],
+    "description": "A single bully stick twisted into a candy cane shape for the stocking. It’s the same single-ingredient beef chew as our everyday sticks, just in a festive shape.",
+    "details": [
+      "Single ingredient: beef pizzle",
+      "About 15 cm candy cane shape",
+      "Remove when small enough to swallow",
+      "Supervise chewing"
+    ],
+    "tags": [
+      "holiday",
+      "gift",
+      "house"
+    ],
+    "createdAt": "2026-10-07T07:00:00.000Z"
+  },
+  {
+    "id": "141",
+    "slug": "rc-pets-primary-collar-small",
+    "name": "RC Pets Primary Collar, Small",
+    "brand": "RC Pets",
+    "category": "walk",
+    "price": 17.99,
+    "compareAt": null,
+    "stock": 40,
+    "image": "/img/products/rc-pets-primary-collar-small.jpg",
+    "images": [],
+    "description": "A simple, sturdy nylon collar from a Canadian company that has been making dog gear in BC for years. The solid colours are bright and easy to match with a leash, and the plastic buckle clicks shut securely.",
+    "details": [
+      "Nylon webbing with welded steel D-ring",
+      "Small: fits necks 25 to 36 cm, 1.9 cm wide",
+      "Machine wash cold, air dry",
+      "Remove when your dog is unsupervised in a crate"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-07T08:00:00.000Z"
+  },
+  {
+    "id": "142",
+    "slug": "rc-pets-primary-leash-6-ft",
+    "name": "RC Pets Primary Leash, 6 ft",
+    "brand": "RC Pets",
+    "category": "walk",
+    "price": 21.99,
+    "compareAt": null,
+    "stock": 35,
+    "image": "/img/products/rc-pets-primary-leash-6-ft.jpg",
+    "images": [],
+    "description": "A plain, dependable 6 foot leash with a padded handle that stays comfortable on long walks. It comes in the same colours as the Primary collars, so a matching set is easy.",
+    "details": [
+      "Nylon webbing, 1.9 cm wide",
+      "1.8 m (6 ft) length",
+      "Nickel-plated swivel snap",
+      "Inspect stitching and clip regularly"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-07T09:00:00.000Z"
+  },
+  {
+    "id": "143",
+    "slug": "rc-pets-step-in-cirque-harness-small",
+    "name": "RC Pets Step-In Cirque Harness, Small",
+    "brand": "RC Pets",
+    "category": "walk",
+    "price": 34.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/rc-pets-step-in-cirque-harness-small.jpg",
+    "images": [],
+    "description": "A soft mesh step-in harness: your dog steps in with the front paws and it buckles across the back, with nothing pulled over the head. The chest panel spreads pressure away from the neck, which suits small, long-backed dogs who shouldn’t be pulled by a collar.",
+    "details": [
+      "Breathable air mesh with nylon trim",
+      "Small: chest 38 to 51 cm",
+      "Back buckle and D-ring for leash",
+      "Hand wash, air dry"
+    ],
+    "tags": [
+      "new",
+      "long-dog"
+    ],
+    "createdAt": "2026-10-07T10:00:00.000Z"
+  },
+  {
+    "id": "144",
+    "slug": "ruffwear-flagline-harness-small",
+    "name": "Ruffwear Flagline Harness, Small",
+    "brand": "Ruffwear",
+    "category": "walk",
+    "price": 79.99,
+    "compareAt": 89.99,
+    "stock": 15,
+    "image": "/img/products/ruffwear-flagline-harness-small.jpg",
+    "images": [],
+    "description": "A lightweight, low-profile harness built for hiking, with a front clip for dogs who pull and a back clip for easy walking. The sturdy top handle helps you lift your dog over a log or up a rocky step.",
+    "details": [
+      "Nylon webbing and foam-padded chest panel",
+      "Small: chest 56 to 69 cm",
+      "Front and back leash clips, top handle",
+      "Five adjustment points; hand wash"
+    ],
+    "tags": [
+      "best"
+    ],
+    "createdAt": "2026-10-07T11:00:00.000Z"
+  },
+  {
+    "id": "145",
+    "slug": "ruffwear-hi-light-harness-x-small",
+    "name": "Ruffwear Hi & Light Harness, X-Small",
+    "brand": "Ruffwear",
+    "category": "walk",
+    "price": 54.99,
+    "compareAt": null,
+    "stock": 18,
+    "image": "/img/products/ruffwear-hi-light-harness-x-small.jpg",
+    "images": [],
+    "description": "A very light, minimal harness for everyday walks and dogs who dislike bulky gear. It goes over the head and buckles on one side, and the thin padding keeps it from rubbing under the front legs.",
+    "details": [
+      "Lightweight mesh and nylon webbing",
+      "X-Small: chest 43 to 56 cm",
+      "Back leash attachment with reflective trim",
+      "Hand wash, air dry"
+    ],
+    "tags": [
+      "new",
+      "long-dog"
+    ],
+    "createdAt": "2026-10-07T12:00:00.000Z"
+  },
+  {
+    "id": "146",
+    "slug": "ruffwear-crag-collar-28-to-36-cm",
+    "name": "Ruffwear Crag Collar, 28 to 36 cm",
+    "brand": "Ruffwear",
+    "category": "walk",
+    "price": 39.99,
+    "compareAt": null,
+    "stock": 20,
+    "image": "/img/products/ruffwear-crag-collar-28-to-36-cm.jpg",
+    "images": [],
+    "description": "A tough, reflective collar with an aluminum buckle and a separate ring for ID tags, so tags don’t clank against the leash clip. The reflective weave picks up headlights on dark evening walks.",
+    "details": [
+      "Tubular webbing with reflective trim",
+      "Fits necks 28 to 36 cm",
+      "Aluminum V-ring and separate tag ring",
+      "Check fit regularly; two fingers under the collar"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-07T13:00:00.000Z"
+  },
+  {
+    "id": "147",
+    "slug": "ruffwear-roamer-bungee-leash",
+    "name": "Ruffwear Roamer Bungee Leash",
+    "brand": "Ruffwear",
+    "category": "walk",
+    "price": 54.99,
+    "compareAt": null,
+    "stock": 15,
+    "image": "/img/products/ruffwear-roamer-bungee-leash.jpg",
+    "images": [],
+    "description": "A stretchy leash that softens sudden lunges, with a handle that converts into a waist loop for hands-free walking or running. It adjusts from about 1.6 to 2 metres, which gives your dog a little room to sniff.",
+    "details": [
+      "Nylon webbing with internal bungee",
+      "Adjusts 1.6 to 2.1 m",
+      "Handle doubles as a waist strap",
+      "Not for dogs who chew leashes"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-07T14:00:00.000Z"
+  },
+  {
+    "id": "148",
+    "slug": "blueberry-pet-classic-solid-nylon-collar-small",
+    "name": "Blueberry Pet Classic Solid Nylon Collar, Small",
+    "brand": "Blueberry Pet",
+    "category": "walk",
+    "price": 12.99,
+    "compareAt": null,
+    "stock": 45,
+    "image": "/img/products/blueberry-pet-classic-solid-nylon-collar-small.jpg",
+    "images": [],
+    "description": "An inexpensive everyday collar in a wide range of solid colours. It is soft enough for all-day wear and the buckle is easy to work with cold fingers.",
+    "details": [
+      "Polyester webbing, plastic side-release buckle",
+      "Small: fits necks 30 to 41 cm, 1.5 cm wide",
+      "Metal D-ring for ID tags",
+      "Machine wash in a laundry bag"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-07T15:00:00.000Z"
+  },
+  {
+    "id": "149",
+    "slug": "petsafe-gentle-leader-headcollar-small",
+    "name": "PetSafe Gentle Leader Headcollar, Small",
+    "brand": "PetSafe",
+    "category": "walk",
+    "price": 29.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/petsafe-gentle-leader-headcollar-small.jpg",
+    "images": [],
+    "description": "A head halter that gently steers your dog’s nose, which makes pulling much harder without pressure on the throat. It takes a few days of treats and short sessions for most dogs to accept it, and it comes with a training guide.",
+    "details": [
+      "Nylon with padded nose loop",
+      "Small: dogs under 11 kg",
+      "Includes fitting and training guide",
+      "Never use with a long line or retractable leash"
+    ],
+    "tags": [
+      "best"
+    ],
+    "createdAt": "2026-10-07T16:00:00.000Z"
+  },
+  {
+    "id": "150",
+    "slug": "halti-optifit-headcollar-size-1",
+    "name": "Halti Optifit Headcollar, Size 1",
+    "brand": "Halti",
+    "category": "walk",
+    "price": 34.99,
+    "compareAt": null,
+    "stock": 20,
+    "image": "/img/products/halti-optifit-headcollar-size-1.jpg",
+    "images": [],
+    "description": "A padded head collar with a safety link that clips to the regular collar as a backup. It adjusts in several places for a snug fit and helps reduce pulling on walks.",
+    "details": [
+      "Neoprene-padded nose band",
+      "Size 1: small breeds and narrow muzzles",
+      "Safety strap attaches to collar",
+      "Introduce slowly with treats"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-10-07T17:00:00.000Z"
+  },
+  {
+    "id": "151",
+    "slug": "kurgo-quantum-6-in-1-leash",
+    "name": "Kurgo Quantum 6-in-1 Leash",
+    "brand": "Kurgo",
+    "category": "walk",
+    "price": 34.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/kurgo-quantum-6-in-1-leash.jpg",
+    "images": [],
+    "description": "One leash that does six jobs: standard 6 foot lead, shorter traffic leash, hands-free waist leash, tie-out, and a double-dog leash for two dogs. Handy for road trips where you want one piece of gear.",
+    "details": [
+      "Nylon webbing with reflective stitching",
+      "Adjusts up to 1.8 m",
+      "Two aluminum carabiner clips",
+      "Inspect clips before each walk"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-07T18:00:00.000Z"
+  },
+  {
+    "id": "152",
+    "slug": "coastal-pet-lil-pals-adjustable-collar-extra-small",
+    "name": "Coastal Pet Lil Pals Adjustable Collar, Extra Small",
+    "brand": "Coastal Pet",
+    "category": "walk",
+    "price": 9.99,
+    "compareAt": null,
+    "stock": 50,
+    "image": "/img/products/coastal-pet-lil-pals-adjustable-collar-extra-small.jpg",
+    "images": [],
+    "description": "A narrow, lightweight collar made for toy breeds and young puppies who find standard collars heavy. The thin webbing and small buckle are scaled down for tiny necks.",
+    "details": [
+      "Nylon webbing, 0.95 cm wide",
+      "Fits necks 15 to 20 cm",
+      "Small D-ring for a light ID tag",
+      "Check fit often as puppies grow"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-07T19:00:00.000Z"
+  },
+  {
+    "id": "153",
+    "slug": "coastal-pet-lil-pals-comfort-wrap-harness-small",
+    "name": "Coastal Pet Lil Pals Comfort Wrap Harness, Small",
+    "brand": "Coastal Pet",
+    "category": "walk",
+    "price": 19.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/coastal-pet-lil-pals-comfort-wrap-harness-small.jpg",
+    "images": [],
+    "description": "A soft wrap-style vest harness for small dogs that spreads pressure across the chest instead of the neck. It closes with a hook-and-loop panel and a buckle, which makes it quick to put on a wiggly dog.",
+    "details": [
+      "Soft mesh with hook-and-loop closure",
+      "Small: chest 30 to 38 cm",
+      "D-ring on back for leash",
+      "Hand wash, air dry"
+    ],
+    "tags": [
+      "long-dog",
+      "gift"
+    ],
+    "createdAt": "2026-10-07T20:00:00.000Z"
+  },
+  {
+    "id": "154",
+    "slug": "puppia-dotty-harness-b-small",
+    "name": "Puppia Dotty Harness B, Small",
+    "brand": "Puppia",
+    "category": "walk",
+    "price": 32.99,
+    "compareAt": null,
+    "stock": 22,
+    "image": "/img/products/puppia-dotty-harness-b-small.jpg",
+    "images": [],
+    "description": "A cheerful polka-dot step-in vest harness. Your dog steps in and it buckles at the back, so there’s nothing to wrestle over the head, and the padded chest is gentle on short-legged dogs.",
+    "details": [
+      "Cotton-blend outer with soft padding",
+      "Small: chest 33 to 43 cm",
+      "Step-in style with back buckle and D-ring",
+      "Hand wash, lay flat to dry"
+    ],
+    "tags": [
+      "long-dog"
+    ],
+    "createdAt": "2026-10-07T21:00:00.000Z"
+  },
+  {
+    "id": "155",
+    "slug": "puppia-two-tone-leash-small",
+    "name": "Puppia Two-Tone Leash, Small",
+    "brand": "Puppia",
+    "category": "walk",
+    "price": 19.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/puppia-two-tone-leash-small.jpg",
+    "images": [],
+    "description": "A light, narrow leash made for small dogs, with a two-colour weave that matches Puppia harnesses. The clip is small and light so it doesn’t drag on tiny dogs.",
+    "details": [
+      "Polyester webbing, 1 cm wide",
+      "1.2 m length",
+      "Lightweight metal snap",
+      "Check the clip regularly for wear"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-07T22:00:00.000Z"
+  },
+  {
+    "id": "156",
+    "slug": "flexi-new-classic-retractable-leash-3-m-x-small",
+    "name": "Flexi New Classic Retractable Leash, 3 m, X-Small",
+    "brand": "Flexi",
+    "category": "walk",
+    "price": 24.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/flexi-new-classic-retractable-leash-3-m-x-small.jpg",
+    "images": [],
+    "description": "The smallest Flexi, sized for toy breeds and small dachshunds up to 8 kg. The thin tape and light handle make it easy to carry, and the button brake lets you stop your dog’s reach in an instant.",
+    "details": [
+      "3 m tape for dogs up to 8 kg",
+      "One-button brake and lock",
+      "Ergonomic soft-grip handle",
+      "Not for dogs who pull hard; keep fingers clear of the tape"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-07T23:00:00.000Z"
+  },
+  {
+    "id": "157",
+    "slug": "flexi-giant-retractable-leash-8-m-large",
+    "name": "Flexi Giant Retractable Leash, 8 m, Large",
+    "brand": "Flexi",
+    "category": "walk",
+    "price": 64.99,
+    "compareAt": null,
+    "stock": 12,
+    "image": "/img/products/flexi-giant-retractable-leash-8-m-large.jpg",
+    "images": [],
+    "description": "A heavy-duty Flexi with a long 8 metre tape for wide-open spaces like beaches and fields. The large handle has a soft grip and a strong brake for bigger dogs.",
+    "details": [
+      "8 m tape for dogs up to 50 kg",
+      "Short-stroke brake and lock",
+      "Large handle with soft grip",
+      "Use only in open areas away from traffic"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-08T00:00:00.000Z"
+  },
+  {
+    "id": "158",
+    "slug": "kong-comfort-traffic-leash",
+    "name": "KONG Comfort Traffic Leash",
+    "brand": "KONG",
+    "category": "walk",
+    "price": 24.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/kong-comfort-traffic-leash.jpg",
+    "images": [],
+    "description": "A sturdy leash with a padded main handle plus a second padded handle near the clip, so you can keep your dog close at crosswalks or around other dogs. The stitching is reflective for evening walks.",
+    "details": [
+      "Nylon webbing with reflective stitching",
+      "1.8 m length",
+      "Two padded handles",
+      "Inspect regularly for wear"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-08T01:00:00.000Z"
+  },
+  {
+    "id": "159",
+    "slug": "kong-hands-free-leash",
+    "name": "KONG Hands-Free Leash",
+    "brand": "KONG",
+    "category": "walk",
+    "price": 29.99,
+    "compareAt": null,
+    "stock": 20,
+    "image": "/img/products/kong-hands-free-leash.jpg",
+    "images": [],
+    "description": "A waist-worn leash for jogging, hiking or pushing a stroller with your dog alongside. The adjustable belt sits on your hips and a stretch section takes the jolt out of sudden stops.",
+    "details": [
+      "Adjustable waist belt with quick-release buckle",
+      "Shock-absorbing bungee section",
+      "Fits waists up to 112 cm",
+      "Not recommended for dogs who lunge hard"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-08T02:00:00.000Z"
+  },
+  {
+    "id": "160",
+    "slug": "lupine-original-designs-adjustable-collar-1-2-inch",
+    "name": "Lupine Original Designs Adjustable Collar, 1/2 Inch",
+    "brand": "Lupine",
+    "category": "walk",
+    "price": 19.99,
+    "compareAt": 22.99,
+    "stock": 30,
+    "image": "/img/products/lupine-original-designs-adjustable-collar-1-2-inch.jpg",
+    "images": [],
+    "description": "A narrow, colourful collar from a company that guarantees its gear against everything, chewing included. The half-inch width suits small dogs, and there are dozens of patterns to choose from.",
+    "details": [
+      "Nylon webbing, 1.3 cm wide",
+      "Fits necks 23 to 36 cm",
+      "Lifetime guarantee, even if chewed",
+      "Machine wash cold"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-08T03:00:00.000Z"
+  },
+  {
+    "id": "161",
+    "slug": "nite-ize-spotlit-led-collar-light",
+    "name": "Nite Ize SpotLit LED Collar Light",
+    "brand": "Nite Ize",
+    "category": "walk",
+    "price": 9.99,
+    "compareAt": null,
+    "stock": 50,
+    "image": "/img/products/nite-ize-spotlit-led-collar-light.jpg",
+    "images": [],
+    "description": "A small clip-on LED light that makes your dog easy to spot on dark walks. It clips to the collar or harness and has steady and flashing modes.",
+    "details": [
+      "Weather-resistant aluminum and plastic",
+      "Steady and flashing modes",
+      "Replaceable coin cell battery included",
+      "Keep away from chewers; small parts"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-08T04:00:00.000Z"
+  },
+  {
+    "id": "162",
+    "slug": "coastal-pet-check-cord-training-lead-15-ft",
+    "name": "Coastal Pet Check Cord Training Lead, 15 ft",
+    "brand": "Coastal Pet",
+    "category": "walk",
+    "price": 19.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/coastal-pet-check-cord-training-lead-15-ft.jpg",
+    "images": [],
+    "description": "A long training line for recall practice, scent games and supervised freedom in parks. At 15 feet it gives your dog room to explore while you keep a hand on the end.",
+    "details": [
+      "Nylon webbing, 1.6 cm wide",
+      "4.5 m (15 ft) length",
+      "Solid brass snap",
+      "Attach to a harness, not a collar; wear gloves"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-08T05:00:00.000Z"
+  },
+  {
+    "id": "163",
+    "slug": "sherpa-delta-deluxe-pet-carrier-medium",
+    "name": "Sherpa Delta Deluxe Pet Carrier, Medium",
+    "brand": "Sherpa",
+    "category": "travel",
+    "price": 74.99,
+    "compareAt": null,
+    "stock": 15,
+    "image": "/img/products/sherpa-delta-deluxe-pet-carrier-medium.jpg",
+    "images": [],
+    "description": "A soft-sided carrier with mesh panels on all sides, a top zip opening and a side door, so getting your dog in and out is easy. It meets many airline under-seat size guidelines; check your airline before you fly.",
+    "details": [
+      "Quilted nylon with mesh ventilation",
+      "Medium: about 43 x 28 x 28 cm, for pets up to 7 kg",
+      "Removable faux-sheepskin liner",
+      "Seat belt strap for car travel"
+    ],
+    "tags": [
+      "best"
+    ],
+    "createdAt": "2026-10-08T06:00:00.000Z"
+  },
+  {
+    "id": "164",
+    "slug": "sherpa-ultimate-on-wheels-pet-carrier-medium",
+    "name": "Sherpa Ultimate on Wheels Pet Carrier, Medium",
+    "brand": "Sherpa",
+    "category": "travel",
+    "price": 119.99,
+    "compareAt": null,
+    "stock": 10,
+    "image": "/img/products/sherpa-ultimate-on-wheels-pet-carrier-medium.jpg",
+    "images": [],
+    "description": "A carrier with a telescoping handle and wheels, so you can roll your dog through an airport instead of carrying them. Expandable sides give more room at the gate.",
+    "details": [
+      "Nylon with mesh panels",
+      "Medium: for pets up to 8 kg",
+      "Telescoping handle and built-in wheels",
+      "Removable liner, spot clean"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-08T07:00:00.000Z"
+  },
+  {
+    "id": "165",
+    "slug": "sleepypod-air-in-cabin-pet-carrier",
+    "name": "Sleepypod Air In-Cabin Pet Carrier",
+    "brand": "Sleepypod",
+    "category": "travel",
+    "price": 249.99,
+    "compareAt": null,
+    "stock": 8,
+    "image": "/img/products/sleepypod-air-in-cabin-pet-carrier.jpg",
+    "images": [],
+    "description": "A crash-tested carrier that also compresses at the ends to slide under airline seats. It doubles as a car carrier with a seatbelt strap and has a plush bed inside.",
+    "details": [
+      "Ballistic nylon with mesh panels",
+      "For pets up to 8 kg",
+      "Crash-tested; seatbelt strap included",
+      "Machine-washable bedding"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-10-08T08:00:00.000Z"
+  },
+  {
+    "id": "166",
+    "slug": "petmate-sky-kennel-21-inch",
+    "name": "Petmate Sky Kennel, 21 Inch",
+    "brand": "Petmate",
+    "category": "travel",
+    "price": 79.99,
+    "compareAt": 89.99,
+    "stock": 12,
+    "image": "/img/products/petmate-sky-kennel-21-inch.jpg",
+    "images": [],
+    "description": "A hard plastic travel crate with a steel wire door and ventilation on four sides. It’s built to meet most airline cargo requirements and is a solid choice for car travel too.",
+    "details": [
+      "Heavy-duty plastic with steel wire door",
+      "53 x 41 x 38 cm, for pets up to 7 kg",
+      "Includes live animal stickers and water bowl",
+      "Wipe clean with mild soap"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-08T09:00:00.000Z"
+  },
+  {
+    "id": "167",
+    "slug": "kurgo-direct-to-seatbelt-tether",
+    "name": "Kurgo Direct to Seatbelt Tether",
+    "brand": "Kurgo",
+    "category": "travel",
+    "price": 19.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/kurgo-direct-to-seatbelt-tether.jpg",
+    "images": [],
+    "description": "A short tether that buckles straight into your car’s seatbelt receiver and clips to your dog’s harness. It keeps your dog in the back seat and out of your lap while driving.",
+    "details": [
+      "Nylon webbing with swivel carabiner",
+      "Adjusts 46 to 76 cm",
+      "Fits most seatbelt buckles",
+      "Attach to a harness only, never a collar"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-08T10:00:00.000Z"
+  },
+  {
+    "id": "168",
+    "slug": "kurgo-wander-bench-seat-cover",
+    "name": "Kurgo Wander Bench Seat Cover",
+    "brand": "Kurgo",
+    "category": "travel",
+    "price": 99.99,
+    "compareAt": 119.99,
+    "stock": 12,
+    "image": "/img/products/kurgo-wander-bench-seat-cover.jpg",
+    "images": [],
+    "description": "A water-resistant cover that protects the back seat from fur, mud and wet paws. It fits most cars and SUVs, and seatbelt openings let you use a tether.",
+    "details": [
+      "Water-resistant quilted fabric",
+      "Fits most rear bench seats, about 140 cm wide",
+      "Seatbelt openings and anchors",
+      "Machine wash cold"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-08T11:00:00.000Z"
+  },
+  {
+    "id": "169",
+    "slug": "kurgo-collaps-a-bowl",
+    "name": "Kurgo Collaps-A-Bowl",
+    "brand": "Kurgo",
+    "category": "travel",
+    "price": 12.99,
+    "compareAt": null,
+    "stock": 40,
+    "image": "/img/products/kurgo-collaps-a-bowl.jpg",
+    "images": [],
+    "description": "A silicone bowl that folds flat to fit in a pocket or bag. A carabiner clips it to a pack or leash so water is always nearby on walks and hikes.",
+    "details": [
+      "Food-grade silicone",
+      "Holds about 710 ml",
+      "Carabiner included",
+      "Dishwasher safe"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-08T12:00:00.000Z"
+  },
+  {
+    "id": "170",
+    "slug": "outward-hound-pupboost-car-booster-seat",
+    "name": "Outward Hound PupBoost Car Booster Seat",
+    "brand": "Outward Hound",
+    "category": "travel",
+    "price": 59.99,
+    "compareAt": null,
+    "stock": 15,
+    "image": "/img/products/outward-hound-pupboost-car-booster-seat.jpg",
+    "images": [],
+    "description": "A raised car seat that lets small dogs see out the window, which can help with car anxiety. It straps to the headrest and has a short tether for clipping to a harness, so it keeps short-legged dogs from scrambling around.",
+    "details": [
+      "Polyester with padded cushion",
+      "For dogs up to 9 kg",
+      "Headrest straps and internal tether",
+      "Removable cover, machine wash"
+    ],
+    "tags": [
+      "long-dog"
+    ],
+    "createdAt": "2026-10-08T13:00:00.000Z"
+  },
+  {
+    "id": "171",
+    "slug": "gen7pets-commuter-wheeled-pet-carrier-small",
+    "name": "Gen7Pets Commuter Wheeled Pet Carrier, Small",
+    "brand": "Gen7Pets",
+    "category": "travel",
+    "price": 109.99,
+    "compareAt": null,
+    "stock": 10,
+    "image": "/img/products/gen7pets-commuter-wheeled-pet-carrier-small.jpg",
+    "images": [],
+    "description": "A wheeled carrier with a pull handle that also works as a car seat. Mesh windows on the sides give good airflow and an easy view for your dog.",
+    "details": [
+      "Nylon with mesh windows",
+      "For pets up to 7 kg",
+      "Retractable handle and wheels",
+      "Spot clean"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-10-08T14:00:00.000Z"
+  },
+  {
+    "id": "172",
+    "slug": "ruffwear-quencher-collapsible-bowl-medium",
+    "name": "Ruffwear Quencher Collapsible Bowl, Medium",
+    "brand": "Ruffwear",
+    "category": "travel",
+    "price": 24.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/ruffwear-quencher-collapsible-bowl-medium.jpg",
+    "images": [],
+    "description": "A soft, packable bowl that folds flat into a pocket. Its waterproof liner holds water or treats on hikes and road trips.",
+    "details": [
+      "Waterproof coated fabric",
+      "Medium: holds about 1.6 L",
+      "Folds flat with cinch closure",
+      "Hand wash"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-08T15:00:00.000Z"
+  },
+  {
+    "id": "173",
+    "slug": "earth-rated-poop-bag-dispenser-with-leash-clip",
+    "name": "Earth Rated Poop Bag Dispenser with Leash Clip",
+    "brand": "Earth Rated",
+    "category": "travel",
+    "price": 6.99,
+    "compareAt": null,
+    "stock": 60,
+    "image": "/img/products/earth-rated-poop-bag-dispenser-with-leash-clip.jpg",
+    "images": [],
+    "description": "A small, sturdy dispenser that clips to any leash so you are never caught without a bag. One roll of bags is included to get you started.",
+    "details": [
+      "Durable plastic",
+      "Includes one roll of 15 bags",
+      "Fits standard Earth Rated refill rolls",
+      "Leash clip included"
+    ],
+    "tags": [
+      "best",
+      "gift"
+    ],
+    "createdAt": "2026-10-08T16:00:00.000Z"
+  },
+  {
+    "id": "174",
+    "slug": "pet-gear-no-zip-nv-pet-stroller",
+    "name": "Pet Gear No-Zip NV Pet Stroller",
+    "brand": "Pet Gear",
+    "category": "travel",
+    "price": 189.99,
+    "compareAt": 219.99,
+    "stock": 8,
+    "image": "/img/products/pet-gear-no-zip-nv-pet-stroller.jpg",
+    "images": [],
+    "description": "A pet stroller with a zipperless entry that opens with a push button. It’s a good option for older dogs or small dogs who tire on long outings.",
+    "details": [
+      "Steel frame with fabric cover",
+      "For pets up to 16 kg",
+      "Push-button entry and mesh panels",
+      "Folds compactly for storage"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-08T17:00:00.000Z"
+  },
+  {
+    "id": "175",
+    "slug": "highwave-autodogmug-travel-bottle",
+    "name": "Highwave AutoDogMug Travel Bottle",
+    "brand": "Highwave",
+    "category": "travel",
+    "price": 19.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/highwave-autodogmug-travel-bottle.jpg",
+    "images": [],
+    "description": "A squeeze bottle with a built-in bowl. Squeeze to fill the bowl and release to drain back any extra water, so nothing is wasted on the road.",
+    "details": [
+      "BPA-free plastic",
+      "Holds about 532 ml",
+      "Spill-resistant design",
+      "Hand wash"
+    ],
+    "tags": [
+      "new",
+      "gift"
+    ],
+    "createdAt": "2026-10-08T18:00:00.000Z"
+  },
+  {
+    "id": "176",
+    "slug": "solvit-deluxe-telescoping-pet-ramp",
+    "name": "Solvit Deluxe Telescoping Pet Ramp",
+    "brand": "Solvit",
+    "category": "travel",
+    "price": 149.99,
+    "compareAt": null,
+    "stock": 8,
+    "image": "/img/products/solvit-deluxe-telescoping-pet-ramp.jpg",
+    "images": [],
+    "description": "A ramp that lets dogs walk into the car instead of jumping, which helps protect long backs and older joints. It telescopes from compact to full length and has a high-traction surface.",
+    "details": [
+      "Lightweight aluminum frame",
+      "Extends 99 to 183 cm",
+      "Supports up to 136 kg",
+      "Fold before lifting"
+    ],
+    "tags": [
+      "long-dog"
+    ],
+    "createdAt": "2026-10-08T19:00:00.000Z"
+  },
+  {
+    "id": "177",
+    "slug": "k-h-thermo-snuggly-sleeper-heated-bed-small",
+    "name": "K&H Thermo-Snuggly Sleeper Heated Bed, Small",
+    "brand": "K&H",
+    "category": "home",
+    "price": 79.99,
+    "compareAt": null,
+    "stock": 18,
+    "image": "/img/products/k-h-thermo-snuggly-sleeper-heated-bed-small.jpg",
+    "images": [],
+    "description": "A round bolster bed with a low-wattage heater hidden in the base that warms to about your dog’s own body temperature. It suits short-coated dogs and older dogs who feel the cold on Canadian winter nights. The heater is removable so the cover can go in the wash.",
+    "details": [
+      "Plush fleece cover, removable and machine washable",
+      "Small, 41 x 51 cm",
+      "Low 4 watt internal heater with steel-wrapped cord",
+      "Inspect the cord regularly; unplug when not in use"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-08T20:00:00.000Z"
+  },
+  {
+    "id": "178",
+    "slug": "furhaven-plush-suede-orthopedic-sofa-dog-bed-small",
+    "name": "Furhaven Plush & Suede Orthopedic Sofa Dog Bed, Small",
+    "brand": "Furhaven",
+    "category": "home",
+    "price": 54.99,
+    "compareAt": 64.99,
+    "stock": 22,
+    "image": "/img/products/furhaven-plush-suede-orthopedic-sofa-dog-bed-small.jpg",
+    "images": [],
+    "description": "An egg-crate foam base with plush bolsters on three sides, so your dog can sprawl out or lean on a headrest. The orthopedic foam takes pressure off joints, which is handy for seniors and dogs who spend the day napping.",
+    "details": [
+      "Egg-crate orthopedic foam base, faux suede and plush cover",
+      "Small, 51 x 41 cm",
+      "Cover removes for machine washing",
+      "Not a chew toy; remove if your dog starts tearing at it"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-08T21:00:00.000Z"
+  },
+  {
+    "id": "179",
+    "slug": "furhaven-sherpa-suede-snuggery-burrow-bed-small",
+    "name": "Furhaven Sherpa & Suede Snuggery Burrow Bed, Small",
+    "brand": "Furhaven",
+    "category": "home",
+    "price": 49.99,
+    "compareAt": null,
+    "stock": 20,
+    "image": "/img/products/furhaven-sherpa-suede-snuggery-burrow-bed-small.jpg",
+    "images": [],
+    "description": "A cushioned bed with a sherpa hood that dogs can crawl under, made for burrowers who like to sleep tucked in. Dachshunds and other diggers tend to take to it right away.",
+    "details": [
+      "Faux suede outer, sherpa lining and hood",
+      "Small, 46 x 46 cm",
+      "Machine washable on gentle, air dry",
+      "Supervise new beds with dogs who chew"
+    ],
+    "tags": [
+      "long-dog"
+    ],
+    "createdAt": "2026-10-08T22:00:00.000Z"
+  },
+  {
+    "id": "180",
+    "slug": "best-friends-by-sheri-calming-cozy-cuddler-bed-small",
+    "name": "Best Friends by Sheri Calming Cozy Cuddler Bed, Small",
+    "brand": "Best Friends by Sheri",
+    "category": "home",
+    "price": 69.99,
+    "compareAt": null,
+    "stock": 16,
+    "image": "/img/products/best-friends-by-sheri-calming-cozy-cuddler-bed-small.jpg",
+    "images": [],
+    "description": "A round shag bed with an attached blanket hood that drapes over the top, so dogs can burrow and still feel the raised rim behind them. Great for small dogs who sleep under the covers at home.",
+    "details": [
+      "Vegan shag fur with attached hooded blanket",
+      "Small, 58 cm across",
+      "Machine washable and dryer safe on low",
+      "Remove loose threads if they appear"
+    ],
+    "tags": [
+      "new",
+      "long-dog"
+    ],
+    "createdAt": "2026-10-08T23:00:00.000Z"
+  },
+  {
+    "id": "181",
+    "slug": "best-friends-by-sheri-calming-lux-fur-throw-blanket",
+    "name": "Best Friends by Sheri Calming Lux Fur Throw Blanket",
+    "brand": "Best Friends by Sheri",
+    "category": "home",
+    "price": 39.99,
+    "compareAt": null,
+    "stock": 28,
+    "image": "/img/products/best-friends-by-sheri-calming-lux-fur-throw-blanket.jpg",
+    "images": [],
+    "description": "The same soft shag fur as the calming beds, made into a throw. Lay it over the couch to catch fur, or let your dog nest in it on the floor.",
+    "details": [
+      "Vegan shag fur, plush reverse",
+      "127 x 152 cm",
+      "Machine wash cold, tumble dry low",
+      "Keep away from strong chewers"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "182",
+    "slug": "snoozer-cozy-cave-dog-bed-small",
+    "name": "Snoozer Cozy Cave Dog Bed, Small",
+    "brand": "Snoozer",
+    "category": "home",
+    "price": 89.99,
+    "compareAt": null,
+    "stock": 14,
+    "image": "/img/products/snoozer-cozy-cave-dog-bed-small.jpg",
+    "images": [],
+    "description": "A cave bed with a firm top flap that stays propped open, so small dogs can tunnel in without the cover collapsing on them. Made for dogs who like to sleep hidden away, which describes a lot of dachshunds.",
+    "details": [
+      "Microsuede outer with a sherpa interior",
+      "Small, for dogs up to 11 kg",
+      "Removable cover, machine washable",
+      "Supervise dogs who chew fabric"
+    ],
+    "tags": [
+      "best",
+      "long-dog"
+    ],
+    "createdAt": "2026-10-09T01:00:00.000Z"
+  },
+  {
+    "id": "183",
+    "slug": "bergan-stainless-steel-double-diner-small",
+    "name": "Bergan Stainless Steel Double Diner, Small",
+    "brand": "Bergan",
+    "category": "home",
+    "price": 19.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/bergan-stainless-steel-double-diner-small.jpg",
+    "images": [],
+    "description": "Two stainless steel bowls set in a plastic tray that keeps them together and stops them from sliding. The bowls lift out for washing, and the tray catches spills.",
+    "details": [
+      "Stainless steel bowls in a non-skid plastic tray",
+      "Small, each bowl holds about 1 cup",
+      "Bowls are dishwasher safe",
+      "Wash bowls daily"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-09T02:00:00.000Z"
+  },
+  {
+    "id": "184",
+    "slug": "dexas-popware-collapsible-pet-bowl-2-cup",
+    "name": "Dexas Popware Collapsible Pet Bowl, 2 Cup",
+    "brand": "Dexas",
+    "category": "home",
+    "price": 12.99,
+    "compareAt": null,
+    "stock": 35,
+    "image": "/img/products/dexas-popware-collapsible-pet-bowl-2-cup.jpg",
+    "images": [],
+    "description": "A silicone bowl that pops up for meals and folds flat into a drawer or bag afterwards. Handy as a spare water bowl at the cottage or in the car.",
+    "details": [
+      "Food-grade silicone, BPA free",
+      "Holds 2 cups (480 ml)",
+      "Dishwasher safe",
+      "Not a chew toy"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-09T03:00:00.000Z"
+  },
+  {
+    "id": "185",
+    "slug": "loving-pets-bella-bowl-small",
+    "name": "Loving Pets Bella Bowl, Small",
+    "brand": "Loving Pets",
+    "category": "home",
+    "price": 9.99,
+    "compareAt": null,
+    "stock": 40,
+    "image": "/img/products/loving-pets-bella-bowl-small.jpg",
+    "images": [],
+    "description": "A stainless steel bowl inside a sturdy coloured shell with a rubber base, so it doesn’t skate across the floor when your dog chases the last bite. Small size is right for small breeds.",
+    "details": [
+      "Stainless steel interior, poly outer shell",
+      "Small, holds about 1 cup",
+      "Removable rubber base; dishwasher safe without the ring",
+      "Check the rubber ring for chewing"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-09T04:00:00.000Z"
+  },
+  {
+    "id": "186",
+    "slug": "outward-hound-fun-feeder-slo-bowl-mini-drop",
+    "name": "Outward Hound Fun Feeder Slo Bowl, Mini Drop",
+    "brand": "Outward Hound",
+    "category": "home",
+    "price": 14.99,
+    "compareAt": null,
+    "stock": 32,
+    "image": "/img/products/outward-hound-fun-feeder-slo-bowl-mini-drop.jpg",
+    "images": [],
+    "description": "A smaller slow feeder with ridges in a droplet pattern that make dogs work around them for each bite. Sized for small dogs and portions under two cups.",
+    "details": [
+      "Food-safe BPA-free plastic, non-slip base",
+      "Mini size, holds up to 2 cups",
+      "Top-rack dishwasher safe",
+      "Replace if chewed or cracked"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-09T05:00:00.000Z"
+  },
+  {
+    "id": "187",
+    "slug": "petmate-replendish-gravity-waterer-1-gallon",
+    "name": "Petmate Replendish Gravity Waterer, 1 Gallon",
+    "brand": "Petmate",
+    "category": "home",
+    "price": 19.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/petmate-replendish-gravity-waterer-1-gallon.jpg",
+    "images": [],
+    "description": "A simple gravity water dispenser that tops itself up as your dog drinks. A good backup for long work days, and there’s no plug or pump to fuss with.",
+    "details": [
+      "BPA-free plastic with a carbon filter slot",
+      "Holds 1 gallon (3.8 L)",
+      "Hand wash; replace filter monthly",
+      "Refresh water every few days"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-09T06:00:00.000Z"
+  },
+  {
+    "id": "188",
+    "slug": "petsafe-drinkwell-360-stainless-steel-pet-fountain",
+    "name": "PetSafe Drinkwell 360 Stainless Steel Pet Fountain",
+    "brand": "PetSafe",
+    "category": "home",
+    "price": 99.99,
+    "compareAt": null,
+    "stock": 15,
+    "image": "/img/products/petsafe-drinkwell-360-stainless-steel-pet-fountain.jpg",
+    "images": [],
+    "description": "A stainless steel fountain with several streams around the top, so more than one pet can drink at once. Moving, filtered water encourages picky drinkers to drink more.",
+    "details": [
+      "Stainless steel bowl, dishwasher safe",
+      "Holds 3.8 L",
+      "Uses replaceable carbon filters and a quiet pump",
+      "Clean the pump every two weeks"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-09T07:00:00.000Z"
+  },
+  {
+    "id": "189",
+    "slug": "petsafe-cozyup-bed-ramp",
+    "name": "PetSafe CozyUp Bed Ramp",
+    "brand": "PetSafe",
+    "category": "home",
+    "price": 109.99,
+    "compareAt": null,
+    "stock": 12,
+    "image": "/img/products/petsafe-cozyup-bed-ramp.jpg",
+    "images": [],
+    "description": "A wooden ramp that lets small dogs walk up to the bed instead of jumping off it. Taking stairs and jumps out of the day helps protect long backs, and the carpeted surface gives paws some grip.",
+    "details": [
+      "Wood frame with a carpeted walking surface",
+      "Fits beds about 51 to 64 cm high",
+      "Holds pets up to 54 kg",
+      "Teach with treats a step at a time"
+    ],
+    "tags": [
+      "new",
+      "long-dog"
+    ],
+    "createdAt": "2026-10-09T08:00:00.000Z"
+  },
+  {
+    "id": "190",
+    "slug": "pet-gear-stramp-stair-and-ramp-combo",
+    "name": "Pet Gear Stramp Stair and Ramp Combo",
+    "brand": "Pet Gear",
+    "category": "home",
+    "price": 109.99,
+    "compareAt": null,
+    "stock": 14,
+    "image": "/img/products/pet-gear-stramp-stair-and-ramp-combo.jpg",
+    "images": [],
+    "description": "Stairs on one side and a ramp on the other, so you can see which your dog prefers. The soft carpet tread is removable and washable, and the frame needs no tools to set up.",
+    "details": [
+      "Plastic frame with removable washable carpet",
+      "About 56 cm high",
+      "Holds pets up to 68 kg",
+      "Use on a level floor"
+    ],
+    "tags": [
+      "long-dog"
+    ],
+    "createdAt": "2026-10-09T09:00:00.000Z"
+  },
+  {
+    "id": "191",
+    "slug": "pet-gear-easy-step-ii-extra-wide-pet-stairs",
+    "name": "Pet Gear Easy Step II Extra Wide Pet Stairs",
+    "brand": "Pet Gear",
+    "category": "home",
+    "price": 69.99,
+    "compareAt": null,
+    "stock": 18,
+    "image": "/img/products/pet-gear-easy-step-ii-extra-wide-pet-stairs.jpg",
+    "images": [],
+    "description": "Two wide, carpeted steps that help small dogs get on and off the couch without the jarring jump down. The wider tread gives a bit more room for short legs to plant.",
+    "details": [
+      "Plastic frame with removable washable carpet treads",
+      "Two steps, about 41 cm high",
+      "Holds pets up to 68 kg",
+      "Assembles without tools"
+    ],
+    "tags": [
+      "long-dog"
+    ],
+    "createdAt": "2026-10-09T10:00:00.000Z"
+  },
+  {
+    "id": "192",
+    "slug": "midwest-icrate-double-door-folding-crate-24-inch",
+    "name": "MidWest iCrate Double Door Folding Crate, 24 Inch",
+    "brand": "MidWest",
+    "category": "home",
+    "price": 79.99,
+    "compareAt": null,
+    "stock": 16,
+    "image": "/img/products/midwest-icrate-double-door-folding-crate-24-inch.jpg",
+    "images": [],
+    "description": "A folding wire crate with a front and side door, a plastic floor pan and a divider panel so you can size it down for a growing puppy. It folds flat for storage or the car.",
+    "details": [
+      "Black epoxy-coated steel wire",
+      "24 inch, for dogs up to 11 kg",
+      "Includes divider panel and removable plastic pan",
+      "Remove collars and tags inside the crate"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-09T11:00:00.000Z"
+  },
+  {
+    "id": "193",
+    "slug": "midwest-exercise-pen-24-inch-8-panels",
+    "name": "MidWest Exercise Pen, 24 Inch, 8 Panels",
+    "brand": "MidWest",
+    "category": "home",
+    "price": 79.99,
+    "compareAt": 94.99,
+    "stock": 14,
+    "image": "/img/products/midwest-exercise-pen-24-inch-8-panels.jpg",
+    "images": [],
+    "description": "Eight wire panels that make a play yard indoors or out, or fold into a barrier across a room. The 24 inch height works for small breeds and young puppies.",
+    "details": [
+      "Black E-coat steel wire with a walk-through door",
+      "8 panels, each 61 cm wide by 61 cm high",
+      "Includes ground anchors",
+      "Always supervise; not for climbers or jumpers"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-09T12:00:00.000Z"
+  },
+  {
+    "id": "194",
+    "slug": "carlson-extra-tall-walk-through-gate-with-pet-door",
+    "name": "Carlson Extra Tall Walk-Through Gate with Pet Door",
+    "brand": "Carlson",
+    "category": "home",
+    "price": 69.99,
+    "compareAt": null,
+    "stock": 15,
+    "image": "/img/products/carlson-extra-tall-walk-through-gate-with-pet-door.jpg",
+    "images": [],
+    "description": "A pressure-mounted steel gate with a walk-through door for people and a small locking door for pets. It keeps dogs off the stairs, which matters if you have a long-backed dog.",
+    "details": [
+      "White steel, pressure mount",
+      "Fits openings 73 to 94 cm; 104 cm tall",
+      "Small pet door locks or swings freely",
+      "Not for use at the top of stairs without hardware"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-09T13:00:00.000Z"
+  },
+  {
+    "id": "195",
+    "slug": "thundershirt-classic-anxiety-jacket-small",
+    "name": "ThunderShirt Classic Anxiety Jacket, Small",
+    "brand": "ThunderShirt",
+    "category": "home",
+    "price": 54.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/thundershirt-classic-anxiety-jacket-small.jpg",
+    "images": [],
+    "description": "A snug wrap that applies gentle, steady pressure around the torso, which helps many dogs settle during fireworks, storms or car rides. Try it during calm times first so it feels familiar.",
+    "details": [
+      "Breathable polyester and rayon blend with fastening panels",
+      "Small, chest 46 to 61 cm",
+      "Machine washable, air dry",
+      "Don’t leave on unattended for long periods"
+    ],
+    "tags": [
+      "best"
+    ],
+    "createdAt": "2026-10-09T14:00:00.000Z"
+  },
+  {
+    "id": "196",
+    "slug": "adaptil-calm-home-diffuser-starter-kit",
+    "name": "Adaptil Calm Home Diffuser Starter Kit",
+    "brand": "Adaptil",
+    "category": "home",
+    "price": 44.99,
+    "compareAt": null,
+    "stock": 22,
+    "image": "/img/products/adaptil-calm-home-diffuser-starter-kit.jpg",
+    "images": [],
+    "description": "A plug-in diffuser that releases a copy of the calming pheromone mother dogs give off. It can help with moves, new puppies or noisy nights, and covers one main room for about a month.",
+    "details": [
+      "Plug-in diffuser plus 48 ml refill",
+      "Covers about 70 square metres",
+      "One refill lasts about 30 days",
+      "Keep out of reach of pets and children"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-09T15:00:00.000Z"
+  },
+  {
+    "id": "197",
+    "slug": "lickimat-soother",
+    "name": "LickiMat Soother",
+    "brand": "LickiMat",
+    "category": "home",
+    "price": 12.99,
+    "compareAt": null,
+    "stock": 35,
+    "image": "/img/products/lickimat-soother.jpg",
+    "images": [],
+    "description": "A flexible lick mat with a pattern of small bristles that holds spreads like yogurt or pumpkin. Licking is calming for many dogs, so it’s handy during baths, nail trims or thunderstorms.",
+    "details": [
+      "Food-grade rubber",
+      "20 x 20 cm",
+      "Dishwasher safe (top rack); freezer safe",
+      "Not a chew toy; supervise use"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-09T16:00:00.000Z"
+  },
+  {
+    "id": "198",
+    "slug": "lickimat-wobble",
+    "name": "LickiMat Wobble",
+    "brand": "LickiMat",
+    "category": "home",
+    "price": 24.99,
+    "compareAt": null,
+    "stock": 24,
+    "image": "/img/products/lickimat-wobble.jpg",
+    "images": [],
+    "description": "A lick bowl on a weighted base that tips and rocks as your dog licks, which adds a bit of challenge. The ridges hold soft food or frozen spreads for a longer treat session.",
+    "details": [
+      "Food-grade rubber bowl on a weighted plastic base",
+      "About 13 cm across",
+      "Bowl is dishwasher and freezer safe",
+      "Supervise; remove if chewed"
+    ],
+    "tags": [
+      "new",
+      "gift"
+    ],
+    "createdAt": "2026-10-09T17:00:00.000Z"
+  },
+  {
+    "id": "199",
+    "slug": "hyper-pet-iq-treat-mat",
+    "name": "Hyper Pet IQ Treat Mat",
+    "brand": "Hyper Pet",
+    "category": "home",
+    "price": 14.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/hyper-pet-iq-treat-mat.jpg",
+    "images": [],
+    "description": "A lick mat with textured sections, from grooves to dots, that keep dogs working at spreads for longer. A simple way to slow down a fast eater or keep a dog busy while you get ready.",
+    "details": [
+      "Food-grade TPR rubber",
+      "About 20 x 20 cm",
+      "Dishwasher safe (top rack)",
+      "Not a chew toy; supervise use"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-09T18:00:00.000Z"
+  },
+  {
+    "id": "200",
+    "slug": "paw-com-pupprotector-waterproof-throw-blanket",
+    "name": "Paw.com PupProtector Waterproof Throw Blanket",
+    "brand": "Paw.com",
+    "category": "home",
+    "price": 79.99,
+    "compareAt": 99.99,
+    "stock": 18,
+    "image": "/img/products/paw-com-pupprotector-waterproof-throw-blanket.jpg",
+    "images": [],
+    "description": "A soft throw with a waterproof inner layer, so muddy paws and little accidents don’t soak through to the couch or bed. Dogs who like to burrow under blankets get one that’s easy to wash.",
+    "details": [
+      "Plush faux fur top with a waterproof inner layer",
+      "Small, 102 x 127 cm",
+      "Machine washable",
+      "Wash before first use"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-09T19:00:00.000Z"
+  },
+  {
+    "id": "201",
+    "slug": "canada-pooch-expedition-dog-coat",
+    "name": "Canada Pooch Expedition Dog Coat",
+    "brand": "Canada Pooch",
+    "category": "apparel",
+    "price": 69.99,
+    "compareAt": 84.99,
+    "stock": 18,
+    "image": "/img/products/canada-pooch-expedition-dog-coat.jpg",
+    "images": [],
+    "description": "A quilted winter coat with a water-resistant shell and fleece lining for cold walks. The high collar keeps the neck warm, and there’s a leash opening on the back.",
+    "details": [
+      "Water-resistant nylon shell, fleece lining",
+      "Sizes 8 to 26 by back length",
+      "Machine wash cold, hang dry",
+      "Measure back length before ordering"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-09T20:00:00.000Z"
+  },
+  {
+    "id": "202",
+    "slug": "canada-pooch-cool-factor-cooling-vest",
+    "name": "Canada Pooch Cool Factor Cooling Vest",
+    "brand": "Canada Pooch",
+    "category": "apparel",
+    "price": 44.99,
+    "compareAt": null,
+    "stock": 20,
+    "image": "/img/products/canada-pooch-cool-factor-cooling-vest.jpg",
+    "images": [],
+    "description": "Soak it in cold water, wring it out, and the fabric cools your dog as it evaporates. Useful for hot summer walks and dogs who overheat quickly.",
+    "details": [
+      "Evaporative cooling fabric with mesh lining",
+      "Sizes 8 to 26",
+      "Re-wet every hour or so in heat",
+      "Never use as a substitute for shade and water"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-10-09T21:00:00.000Z"
+  },
+  {
+    "id": "203",
+    "slug": "canada-pooch-shower-proof-dog-boots",
+    "name": "Canada Pooch Shower Proof Dog Boots",
+    "brand": "Canada Pooch",
+    "category": "apparel",
+    "price": 49.99,
+    "compareAt": null,
+    "stock": 16,
+    "image": "/img/products/canada-pooch-shower-proof-dog-boots.jpg",
+    "images": [],
+    "description": "Waterproof boots with grippy soles for slushy sidewalks and salted roads. Elastic and adjustable straps help them stay on through puddles.",
+    "details": [
+      "Water-resistant upper, rubber sole",
+      "Sold as a set of four; sizes 1 to 9",
+      "Wipe clean",
+      "Check for rubbing after the first few walks"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-09T22:00:00.000Z"
+  },
+  {
+    "id": "204",
+    "slug": "canada-pooch-slush-suit",
+    "name": "Canada Pooch Slush Suit",
+    "brand": "Canada Pooch",
+    "category": "apparel",
+    "price": 64.99,
+    "compareAt": null,
+    "stock": 14,
+    "image": "/img/products/canada-pooch-slush-suit.jpg",
+    "images": [],
+    "description": "A full-body waterproof suit that covers the belly and legs, which keeps low-riding dogs from coming home soaked and caked in road salt. It’s light enough to wear over a sweater.",
+    "details": [
+      "Waterproof nylon with taped seams",
+      "Full belly and leg coverage",
+      "Sizes 8 to 26 by back length",
+      "Machine wash cold, hang dry"
+    ],
+    "tags": [
+      "long-dog"
+    ],
+    "createdAt": "2026-10-09T23:00:00.000Z"
+  },
+  {
+    "id": "205",
+    "slug": "gf-pet-elastofit-insulated-jacket",
+    "name": "GF Pet ElastoFit Insulated Jacket",
+    "brand": "GF Pet",
+    "category": "apparel",
+    "price": 69.99,
+    "compareAt": null,
+    "stock": 16,
+    "image": "/img/products/gf-pet-elastofit-insulated-jacket.jpg",
+    "images": [],
+    "description": "A stretchy insulated jacket that moves with your dog and hugs the body, belly included. The four-way stretch helps it fit dogs with long backs and deep chests better than a stiff coat.",
+    "details": [
+      "Stretch shell with insulated lining",
+      "Covers back and belly; zip closure",
+      "Sizes XXS to XL",
+      "Machine wash cold, hang dry"
+    ],
+    "tags": [
+      "new",
+      "long-dog"
+    ],
+    "createdAt": "2026-10-10T00:00:00.000Z"
+  },
+  {
+    "id": "206",
+    "slug": "gf-pet-winter-dog-boots",
+    "name": "GF Pet Winter Dog Boots",
+    "brand": "GF Pet",
+    "category": "apparel",
+    "price": 54.99,
+    "compareAt": null,
+    "stock": 15,
+    "image": "/img/products/gf-pet-winter-dog-boots.jpg",
+    "images": [],
+    "description": "Fleece-lined boots with a thick rubber sole and a high cuff to keep snow out. The wide opening makes them easier to put on than most.",
+    "details": [
+      "Water-resistant upper, fleece lining, rubber sole",
+      "Sold as a set of four; sizes XXS to XL",
+      "Wipe clean, air dry",
+      "Check paws for rubbing"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-10T01:00:00.000Z"
+  },
+  {
+    "id": "207",
+    "slug": "gf-pet-reversible-raincoat",
+    "name": "GF Pet Reversible Raincoat",
+    "brand": "GF Pet",
+    "category": "apparel",
+    "price": 44.99,
+    "compareAt": null,
+    "stock": 18,
+    "image": "/img/products/gf-pet-reversible-raincoat.jpg",
+    "images": [],
+    "description": "A lightweight raincoat that switches from a solid colour to a print. It has a hood and a harness opening, and it packs small enough for a coat pocket.",
+    "details": [
+      "Waterproof polyester, reversible",
+      "Harness opening and detachable hood",
+      "Sizes XXS to XL",
+      "Machine wash cold, hang dry"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-10T02:00:00.000Z"
+  },
+  {
+    "id": "208",
+    "slug": "hurtta-extreme-warmer-ii-jacket",
+    "name": "Hurtta Extreme Warmer II Jacket",
+    "brand": "Hurtta",
+    "category": "apparel",
+    "price": 129.99,
+    "compareAt": null,
+    "stock": 12,
+    "image": "/img/products/hurtta-extreme-warmer-ii-jacket.jpg",
+    "images": [],
+    "description": "A seriously warm jacket from Finland with insulation on the chest and belly, plus adjustable leg cuffs. Low dogs whose bellies skim the snow get real coverage underneath.",
+    "details": [
+      "Water-repellent shell with heat-reflective lining",
+      "Full belly coverage, reflective trim",
+      "Sizes 20 to 60 cm back length",
+      "Machine wash 30°C"
+    ],
+    "tags": [
+      "long-dog"
+    ],
+    "createdAt": "2026-10-10T03:00:00.000Z"
+  },
+  {
+    "id": "209",
+    "slug": "rc-pets-pacific-anorak",
+    "name": "RC Pets Pacific Anorak",
+    "brand": "RC Pets",
+    "category": "apparel",
+    "price": 59.99,
+    "compareAt": null,
+    "stock": 16,
+    "image": "/img/products/rc-pets-pacific-anorak.jpg",
+    "images": [],
+    "description": "A light shell jacket that breaks wind and sheds rain on cool spring and fall walks. It has a harness port and reflective details for evening outings.",
+    "details": [
+      "Water-resistant nylon with fleece lining",
+      "Harness port and reflective trim",
+      "Sizes XXS to XL",
+      "Machine wash cold, hang dry"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-10T04:00:00.000Z"
+  },
+  {
+    "id": "210",
+    "slug": "rc-pets-cable-knit-sweater",
+    "name": "RC Pets Cable Knit Sweater",
+    "brand": "RC Pets",
+    "category": "apparel",
+    "price": 39.99,
+    "compareAt": null,
+    "stock": 20,
+    "image": "/img/products/rc-pets-cable-knit-sweater.jpg",
+    "images": [],
+    "description": "A soft knit sweater with a classic cable pattern and a turtleneck collar. Good for chilly mornings indoors or as a layer under a shell.",
+    "details": [
+      "Acrylic and wool blend",
+      "Sizes XXS to XL",
+      "Hand wash cold, lay flat to dry",
+      "Check fit at the armholes"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-10T05:00:00.000Z"
+  },
+  {
+    "id": "211",
+    "slug": "ruffwear-grip-trex-boots-set-of-4",
+    "name": "Ruffwear Grip Trex Boots, Set of 4",
+    "brand": "Ruffwear",
+    "category": "apparel",
+    "price": 179.99,
+    "compareAt": null,
+    "stock": 10,
+    "image": "/img/products/ruffwear-grip-trex-boots-set-of-4.jpg",
+    "images": [],
+    "description": "Rugged boots with a Vibram sole for hiking trails, hot pavement and icy sidewalks. The breathable mesh upper and hook-and-loop strap keep them secure.",
+    "details": [
+      "Vibram outsole, breathable mesh upper",
+      "Set of four; sizes by paw width",
+      "Hand wash and air dry",
+      "Build up wear time gradually"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-10T06:00:00.000Z"
+  },
+  {
+    "id": "212",
+    "slug": "ruffwear-vert-jacket",
+    "name": "Ruffwear Vert Jacket",
+    "brand": "Ruffwear",
+    "category": "apparel",
+    "price": 129.99,
+    "compareAt": null,
+    "stock": 12,
+    "image": "/img/products/ruffwear-vert-jacket.jpg",
+    "images": [],
+    "description": "A waterproof, insulated jacket built for wet snow and cold rain. It has a leash portal and reflective trim, and it fits over most harnesses.",
+    "details": [
+      "Waterproof shell with synthetic insulation",
+      "Leash portal, reflective trim",
+      "Sizes XXS to XL",
+      "Machine wash cold, hang dry"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-10-10T07:00:00.000Z"
+  },
+  {
+    "id": "213",
+    "slug": "ruffwear-climate-changer-fleece-jacket",
+    "name": "Ruffwear Climate Changer Fleece Jacket",
+    "brand": "Ruffwear",
+    "category": "apparel",
+    "price": 69.99,
+    "compareAt": 79.99,
+    "stock": 14,
+    "image": "/img/products/ruffwear-climate-changer-fleece-jacket.jpg",
+    "images": [],
+    "description": "A soft fleece pullover that works as a light layer on its own or under a shell. The high collar and stretch fabric make it comfortable for all-day wear.",
+    "details": [
+      "Polartec fleece",
+      "Pull-over design with a leash portal",
+      "Sizes XXS to XL",
+      "Machine wash cold, hang dry"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-10T08:00:00.000Z"
+  },
+  {
+    "id": "214",
+    "slug": "ruffwear-float-coat-dog-life-jacket-xs",
+    "name": "Ruffwear Float Coat Dog Life Jacket, XS",
+    "brand": "Ruffwear",
+    "category": "apparel",
+    "price": 109.99,
+    "compareAt": null,
+    "stock": 10,
+    "image": "/img/products/ruffwear-float-coat-dog-life-jacket-xs.jpg",
+    "images": [],
+    "description": "A life jacket with foam panels placed to keep your dog level in the water, plus a sturdy grab handle on the back for lifting them into a boat or off the dock. Short legs make swimming harder work, so small dogs at the cottage benefit from the extra float.",
+    "details": [
+      "Foam flotation panels, nylon shell",
+      "XS, chest 43 to 53 cm",
+      "Rinse with fresh water after use, air dry",
+      "Always supervise dogs in water"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-10-10T09:00:00.000Z"
+  },
+  {
+    "id": "215",
+    "slug": "fashion-pet-classic-cable-knit-sweater",
+    "name": "Fashion Pet Classic Cable Knit Sweater",
+    "brand": "Fashion Pet",
+    "category": "apparel",
+    "price": 22.99,
+    "compareAt": null,
+    "stock": 26,
+    "image": "/img/products/fashion-pet-classic-cable-knit-sweater.jpg",
+    "images": [],
+    "description": "A simple cable knit sweater at a good price. It adds a little warmth for small or short-coated dogs indoors and on short walks.",
+    "details": [
+      "Acrylic knit",
+      "Sizes XXS to L",
+      "Hand wash cold, lay flat to dry",
+      "Check fit at the armholes"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-10T10:00:00.000Z"
+  },
+  {
+    "id": "216",
+    "slug": "fashion-pet-holiday-fair-isle-sweater",
+    "name": "Fashion Pet Holiday Fair Isle Sweater",
+    "brand": "Fashion Pet",
+    "category": "apparel",
+    "price": 26.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/fashion-pet-holiday-fair-isle-sweater.jpg",
+    "images": [],
+    "description": "A Fair Isle knit sweater with snowflakes and reindeer, made for holiday photos and family visits. It adds light warmth for indoor wear.",
+    "details": [
+      "Acrylic knit",
+      "Sizes XXS to L",
+      "Hand wash cold, lay flat to dry",
+      "Remove before unsupervised play"
+    ],
+    "tags": [
+      "holiday"
+    ],
+    "createdAt": "2026-10-10T11:00:00.000Z"
+  },
+  {
+    "id": "217",
+    "slug": "rc-pets-holiday-fleece-pajamas",
+    "name": "RC Pets Holiday Fleece Pajamas",
+    "brand": "RC Pets",
+    "category": "apparel",
+    "price": 34.99,
+    "compareAt": null,
+    "stock": 24,
+    "image": "/img/products/rc-pets-holiday-fleece-pajamas.jpg",
+    "images": [],
+    "description": "Soft fleece pajamas with legs and a festive print for cozy holiday mornings. The full-body cut keeps short-coated dogs warm while lounging.",
+    "details": [
+      "Polyester fleece",
+      "Full body with legs",
+      "Sizes XXS to XL",
+      "Machine wash cold, tumble dry low"
+    ],
+    "tags": [
+      "holiday"
+    ],
+    "createdAt": "2026-10-10T12:00:00.000Z"
+  },
+  {
+    "id": "218",
+    "slug": "mushers-secret-paw-protection-wax-60-g",
+    "name": "Musher’s Secret Paw Protection Wax, 60 g",
+    "brand": "Musher’s Secret",
+    "category": "apparel",
+    "price": 19.99,
+    "compareAt": null,
+    "stock": 40,
+    "image": "/img/products/mushers-secret-paw-protection-wax-60-g.jpg",
+    "images": [],
+    "description": "A wax that forms a protective barrier on paw pads against snow, ice and road salt. Rub a little on before winter walks, and wipe off when you get home.",
+    "details": [
+      "Natural food-grade waxes",
+      "60 g tin",
+      "Apply before walks; reapply as needed",
+      "Wipe paws after walks to remove salt"
+    ],
+    "tags": [
+      "best",
+      "gift"
+    ],
+    "createdAt": "2026-10-10T13:00:00.000Z"
+  },
+  {
+    "id": "219",
+    "slug": "tropiclean-fresh-breath-oral-care-water-additive-473-ml",
+    "name": "TropiClean Fresh Breath Oral Care Water Additive, 473 mL",
+    "brand": "TropiClean",
+    "category": "grooming",
+    "price": 14.99,
+    "compareAt": null,
+    "stock": 45,
+    "image": "/img/products/tropiclean-fresh-breath-oral-care-water-additive-473-ml.jpg",
+    "images": [],
+    "description": "A dental rinse you add to the water bowl, for dogs who won’t sit still for a toothbrush. A capful in fresh water each day helps loosen plaque and freshens breath without changing how the water tastes much. It works best alongside regular brushing, not instead of it.",
+    "details": [
+      "Mix 1 capful (15 mL) per 475 mL of water",
+      "Change the water and add a fresh dose daily",
+      "473 mL bottle, about a month for a small dog",
+      "Not for use with cats"
+    ],
+    "tags": [
+      "best",
+      "gift"
+    ],
+    "createdAt": "2026-10-10T14:00:00.000Z"
+  },
+  {
+    "id": "220",
+    "slug": "tropiclean-essentials-oatmeal-tea-tree-shampoo-591-ml",
+    "name": "TropiClean Essentials Oatmeal & Tea Tree Shampoo, 591 mL",
+    "brand": "TropiClean",
+    "category": "grooming",
+    "price": 15.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/tropiclean-essentials-oatmeal-tea-tree-shampoo-591-ml.jpg",
+    "images": [],
+    "description": "A gentle oatmeal shampoo with a little tea tree oil for dogs with dry, itchy skin. It lathers easily, rinses out clean and leaves a light herbal scent. A good everyday choice between seasonal baths.",
+    "details": [
+      "Colloidal oatmeal and tea tree oil",
+      "Soap-free, pH balanced for dogs",
+      "591 mL bottle",
+      "For external use; avoid the eyes"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-10T15:00:00.000Z"
+  },
+  {
+    "id": "221",
+    "slug": "burts-bees-tearless-puppy-shampoo-473-ml",
+    "name": "Burt’s Bees Tearless Puppy Shampoo, 473 mL",
+    "brand": "Burt’s Bees",
+    "category": "grooming",
+    "price": 13.99,
+    "compareAt": null,
+    "stock": 35,
+    "image": "/img/products/burts-bees-tearless-puppy-shampoo-473-ml.jpg",
+    "images": [],
+    "description": "A mild, tear-free shampoo made with buttermilk and linseed oil for puppies and dogs with sensitive skin. It’s fragrance-light and easy to rinse, which helps with a wriggly first bath. Suitable from 12 weeks old.",
+    "details": [
+      "Buttermilk and linseed oil formula",
+      "Tear-free, pH balanced for dogs",
+      "473 mL bottle",
+      "For puppies 12 weeks and older"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-10T16:00:00.000Z"
+  },
+  {
+    "id": "222",
+    "slug": "burts-bees-multipurpose-grooming-wipes-50-count",
+    "name": "Burt’s Bees Multipurpose Grooming Wipes, 50 Count",
+    "brand": "Burt’s Bees",
+    "category": "grooming",
+    "price": 9.99,
+    "compareAt": null,
+    "stock": 40,
+    "image": "/img/products/burts-bees-multipurpose-grooming-wipes-50-count.jpg",
+    "images": [],
+    "description": "Soft pre-moistened wipes for muddy paws, a grubby face or a quick freshen-up between baths. They’re made with honey and chamomile and are thick enough that one wipe usually does a set of paws. Handy for low-slung dogs whose bellies collect everything on a walk.",
+    "details": [
+      "50 large wipes, resealable pack",
+      "Honey and chamomile, alcohol free",
+      "Safe for paws, coat and body",
+      "Not for use in eyes or ears"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-10T17:00:00.000Z"
+  },
+  {
+    "id": "223",
+    "slug": "earthbath-oatmeal-aloe-shampoo-472-ml",
+    "name": "Earthbath Oatmeal & Aloe Shampoo, 472 mL",
+    "brand": "Earthbath",
+    "category": "grooming",
+    "price": 17.99,
+    "compareAt": null,
+    "stock": 28,
+    "image": "/img/products/earthbath-oatmeal-aloe-shampoo-472-ml.jpg",
+    "images": [],
+    "description": "A soothing, soap-free shampoo with colloidal oatmeal and aloe vera for dogs who scratch a lot. It has a soft vanilla and almond scent that fades to just clean dog. Made in the USA with plant-based ingredients.",
+    "details": [
+      "Colloidal oatmeal, aloe vera and vitamins",
+      "Soap free, paraben free",
+      "472 mL pump-top bottle",
+      "Safe to use with topical flea treatments"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-10T18:00:00.000Z"
+  },
+  {
+    "id": "224",
+    "slug": "wahl-pocket-pro-pet-trimmer",
+    "name": "Wahl Pocket Pro Pet Trimmer",
+    "brand": "Wahl",
+    "category": "grooming",
+    "price": 39.99,
+    "compareAt": null,
+    "stock": 18,
+    "image": "/img/products/wahl-pocket-pro-pet-trimmer.jpg",
+    "images": [],
+    "description": "A small battery trimmer for tidying the fur between paw pads, around the eyes and under the tail. It’s quiet and fits in one hand, so it’s much less alarming for nervous dogs than full-size clippers. Great for keeping a long-haired dachshund’s feathery feet neat.",
+    "details": [
+      "Stainless steel precision blade",
+      "Runs on 1 AA battery (included)",
+      "Includes guide comb and cleaning brush",
+      "Trim in short passes; keep away from skin folds"
+    ],
+    "tags": [
+      "long-dog"
+    ],
+    "createdAt": "2026-10-10T19:00:00.000Z"
+  },
+  {
+    "id": "225",
+    "slug": "hertzko-self-cleaning-slicker-brush",
+    "name": "Hertzko Self-Cleaning Slicker Brush",
+    "brand": "Hertzko",
+    "category": "grooming",
+    "price": 24.99,
+    "compareAt": 29.99,
+    "stock": 32,
+    "image": "/img/products/hertzko-self-cleaning-slicker-brush.jpg",
+    "images": [],
+    "description": "A slicker brush with fine bent wire bristles that pull out loose undercoat and small tangles. Press the button on the back and the bristles retract, so the fur slides right off in one sheet. Suits wire-haired and long-haired coats alike.",
+    "details": [
+      "Fine stainless steel bristles with retracting button",
+      "Ergonomic rubber grip handle",
+      "One size, suits small to large dogs",
+      "Use gentle strokes; do not press hard on the skin"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-10T20:00:00.000Z"
+  },
+  {
+    "id": "226",
+    "slug": "safari-pin-brush-small",
+    "name": "Safari Pin Brush, Small",
+    "brand": "Safari",
+    "category": "grooming",
+    "price": 12.99,
+    "compareAt": null,
+    "stock": 30,
+    "image": "/img/products/safari-pin-brush-small.jpg",
+    "images": [],
+    "description": "A cushioned pin brush for everyday brushing of medium and long coats. The pins have rounded tips that glide through the fur without scratching, which makes it a nice finishing brush after a slicker. The small head fits small dogs well.",
+    "details": [
+      "Stainless steel pins with rounded tips",
+      "Cushioned rubber pad",
+      "Small size, wooden-look handle",
+      "Wash the pad with mild soap and air dry"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-10T21:00:00.000Z"
+  },
+  {
+    "id": "227",
+    "slug": "safari-de-matting-comb",
+    "name": "Safari De-Matting Comb",
+    "brand": "Safari",
+    "category": "grooming",
+    "price": 14.99,
+    "compareAt": null,
+    "stock": 22,
+    "image": "/img/products/safari-de-matting-comb.jpg",
+    "images": [],
+    "description": "A comb with serrated blades that cut through mats and knots so you don’t have to tug them out. Work it gently from the outer edge of a mat toward the skin. Especially useful behind the ears and in the armpits, where mats form first.",
+    "details": [
+      "Stainless steel serrated blades",
+      "Non-slip handle",
+      "For medium to long coats",
+      "Sharp edges; keep the blades away from skin and store out of reach"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-10T22:00:00.000Z"
+  },
+  {
+    "id": "228",
+    "slug": "miracle-care-kwik-stop-styptic-powder-14-g",
+    "name": "Miracle Care Kwik Stop Styptic Powder, 14 g",
+    "brand": "Miracle Care",
+    "category": "grooming",
+    "price": 11.99,
+    "compareAt": null,
+    "stock": 26,
+    "image": "/img/products/miracle-care-kwik-stop-styptic-powder-14-g.jpg",
+    "images": [],
+    "description": "The powder to keep beside the nail clippers. If a trim goes a little too short, a pinch pressed onto the nail stops the bleeding quickly and takes the panic out of the moment. A small jar lasts a long time.",
+    "details": [
+      "Styptic powder with benzocaine",
+      "14 g jar",
+      "Apply with a damp cotton swab or fingertip",
+      "For external use only; see a vet if bleeding continues"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-10T23:00:00.000Z"
+  },
+  {
+    "id": "229",
+    "slug": "arm-hammer-dental-kit-for-dogs",
+    "name": "Arm & Hammer Dental Kit for Dogs",
+    "brand": "Arm & Hammer",
+    "category": "grooming",
+    "price": 9.99,
+    "compareAt": null,
+    "stock": 38,
+    "image": "/img/products/arm-hammer-dental-kit-for-dogs.jpg",
+    "images": [],
+    "description": "A simple starter kit for getting into a tooth brushing routine. It comes with a dual-ended toothbrush, a soft fingerbrush for small mouths and a tube of baking soda toothpaste in a mild flavour. Start slowly with a few teeth at a time.",
+    "details": [
+      "Dual-ended toothbrush and rubber fingerbrush",
+      "Enzymatic toothpaste with baking soda, 70 g",
+      "Do not use human toothpaste on dogs",
+      "Rinse brushes after use and replace every 3 months"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-11T00:00:00.000Z"
+  },
+  {
+    "id": "230",
+    "slug": "nylabone-advanced-oral-care-liquid-tartar-remover-473-ml",
+    "name": "Nylabone Advanced Oral Care Liquid Tartar Remover, 473 mL",
+    "brand": "Nylabone",
+    "category": "grooming",
+    "price": 12.99,
+    "compareAt": null,
+    "stock": 25,
+    "image": "/img/products/nylabone-advanced-oral-care-liquid-tartar-remover-473-ml.jpg",
+    "images": [],
+    "description": "A water additive that helps reduce tartar build-up between brushings. It has no strong flavour, so most dogs drink as usual. Pair it with a dental chew for dogs who refuse the brush.",
+    "details": [
+      "Add to drinking water daily as directed",
+      "473 mL bottle",
+      "Alcohol free",
+      "For dogs over 12 weeks; keep fresh water available"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-11T01:00:00.000Z"
+  },
+  {
+    "id": "231",
+    "slug": "zymox-ear-cleanser-118-ml",
+    "name": "Zymox Ear Cleanser, 118 mL",
+    "brand": "Zymox",
+    "category": "grooming",
+    "price": 19.99,
+    "compareAt": null,
+    "stock": 20,
+    "image": "/img/products/zymox-ear-cleanser-118-ml.jpg",
+    "images": [],
+    "description": "An enzyme ear cleanser for regular upkeep of floppy ears, which trap moisture and wax more than upright ones. Squeeze a little into the ear, massage the base, and let your dog shake. Dachshund owners often keep a bottle on hand after swimming or baths.",
+    "details": [
+      "Enzyme formula, no alcohol",
+      "118 mL squeeze bottle with nozzle",
+      "Use once or twice a week",
+      "Do not use on a punctured eardrum; see a vet for red or smelly ears"
+    ],
+    "tags": [
+      "long-dog",
+      "gift"
+    ],
+    "createdAt": "2026-10-11T02:00:00.000Z"
+  },
+  {
+    "id": "232",
+    "slug": "dremel-pawcontrol-dog-nail-grinder",
+    "name": "Dremel PawControl Dog Nail Grinder",
+    "brand": "Dremel",
+    "category": "grooming",
+    "price": 79.99,
+    "compareAt": 89.99,
+    "stock": 14,
+    "image": "/img/products/dremel-pawcontrol-dog-nail-grinder.jpg",
+    "images": [],
+    "description": "A cordless rotary grinder that files nails down bit by bit instead of clipping, so there’s less risk of cutting the quick. It has a guard with openings for small, medium and large nails, plus a quiet low-speed setting for dogs who are new to it. Short, well-kept nails help low dogs walk comfortably.",
+    "details": [
+      "Rechargeable lithium-ion battery, USB charging",
+      "4 speed settings",
+      "Nail guard and 2 sanding bands included",
+      "Grind in short touches to avoid heat build-up"
+    ],
+    "tags": [
+      "new",
+      "long-dog"
+    ],
+    "createdAt": "2026-10-11T03:00:00.000Z"
+  },
+  {
+    "id": "233",
+    "slug": "furminator-deshedding-ultra-premium-shampoo-473-ml",
+    "name": "FURminator deShedding Ultra Premium Shampoo, 473 mL",
+    "brand": "FURminator",
+    "category": "grooming",
+    "price": 19.99,
+    "compareAt": null,
+    "stock": 24,
+    "image": "/img/products/furminator-deshedding-ultra-premium-shampoo-473-ml.jpg",
+    "images": [],
+    "description": "A shampoo made to loosen undercoat during bath time so more of it comes out in the tub instead of on the sofa. It works best followed by a good brush-out once your dog is dry. Contains omega fatty acids to keep the skin from drying out.",
+    "details": [
+      "Omega-3 and omega-6 fatty acids",
+      "Paraben and dye free",
+      "473 mL bottle",
+      "For dogs over 6 weeks; avoid the eyes"
+    ],
+    "tags": [
+      "gift"
+    ],
+    "createdAt": "2026-10-11T04:00:00.000Z"
+  },
+  {
+    "id": "234",
+    "slug": "kong-zoomgroom-brush",
+    "name": "KONG ZoomGroom Brush",
+    "brand": "KONG",
+    "category": "grooming",
+    "price": 12.99,
+    "compareAt": null,
+    "stock": 36,
+    "image": "/img/products/kong-zoomgroom-brush.jpg",
+    "images": [],
+    "description": "A soft rubber curry brush with finger-like nubs that grab loose hair and give a nice massage at the same time. Most dogs love it, which makes it a good first brush. It works dry for daily shedding or wet in the bath to spread shampoo.",
+    "details": [
+      "Soft natural rubber",
+      "Use wet or dry",
+      "Rinse clean under the tap",
+      "Best for short coats"
+    ],
+    "tags": [
+      "best",
+      "gift"
+    ],
+    "createdAt": "2026-10-11T05:00:00.000Z"
+  },
+  {
+    "id": "235",
+    "slug": "natural-dog-company-paw-soother-balm-59-ml",
+    "name": "Natural Dog Company Paw Soother Balm, 59 mL",
+    "brand": "Natural Dog Company",
+    "category": "grooming",
+    "price": 16.99,
+    "compareAt": null,
+    "stock": 22,
+    "image": "/img/products/natural-dog-company-paw-soother-balm-59-ml.jpg",
+    "images": [],
+    "description": "A plant-based balm for dry, cracked paw pads and rough elbows. It soaks in fairly quickly and is safe if your dog licks a little off. Useful in winter, when salted sidewalks and dry indoor air are hard on feet.",
+    "details": [
+      "Shea butter, coconut oil and plant oils",
+      "59 mL tin",
+      "Apply 2 to 3 times a day",
+      "Lick safe; for external use"
+    ],
+    "tags": [
+      "new",
+      "gift"
+    ],
+    "createdAt": "2026-10-11T06:00:00.000Z"
+  },
+  {
+    "id": "236",
+    "slug": "bodhi-dog-waterless-dry-shampoo-236-ml",
+    "name": "Bodhi Dog Waterless Dry Shampoo, 236 mL",
+    "brand": "Bodhi Dog",
+    "category": "grooming",
+    "price": 15.99,
+    "compareAt": null,
+    "stock": 26,
+    "image": "/img/products/bodhi-dog-waterless-dry-shampoo-236-ml.jpg",
+    "images": [],
+    "description": "A spray-on dry shampoo for freshening up between baths. Mist it on, rub it in with a towel and brush through, and the coat smells clean without getting soaked. Handy for dogs who hate the tub or for quick clean-ups on the road.",
+    "details": [
+      "Spray bottle, 236 mL",
+      "Plant-based, paraben free",
+      "No rinsing needed",
+      "Avoid spraying near the eyes and nose"
+    ],
+    "tags": [
+      "new",
+      "gift"
+    ],
+    "createdAt": "2026-10-11T07:00:00.000Z"
   }
 ]

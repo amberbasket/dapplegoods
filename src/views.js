@@ -233,7 +233,7 @@ function home() {
       <div class="hero-art">
         <img src="${esc(brandImage('hero'))}" alt="A dapple dachshund on a sherpa blanket with a rope toy">
         <span class="sticker s1">${ICON.paw} Long-dog<br>approved</span>
-        <span class="sticker s2">60+ goods<br>for good dogs</span>
+        <span class="sticker s2">200+ goods<br>for good dogs</span>
       </div>
     </div>
   </section>
@@ -352,8 +352,12 @@ function listing({ title, kicker, blurb, items, active, query, basePath, showCat
   if (query.instock) list = list.filter((p) => p.stock > 0);
   if (query.sale) list = list.filter((p) => p.compareAt && p.compareAt > p.price);
   list.sort(SORTS[sort][1]);
+  const PER_PAGE = 48;
+  const pages = Math.max(1, Math.ceil(list.length / PER_PAGE));
+  const page = Math.min(pages, Math.max(1, parseInt(query.page, 10) || 1));
+  const shown = list.slice((page - 1) * PER_PAGE, page * PER_PAGE);
   const qs = (patch) => {
-    const q = { ...query, ...patch };
+    const q = { ...query, page: '', ...patch };
     const s = Object.entries(q).filter(([, v]) => v).map(([k, v]) => `${k}=${encodeURIComponent(v)}`).join('&');
     return `${basePath}${s ? '?' + s : ''}`;
   };
@@ -382,17 +386,18 @@ function listing({ title, kicker, blurb, items, active, query, basePath, showCat
         </div>` : ''}
         <div class="filter-group"><h4>Price</h4>${prices.map(([v, l]) => `<a href="${qs({ max: v || '' })}" class="${maxPrice === v ? 'on' : ''}">${l}</a>`).join('')}</div>
         <div class="filter-group"><h4>Show</h4><a href="${qs({ instock: query.instock ? '' : '1' })}" class="${query.instock ? 'on' : ''}">In stock only</a><a href="${qs({ sale: query.sale ? '' : '1' })}" class="${query.sale ? 'on' : ''}">On sale</a></div>
-        ${brands.length > 1 ? `<div class="filter-group"><h4>Brand</h4><a href="${qs({ brand: '' })}" class="${!brandQ ? 'on' : ''}">All brands</a>${brands.map(([s, n]) => `<a href="${qs({ brand: s })}" class="${brandQ === s ? 'on' : ''}">${esc(n)}</a>`).join('')}</div>` : ''}
+        ${brands.length > 1 ? `<div class="filter-group brand-filter"><h4>Brand</h4><a href="${qs({ brand: '' })}" class="${!brandQ ? 'on' : ''}">All brands</a>${brands.map(([s, n]) => `<a href="${qs({ brand: s })}" class="${brandQ === s ? 'on' : ''}">${esc(n)}</a>`).join('')}</div>` : ''}
       </aside>
       <div>
         <div class="toolbar">
           <span>${list.length} item${list.length === 1 ? '' : 's'}</span>
           <form method="get" action="${basePath}">
-            ${Object.entries(query).filter(([k, v]) => k !== 'sort' && v).map(([k, v]) => `<input type="hidden" name="${esc(k)}" value="${esc(v)}">`).join('')}
+            ${Object.entries(query).filter(([k, v]) => k !== 'sort' && k !== 'page' && v).map(([k, v]) => `<input type="hidden" name="${esc(k)}" value="${esc(v)}">`).join('')}
             <label>Sort <select name="sort" onchange="this.form.submit()">${Object.entries(SORTS).map(([k, [l]]) => `<option value="${k}" ${k === sort ? 'selected' : ''}>${l}</option>`).join('')}</select></label>
           </form>
         </div>
-        ${list.length ? `<div class="grid grid-products">${list.map(productCard).join('')}</div>` : '<p class="empty">Nothing matches those filters yet. Try clearing one.</p>'}
+        ${list.length ? `<div class="grid grid-products">${shown.map(productCard).join('')}</div>` : '<p class="empty">Nothing matches those filters yet. Try clearing one.</p>'}
+        ${pages > 1 ? `<nav class="pager" aria-label="Pages">${page > 1 ? `<a href="${qs({ page: page - 1 > 1 ? page - 1 : '' })}" rel="prev">← Previous</a>` : ''}${Array.from({ length: pages }, (_, i) => i + 1).map((n) => n === page ? `<span class="on" aria-current="page">${n}</span>` : `<a href="${qs({ page: n > 1 ? n : '' })}">${n}</a>`).join('')}${page < pages ? `<a href="${qs({ page: page + 1 })}" rel="next">Next →</a>` : ''}</nav>` : ''}
       </div>
     </div>
   </section>`,

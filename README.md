@@ -28,7 +28,7 @@ npm run dev            # http://localhost:3000, admin password "dapple"
 
 - Home page: hero, category circles, Best Sellers, Made for Long Dogs band, Dapple Goods Originals feature,
   New Arrivals, treats feature, Toy Box, Shop by Brand, Howliday Gifts, Our Story, journal, newsletter, trust bar, footer
-- 60 products in 7 departments: Toys, Treats & Chews, Walk, Beds & Home, Apparel, Grooming, Travel & Outdoors.
+- 236 products from 100+ brands in 7 departments: Toys, Treats & Chews, Walk, Beds & Home, Apparel, Grooming, Travel & Outdoors.
   46 are brands PetSmart and Bosley's carry (KONG, Chuckit!, Benebone, Nylabone, Greenies, Zuke's, PetSafe, Ruffwear,
   Kurgo, FURminator, Earth Rated and more) and 14 are **Dapple Goods Originals**, our own line in dapple colours.
 - Collections: New, Best Sellers, Made for Long Dogs, Dapple Goods Originals, Howliday Gifts, Gifts Under $25
@@ -59,7 +59,7 @@ npm run dev            # http://localhost:3000, admin password "dapple"
 
 ## Editing the catalog
 
-Edit products in `/admin`, or edit `scripts/catalog.js` and run `npm run seed:build` to rewrite `seed/products.json`.
+Edit products in `/admin`, or edit `scripts/catalog.js` and run `npm run seed:build` to rewrite `seed/products.json`. The October 2026 additions live in `scripts/catalog-extra-*.js`; add new products at the end so existing ids stay the same.
 On the next deploy, products you haven't edited in /admin refresh from the seed. `npm run seed:reset` goes back to the seed list.
 Categories and collections are defined in `src/store.js`.
 

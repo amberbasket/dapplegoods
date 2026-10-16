@@ -2,7 +2,7 @@
 // Each entry: [brand, name, category, price, compareAt|null, stock, tags, description, details, photo subject]
 // Descriptions are our own words. Photos are generated examples (no brand logos); swap in
 // supplier photos in /admin once you buy from each distributor.
-module.exports = [
+const base = [
   // ---------- Toys ----------
   ['KONG', 'KONG Classic Dog Toy', 'toys', 15.99, null, 40, ['best'],
     'The red rubber chew that’s been in toy boxes for decades. It bounces in odd directions for fetch, and the hollow middle takes peanut butter, kibble or a smear of pumpkin, so it doubles as a slow treat puzzle. Freeze it stuffed for a longer-lasting chew.',
@@ -257,3 +257,15 @@ module.exports = [
     ['Magnetic one-hand opening', 'Built-in poop bag dispenser', 'Clip or belt loop', 'Wipe clean liner'],
     'a canvas dog treat training pouch in chocolate brown with a brass clip and small pocket'],
 ];
+
+// Added October 2026: the wider PetSmart / Bosley's range. New rows go at the end of
+// this list so existing product ids never change.
+const extra = [
+  ...require('./catalog-extra-toys'),
+  ...require('./catalog-extra-treats'),
+  ...require('./catalog-extra-walktravel'),
+  ...require('./catalog-extra-homeapparel'),
+  ...require('./catalog-extra-grooming'),
+].map((row) => (row[0] === 'Dapple Goods' && !row[6].includes('house') ? Object.assign([...row], { 6: [...row[6], 'house'] }) : row));
+
+module.exports = [...base, ...extra];
