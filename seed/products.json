@@ -862,6 +862,7 @@
     "compareAt": null,
     "stock": 15,
     "image": "/img/products/k-h-self-warming-pet-pad.jpg",
+    "draft": true,
     "images": [],
     "description": "A layer inside reflects your dog’s own body heat back to them, so this pad feels warm with no plug and no electricity. Ideal for crates, cars and chilly floors.",
     "details": [
@@ -2836,6 +2837,7 @@
     "compareAt": null,
     "stock": 25,
     "image": "/img/products/now-fresh-grain-free-crunchy-treats-turkey.jpg",
+    "draft": true,
     "images": [],
     "description": "Crunchy turkey treats from Petcurean, the Canadian maker based in BC. They’re grain-free and sized small enough to share easily.",
     "details": [
@@ -3843,6 +3845,7 @@
     "compareAt": null,
     "stock": 15,
     "image": "/img/products/outward-hound-pupboost-car-booster-seat.jpg",
+    "draft": true,
     "images": [],
     "description": "A raised car seat that lets small dogs see out the window, which can help with car anxiety. It straps to the headrest and has a short tether for clipping to a harness, so it keeps short-legged dogs from scrambling around.",
     "details": [
@@ -3866,6 +3869,7 @@
     "compareAt": null,
     "stock": 10,
     "image": "/img/products/gen7pets-commuter-wheeled-pet-carrier-small.jpg",
+    "draft": true,
     "images": [],
     "description": "A wheeled carrier with a pull handle that also works as a car seat. Mesh windows on the sides give good airflow and an easy view for your dog.",
     "details": [
@@ -4138,6 +4142,7 @@
     "compareAt": null,
     "stock": 30,
     "image": "/img/products/bergan-stainless-steel-double-diner-small.jpg",
+    "draft": true,
     "images": [],
     "description": "Two stainless steel bowls set in a plastic tray that keeps them together and stops them from sliding. The bowls lift out for washing, and the tray catches spills.",
     "details": [
@@ -4849,6 +4854,7 @@
     "compareAt": null,
     "stock": 26,
     "image": "/img/products/fashion-pet-classic-cable-knit-sweater.jpg",
+    "draft": true,
     "images": [],
     "description": "A simple cable knit sweater at a good price. It adds a little warmth for small or short-coated dogs indoors and on short walks.",
     "details": [
@@ -4872,6 +4878,7 @@
     "compareAt": null,
     "stock": 30,
     "image": "/img/products/fashion-pet-holiday-fair-isle-sweater.jpg",
+    "draft": true,
     "images": [],
     "description": "A Fair Isle knit sweater with snowflakes and reindeer, made for holiday photos and family visits. It adds light warmth for indoor wear.",
     "details": [
@@ -5012,6 +5019,7 @@
     "compareAt": null,
     "stock": 40,
     "image": "/img/products/burts-bees-multipurpose-grooming-wipes-50-count.jpg",
+    "draft": true,
     "images": [],
     "description": "Soft pre-moistened wipes for muddy paws, a grubby face or a quick freshen-up between baths. They’re made with honey and chamomile and are thick enough that one wipe usually does a set of paws. Handy for low-slung dogs whose bellies collect everything on a walk.",
     "details": [
@@ -5081,6 +5089,7 @@
     "compareAt": 29.99,
     "stock": 32,
     "image": "/img/products/hertzko-self-cleaning-slicker-brush.jpg",
+    "draft": true,
     "images": [],
     "description": "A slicker brush with fine bent wire bristles that pull out loose undercoat and small tangles. Press the button on the back and the bristles retract, so the fur slides right off in one sheet. Suits wire-haired and long-haired coats alike.",
     "details": [
@@ -5338,6 +5347,7 @@
     "compareAt": null,
     "stock": 26,
     "image": "/img/products/bodhi-dog-waterless-dry-shampoo-236-ml.jpg",
+    "draft": true,
     "images": [],
     "description": "A spray-on dry shampoo for freshening up between baths. Mist it on, rub it in with a towel and brush through, and the coat smells clean without getting soaked. Handy for dogs who hate the tub or for quick clean-ups on the road.",
     "details": [

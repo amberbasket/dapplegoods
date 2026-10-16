@@ -619,3 +619,7 @@ h1 { line-height: 1; }
 .pager a, .pager span { min-width: 44px; padding: 10px 16px; border-radius: 999px; border: 2px solid var(--ink); text-align: center; text-decoration: none; color: var(--ink); font-weight: 700; }
 .pager a:hover { background: var(--ochre); }
 .pager .on { background: var(--ink); color: var(--bone); }
+
+/* Real product packshots are shot on white: show them whole on a white tile */
+.card-img, .pdp-main { background: #fff; }
+.card-img img, .pdp-main img { object-fit: contain; padding: 6%; box-sizing: border-box; }

@@ -17,6 +17,8 @@ const products = catalog.map(([brand, name, category, price, compareAt, stock, t
     compareAt,
     stock,
     image: `/img/products/${slug}.jpg`,
+    // No real photo yet: keep it as a draft (visible in /admin only) until one is added.
+    ...(fs.existsSync(path.join(__dirname, '..', 'public', 'img', 'products', `${slug}.jpg`)) ? {} : { draft: true }),
     images: [],
     description,
     details,

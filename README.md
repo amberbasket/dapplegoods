@@ -49,10 +49,12 @@ npm run dev            # http://localhost:3000, admin password "dapple"
 
 1. **Suppliers and prices.** Prices are typical Canadian retail, set by us. Branded items need a wholesale account
    with each brand or a Canadian pet distributor; confirm costs, then adjust prices and stock in /admin.
-2. **Photos.** All product and lifestyle photos are AI-generated examples with no brand logos
-   (`public/img/products/`, `public/img/brand/`; originals listed in `seed/photo-urls.json`). Once you have
-   distributor accounts, upload their official product photos in /admin.
-3. **Dapple Goods Originals.** The 14 house products (Frank the Dapple plush, dapple collar and leash, burrow bed,
+2. **Photos.** Branded products use the manufacturers' real product photos, taken from the brands' own sites and
+   PetSmart (sources in `seed/photo-sources.json`). Brands normally give stockists official image packs, so swap
+   those in through /admin once you have distributor accounts. Products with no real photo yet are saved as
+   drafts (shown only in /admin). The Dapple Goods Originals and homepage lifestyle images are still
+   AI-generated placeholders (`seed/photo-urls.json`) until you have real photos of your own.
+3. **Dapple Goods Originals.** The 17 house products (Frank the Dapple plush, dapple collar and leash, burrow bed,
    sweater, bandana and so on) need a maker. Until you have one, mark them Draft in /admin or take pre-orders.
 4. **Brand names** are used only to say what the product is. Don't use brand logos without each brand's permission.
 5. Set `ORDER_EMAIL`, `MAIL_FROM` and a domain, and verify the domain in Resend.
